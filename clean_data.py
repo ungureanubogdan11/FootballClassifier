@@ -4,6 +4,9 @@ input_file = "players_22.csv"
 train_file = "train.csv"
 test_file = "test.csv"
 
+# cleans data from players_22.csv and keeps only stats and position
+# creates training data and test data
+
 positions_by_group = {
     "goalkeeper": ["GK"],
     "defender": ["CB", "LB", "RB", "LWB", "RWB"],
