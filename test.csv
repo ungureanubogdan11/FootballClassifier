@@ -1,0 +1,1813 @@
+name,club,nationality,position,pace,shooting,dribbling,passing,defending,physical
+D. Barlaser,Rotherham United,England,midfielder,53.0,60.0,67.0,69.0,64.0,68.0
+T. Ream,Fulham,United States,defender,57.0,43.0,68.0,67.0,70.0,69.0
+B. Smeets,Sparta Rotterdam,Netherlands,midfielder,64.0,63.0,66.0,70.0,57.0,76.0
+E. Schelotto,Racing Club,Italy,defender,61.0,60.0,65.0,64.0,69.0,70.0
+A. Al Amri,Al Nassr,Saudi Arabia,defender,71.0,28.0,45.0,47.0,69.0,83.0
+Raúl,SC Braga,Brazil,defender,52.0,54.0,56.0,58.0,75.0,79.0
+C. Sepúlveda,CD Huachipato,Chile,midfielder,65.0,59.0,65.0,62.0,61.0,75.0
+G. Carrillo,Elche CF,Argentina,attacker,46.0,74.0,70.0,54.0,39.0,72.0
+A. Atouchi,Abha Club,Morocco,defender,59.0,37.0,40.0,40.0,69.0,71.0
+D. van Kaam,FC Groningen,Netherlands,midfielder,64.0,56.0,67.0,64.0,65.0,60.0
+S. Findlay,Philadelphia Union,Scotland,defender,57.0,41.0,54.0,56.0,69.0,72.0
+D. Avramovski,Yukatel Kayserispor,North Macedonia,midfielder,59.0,66.0,69.0,67.0,39.0,64.0
+G. Burke,Shamrock Rovers,Republic of Ireland,attacker,61.0,67.0,68.0,64.0,26.0,60.0
+M. Mehlem,SV Darmstadt 98,Germany,midfielder,75.0,59.0,75.0,66.0,49.0,60.0
+L. Giannetti,Vélez Sarsfield,Argentina,defender,71.0,34.0,56.0,55.0,76.0,77.0
+P. Mpanzu,Luton Town,Congo DR,midfielder,79.0,62.0,72.0,64.0,68.0,80.0
+L. Freeman,Sheffield United,England,midfielder,69.0,66.0,73.0,71.0,51.0,62.0
+R. Tunnicliffe,Portsmouth,England,midfielder,68.0,60.0,65.0,65.0,64.0,71.0
+Fredy,Antalyaspor,Angola,midfielder,87.0,65.0,74.0,67.0,58.0,60.0
+L. Öztunalı,1. FC Union Berlin,Germany,midfielder,81.0,68.0,74.0,67.0,48.0,68.0
+L. Fejsa,Al Ahli,Serbia,midfielder,52.0,57.0,65.0,63.0,76.0,80.0
+L. Maina,Hannover 96,Germany,midfielder,94.0,56.0,73.0,63.0,25.0,49.0
+L. Barrios,Defensa y Justicia,Paraguay,attacker,56.0,71.0,66.0,62.0,42.0,70.0
+H. Calcaterra,Club Sporting Cristal,Peru,midfielder,66.0,58.0,70.0,71.0,60.0,63.0
+V. Malcorra,Club Atlético Lanús,Argentina,midfielder,75.0,65.0,75.0,73.0,59.0,71.0
+Adrián Maideira,Juventude,Brazil,midfielder,76.0,69.0,68.0,61.0,33.0,54.0
+A. Ciss,Amiens SC,Senegal,midfielder,80.0,59.0,68.0,61.0,54.0,73.0
+A. Walkes,Atlanta United,England,defender,62.0,46.0,59.0,55.0,66.0,76.0
+L. Abecasis,San Jose Earthquakes,Argentina,defender,82.0,50.0,67.0,63.0,64.0,76.0
+L. Shaw,Manchester United,England,defender,79.0,54.0,80.0,79.0,81.0,80.0
+C. Budescu,FCSB (Steaua),Romania,midfielder,60.0,73.0,74.0,76.0,42.0,63.0
+S. Ingolitsch,SK Sturm Graz,Austria,defender,76.0,41.0,65.0,59.0,65.0,67.0
+D. Mertens,Napoli,Belgium,attacker,85.0,82.0,88.0,80.0,34.0,50.0
+W. Dammers,FC Groningen,Netherlands,defender,62.0,59.0,61.0,51.0,68.0,73.0
+Fabiano Souza,SC Braga,Brazil,defender,80.0,34.0,60.0,46.0,61.0,65.0
+C. Thompson,Wycombe Wanderers,England,midfielder,74.0,55.0,68.0,60.0,65.0,77.0
+H. Mörschel,SG Dynamo Dresden,Dominican Republic,midfielder,68.0,65.0,68.0,63.0,37.0,61.0
+H. Pernía,Deportivo La Guaira FC,Venezuela,defender,55.0,25.0,37.0,47.0,68.0,64.0
+J. Maddison,Leicester City,England,midfielder,75.0,78.0,84.0,84.0,54.0,60.0
+Son Jun Ho,Shandong Taishan,Korea Republic,midfielder,61.0,62.0,65.0,68.0,65.0,73.0
+N. Casale,Hellas Verona,Italy,defender,63.0,43.0,59.0,57.0,65.0,71.0
+G. Lloris,AJ Auxerre,France,defender,45.0,36.0,55.0,50.0,69.0,72.0
+M. Roberts,Birmingham City,England,defender,57.0,24.0,44.0,41.0,70.0,72.0
+Bobô,Sydney FC,Brazil,attacker,52.0,71.0,66.0,63.0,29.0,71.0
+E. Lira,Club Universidad Nacional,Mexico,midfielder,75.0,57.0,66.0,66.0,60.0,61.0
+A. Vega,Club Deportivo Guadalajara,Mexico,attacker,78.0,74.0,77.0,72.0,30.0,72.0
+Y. Stark,SG Dynamo Dresden,Germany,midfielder,54.0,64.0,64.0,64.0,67.0,78.0
+Marcão,Galatasaray SK,Brazil,defender,64.0,32.0,66.0,57.0,76.0,84.0
+S. Walukiewicz,Cagliari,Poland,defender,61.0,38.0,59.0,49.0,72.0,73.0
+E. Palmer-Brown,ESTAC Troyes,United States,defender,67.0,30.0,51.0,50.0,68.0,75.0
+G. Magnani,Hellas Verona,Italy,defender,75.0,35.0,52.0,47.0,76.0,74.0
+R. Raveloson,LA Galaxy,Madagascar,midfielder,73.0,62.0,70.0,66.0,67.0,71.0
+M. Bostwick,Burton Albion,England,defender,33.0,57.0,45.0,48.0,63.0,85.0
+F. Domínguez,Racing Club,Uruguay,defender,83.0,55.0,71.0,63.0,58.0,66.0
+G. Diangana,West Bromwich Albion,England,attacker,83.0,62.0,76.0,68.0,27.0,57.0
+B. Aouacheria,Gil Vicente FC,France,midfielder,72.0,64.0,72.0,62.0,38.0,67.0
+F. Makaringe,Orlando Pirates,South Africa,midfielder,74.0,61.0,69.0,69.0,46.0,66.0
+Meseguer,CD Mirandés,Spain,midfielder,65.0,52.0,66.0,67.0,63.0,67.0
+C. Lykogiannis,Cagliari,Greece,defender,65.0,68.0,66.0,67.0,65.0,66.0
+J. González,Club Necaxa,Paraguay,defender,79.0,43.0,57.0,58.0,70.0,73.0
+T. Deeney,Birmingham City,England,attacker,50.0,76.0,70.0,65.0,37.0,79.0
+A. La Mantia,Empoli,Italy,attacker,54.0,67.0,61.0,35.0,30.0,79.0
+Santi da Bruma,Bahia,Brazil,attacker,86.0,70.0,76.0,73.0,37.0,58.0
+Han Kyo Won,Jeonbuk Hyundai Motors,Korea Republic,midfielder,89.0,68.0,72.0,64.0,57.0,69.0
+L. De Silvestri,Bologna,Italy,defender,73.0,67.0,73.0,71.0,73.0,75.0
+D. Nikolaou,Spezia,Greece,defender,56.0,37.0,42.0,45.0,69.0,72.0
+D. Janošek,FC Viktoria Plzeň,Czech Republic,midfielder,72.0,62.0,68.0,63.0,62.0,69.0
+M. Ellingsen,Molde FK,Norway,midfielder,61.0,60.0,67.0,65.0,64.0,71.0
+M. Gibbs-White,Sheffield United,England,midfielder,70.0,61.0,72.0,71.0,56.0,64.0
+A. Lomovitskiy,Spartak Moskva,Russia,midfielder,78.0,55.0,70.0,61.0,34.0,50.0
+Y. Asano,Sanfrecce Hiroshima,Japan,attacker,75.0,68.0,67.0,62.0,34.0,72.0
+L. Czyborra,DSC Arminia Bielefeld,Germany,defender,85.0,48.0,69.0,60.0,61.0,66.0
+Dani Ramírez,Lech Poznań,Spain,midfielder,68.0,65.0,71.0,68.0,36.0,56.0
+G. Rojas,San Lorenzo de Almagro,Argentina,defender,80.0,44.0,62.0,64.0,62.0,67.0
+P. Strand,SK Brann,Norway,midfielder,84.0,62.0,69.0,64.0,60.0,70.0
+D. Kadah,Altay SK,Turkey,attacker,52.0,70.0,70.0,67.0,31.0,73.0
+E. Nketiah,Arsenal,England,attacker,83.0,72.0,74.0,55.0,24.0,61.0
+N. Jambor,Moreirense FC,Croatia,midfielder,65.0,52.0,67.0,65.0,63.0,69.0
+G. Pereiro,Cagliari,Uruguay,midfielder,70.0,73.0,77.0,70.0,40.0,67.0
+Enzo Chissano,Palmeiras,Brazil,defender,79.0,62.0,70.0,71.0,74.0,69.0
+Estevão Baldeiro,Flamengo,Brazil,defender,75.0,56.0,64.0,60.0,76.0,75.0
+Joni Montiel,Real Oviedo,Spain,midfielder,72.0,62.0,71.0,66.0,50.0,54.0
+Nico Melamed,RCD Espanyol de Barcelona,Spain,midfielder,83.0,68.0,79.0,69.0,40.0,57.0
+L. Holtby,Holstein Kiel,Germany,midfielder,67.0,65.0,74.0,73.0,54.0,66.0
+T. Beermann,VfL Osnabrück,Germany,defender,40.0,39.0,43.0,48.0,71.0,75.0
+A. Kačaniklić,Hajduk Split,Sweden,attacker,75.0,67.0,70.0,67.0,41.0,58.0
+M. Honsak,SV Darmstadt 98,Austria,midfielder,86.0,65.0,68.0,62.0,50.0,71.0
+G. Prömel,1. FC Union Berlin,Germany,midfielder,65.0,64.0,70.0,66.0,71.0,77.0
+O. Mbaizo,Philadelphia Union,Cameroon,defender,80.0,36.0,67.0,57.0,62.0,65.0
+E. Godoy,Vancouver Whitecaps FC,Argentina,defender,56.0,31.0,50.0,53.0,67.0,77.0
+J. Mlakar,Hajduk Split,Slovenia,attacker,71.0,69.0,64.0,52.0,25.0,63.0
+S. Dembélé,Peterborough United,Scotland,attacker,87.0,67.0,73.0,62.0,32.0,55.0
+J. Bednarek,Southampton,Poland,defender,52.0,22.0,55.0,53.0,78.0,77.0
+Clésio,Clube Sport Marítimo,Mozambique,attacker,77.0,56.0,71.0,62.0,57.0,62.0
+Philipe Sampaio,En Avant de Guingamp,Brazil,defender,31.0,37.0,46.0,47.0,71.0,82.0
+E. Dennis,Watford,Nigeria,attacker,88.0,72.0,76.0,60.0,38.0,68.0
+Nicolás Formido,Internacional,Brazil,midfielder,68.0,65.0,74.0,75.0,34.0,67.0
+A. Najar,D.C. United,Honduras,defender,73.0,62.0,72.0,67.0,70.0,63.0
+G. Kilota,Seraing,France,defender,76.0,57.0,68.0,60.0,62.0,62.0
+B. Hübner,TSG Hoffenheim,Germany,defender,38.0,31.0,58.0,54.0,78.0,67.0
+A. Sørloth,Real Sociedad,Norway,attacker,80.0,74.0,70.0,66.0,36.0,83.0
+R. Cardozo,Club The Strongest,Bolivia,midfielder,74.0,63.0,68.0,68.0,55.0,53.0
+Y. Yazıcı,LOSC Lille,Turkey,attacker,67.0,76.0,80.0,79.0,47.0,72.0
+C. Zimmermann,Norwich City,Germany,defender,47.0,33.0,43.0,40.0,72.0,80.0
+G. Galoppo,Club Atlético Banfield,Argentina,midfielder,68.0,70.0,69.0,69.0,61.0,68.0
+T. Dingomé,ESTAC Troyes,France,midfielder,63.0,64.0,74.0,72.0,66.0,68.0
+M. Gabbiadini,U.C. Sampdoria,Italy,attacker,67.0,79.0,76.0,71.0,26.0,62.0
+N. Uysal,Beşiktaş JK,Turkey,midfielder,65.0,56.0,64.0,62.0,69.0,75.0
+M. Ekpiteta,Blackpool,England,defender,69.0,28.0,51.0,46.0,65.0,74.0
+N. Radonjić,SL Benfica,Serbia,midfielder,88.0,71.0,75.0,71.0,30.0,58.0
+G. Moncini,Benevento,Italy,attacker,74.0,69.0,67.0,56.0,37.0,65.0
+Kelivelson,Ceará Sporting Club,Brazil,midfielder,70.0,47.0,62.0,66.0,72.0,74.0
+Aitor,Panathinaikos FC,Spain,attacker,80.0,67.0,71.0,67.0,28.0,54.0
+Clerc,Levante Unión Deportiva,Spain,defender,87.0,58.0,76.0,71.0,70.0,73.0
+D. Milošević,Antalyaspor,Bosnia and Herzegovina,midfielder,66.0,67.0,73.0,70.0,42.0,66.0
+J. Bennett,Wigan Athletic,England,defender,69.0,44.0,67.0,65.0,69.0,70.0
+J. Kurtić,PAOK,Slovenia,midfielder,60.0,73.0,71.0,73.0,73.0,75.0
+J. Gastien,Clermont Foot 63,France,midfielder,56.0,63.0,71.0,65.0,70.0,78.0
+Jaume Grau,CA Osasuna,Spain,midfielder,61.0,55.0,65.0,68.0,66.0,62.0
+V. Lazaro,SL Benfica,Austria,midfielder,78.0,69.0,78.0,75.0,69.0,66.0
+W. Endo,VfB Stuttgart,Japan,midfielder,66.0,61.0,75.0,70.0,78.0,73.0
+Trincão,Wolverhampton Wanderers,Portugal,attacker,79.0,71.0,81.0,70.0,37.0,69.0
+G. Castellani,Unión La Calera,Argentina,midfielder,65.0,66.0,72.0,73.0,60.0,76.0
+Igor Rossi,Al Faisaly,Brazil,defender,41.0,30.0,53.0,54.0,72.0,83.0
+S. Kaya,Yeni Malatyaspor,Turkey,defender,59.0,38.0,56.0,56.0,67.0,73.0
+L. Spinazzola,Roma,Italy,defender,92.0,64.0,80.0,73.0,78.0,71.0
+J. López,San Jose Earthquakes,Mexico,midfielder,68.0,69.0,72.0,68.0,34.0,61.0
+J. Raitala,Minnesota United FC,Finland,defender,59.0,47.0,64.0,65.0,66.0,74.0
+J. Hernández,LA Galaxy,Mexico,attacker,68.0,76.0,75.0,63.0,31.0,66.0
+A. Bedoya,Philadelphia Union,United States,midfielder,63.0,65.0,72.0,71.0,67.0,74.0
+A. Pritchard,Sunderland,England,midfielder,66.0,68.0,72.0,71.0,46.0,47.0
+C. Fassnacht,BSC Young Boys,Switzerland,midfielder,82.0,70.0,74.0,69.0,37.0,71.0
+S. Strand,IF Elfsborg,Sweden,defender,85.0,31.0,63.0,55.0,60.0,66.0
+Z. Sanusi,FC Porto,Nigeria,defender,93.0,36.0,66.0,57.0,72.0,72.0
+A. Yiadom,Reading,Ghana,defender,80.0,53.0,71.0,62.0,68.0,75.0
+A. Taggart,Cerezo Osaka,Australia,attacker,83.0,70.0,70.0,62.0,38.0,69.0
+H. Al Moqahwi,Al Ahli,Saudi Arabia,midfielder,61.0,62.0,68.0,67.0,55.0,65.0
+W. Mendieta,Club Olimpia,Paraguay,midfielder,65.0,68.0,70.0,68.0,31.0,62.0
+Eltson Marques,Internacional,Brazil,defender,40.0,43.0,49.0,43.0,70.0,70.0
+Guilherme Parede,Club Atlético Talleres,Brazil,midfielder,72.0,70.0,72.0,67.0,46.0,63.0
+R. Strieder,PEC Zwolle,Germany,midfielder,38.0,41.0,64.0,64.0,65.0,64.0
+M. Davidson,St. Johnstone FC,Scotland,midfielder,53.0,58.0,66.0,61.0,63.0,81.0
+Marcelo,Real Madrid CF,Brazil,defender,73.0,72.0,87.0,80.0,75.0,71.0
+J. Jantscher,SK Sturm Graz,Austria,attacker,66.0,71.0,68.0,70.0,37.0,61.0
+Ilsinho,Philadelphia Union,Brazil,midfielder,55.0,64.0,76.0,66.0,53.0,61.0
+G. Donati,AC Monza,Italy,defender,69.0,42.0,66.0,61.0,72.0,76.0
+M. Miers,Club Atlético Aldosivi,Paraguay,defender,55.0,34.0,44.0,42.0,69.0,63.0
+B. Toma,KRC Genk,Switzerland,midfielder,67.0,63.0,72.0,66.0,63.0,69.0
+J. Evans,Leicester City,Northern Ireland,defender,52.0,32.0,60.0,61.0,83.0,77.0
+M. Hedges,FC Dallas,United States,defender,42.0,28.0,53.0,51.0,71.0,86.0
+Carles Gil,New England Revolution,Spain,midfielder,66.0,70.0,79.0,80.0,39.0,64.0
+Lucas Ahijado,Real Oviedo,Spain,defender,77.0,57.0,69.0,63.0,63.0,64.0
+M. Miranda,Gimnasia y Esgrima La Plata,Argentina,midfielder,69.0,59.0,68.0,66.0,56.0,53.0
+G. Taylor,Celtic,Scotland,defender,74.0,47.0,67.0,66.0,66.0,72.0
+M. Nelom,Willem II,Suriname,defender,70.0,56.0,66.0,62.0,60.0,61.0
+Viti Rozada,Real Oviedo,Spain,midfielder,85.0,60.0,67.0,59.0,45.0,59.0
+D. Hyam,Coventry City,Scotland,defender,50.0,32.0,57.0,53.0,70.0,72.0
+L. Balerdi,Olympique de Marseille,Argentina,defender,71.0,36.0,64.0,57.0,75.0,75.0
+P. Mako,Orlando Pirates,South Africa,defender,78.0,38.0,68.0,51.0,68.0,62.0
+N. Devlin,Livingston FC,Scotland,defender,84.0,50.0,63.0,54.0,61.0,79.0
+A. Bouhaddouz,MSV Duisburg,Morocco,attacker,60.0,67.0,64.0,56.0,23.0,75.0
+F. Stokkers,RKC Waalwijk,Netherlands,attacker,71.0,66.0,66.0,43.0,29.0,69.0
+B. Brobbey,RB Leipzig,Netherlands,attacker,83.0,71.0,68.0,54.0,30.0,81.0
+A. Herrera,San Lorenzo de Almagro,Argentina,defender,79.0,50.0,69.0,57.0,65.0,66.0
+M. Emreli,Legia Warszawa,Azerbaijan,attacker,77.0,67.0,69.0,50.0,21.0,66.0
+I. Shkurin,Dynamo Kyiv,Belarus,attacker,74.0,65.0,62.0,56.0,34.0,75.0
+M. Simon,FC Nantes,Nigeria,midfielder,92.0,70.0,79.0,66.0,34.0,65.0
+M. Svensson,Willem II,Sweden,attacker,81.0,59.0,69.0,60.0,31.0,48.0
+A. Doucouré,Everton,France,midfielder,70.0,76.0,76.0,72.0,77.0,81.0
+E. Reynoso,Minnesota United FC,Argentina,midfielder,66.0,65.0,79.0,78.0,57.0,67.0
+S. Ristovski,Dinamo Zagreb,North Macedonia,defender,80.0,61.0,70.0,67.0,71.0,78.0
+Ricardo Pereira,Leicester City,Portugal,defender,83.0,67.0,82.0,78.0,80.0,75.0
+L. Lerager,F.C. København,Denmark,midfielder,55.0,66.0,68.0,68.0,70.0,74.0
+C. Brittain,Barnsley,England,defender,80.0,51.0,69.0,60.0,65.0,63.0
+J. Intriago,Fútbol Club Juárez,Ecuador,midfielder,72.0,46.0,72.0,69.0,67.0,77.0
+J. Hochscheidt,FC Erzgebirge Aue,Germany,midfielder,72.0,68.0,70.0,69.0,57.0,72.0
+M. Mahi,FC Utrecht,Morocco,attacker,75.0,70.0,76.0,67.0,35.0,64.0
+Q. Moll,TSV 1860 München,Germany,midfielder,58.0,50.0,59.0,59.0,64.0,74.0
+Rubén Pérez,Panathinaikos FC,Spain,midfielder,49.0,65.0,66.0,70.0,74.0,74.0
+J. Torres,Club Atlético Sarmiento,Argentina,attacker,55.0,67.0,67.0,54.0,22.0,58.0
+J. Sabbatini,FC Lugano,Uruguay,midfielder,61.0,56.0,67.0,66.0,59.0,66.0
+E. Karaca,Aytemiz Alanyaspor,Turkey,midfielder,79.0,63.0,76.0,68.0,44.0,45.0
+K. Long,Burnley,Republic of Ireland,defender,51.0,35.0,56.0,50.0,71.0,71.0
+R. Orsolini,Bologna,Italy,midfielder,80.0,70.0,81.0,74.0,39.0,65.0
+S. Lammers,Eintracht Frankfurt,Netherlands,attacker,75.0,75.0,77.0,61.0,34.0,66.0
+Brenner,FC Cincinnati,Brazil,attacker,77.0,70.0,74.0,62.0,26.0,52.0
+Vagner,FC Sion,Cape Verde Islands,attacker,89.0,73.0,76.0,62.0,29.0,55.0
+J. Obi,US Salernitana 1919,Nigeria,midfielder,83.0,67.0,74.0,69.0,74.0,75.0
+A. Papadopoulos,Olympiacos CFP,Greece,defender,48.0,52.0,57.0,56.0,67.0,72.0
+M. Waghorn,Coventry City,England,attacker,65.0,71.0,63.0,68.0,33.0,76.0
+G. Letizia,Benevento,Italy,defender,88.0,56.0,69.0,61.0,66.0,74.0
+V. Burgoa,Godoy Cruz,Argentina,midfielder,78.0,55.0,72.0,59.0,54.0,60.0
+L. Desábato,Rosario Central,Argentina,midfielder,66.0,52.0,63.0,67.0,68.0,78.0
+Mateus Quaresma,FC Arouca,Brazil,defender,68.0,33.0,55.0,58.0,64.0,63.0
+Victor Bereitta,Clube Atlético Mineiro,Brazil,defender,66.0,45.0,54.0,61.0,70.0,61.0
+A. Besedin,Dynamo Kyiv,Ukraine,attacker,72.0,67.0,67.0,48.0,41.0,63.0
+J. Iglesias,Clermont Foot 63,Uruguay,midfielder,56.0,59.0,65.0,68.0,65.0,62.0
+M. Bird,Derby County,England,midfielder,68.0,54.0,68.0,67.0,65.0,61.0
+A. Costa,Club Atlético Independiente,Argentina,defender,70.0,28.0,61.0,56.0,66.0,70.0
+P. Papp,Universitatea Craiova,Romania,defender,54.0,50.0,51.0,57.0,66.0,71.0
+A. Pascanu,SD Ponferradina,Romania,defender,71.0,39.0,60.0,49.0,71.0,79.0
+I. Saavedra,Universidad Católica,Chile,midfielder,68.0,57.0,70.0,60.0,59.0,71.0
+B. Öztürk,Antalyaspor,Turkey,defender,61.0,30.0,46.0,43.0,68.0,67.0
+H. Kane,Tottenham Hotspur,England,attacker,70.0,91.0,83.0,83.0,47.0,83.0
+G. Honeyman,Hull City,England,midfielder,72.0,65.0,70.0,71.0,65.0,73.0
+L. Miranda,Club Deportes Tolima,Colombia,midfielder,77.0,57.0,68.0,57.0,27.0,56.0
+Fali,Cádiz CF,Spain,defender,55.0,53.0,59.0,66.0,74.0,87.0
+S. Grether,FC Luzern,Switzerland,defender,64.0,51.0,61.0,60.0,64.0,66.0
+S. Bjørshol,Viking FK,Norway,defender,76.0,27.0,61.0,55.0,60.0,71.0
+Y. Erdoğan,Kasimpaşa SK,Turkey,midfielder,90.0,68.0,75.0,65.0,59.0,66.0
+A. Faltsetas,BK Häcken,Sweden,midfielder,55.0,54.0,62.0,64.0,66.0,77.0
+M. Titsch Rivero,Hallescher FC,Germany,midfielder,61.0,49.0,65.0,62.0,62.0,71.0
+V. Salazar,Club Olimpia,Argentina,defender,87.0,48.0,69.0,57.0,64.0,70.0
+M. Leitsch,VfL Bochum 1848,Germany,defender,87.0,37.0,63.0,55.0,73.0,71.0
+O. Ergün,Atakaş Hatayspor,Turkey,midfielder,57.0,65.0,63.0,64.0,66.0,73.0
+V. Vasin,PFC CSKA Moscow,Russia,defender,67.0,41.0,46.0,58.0,72.0,74.0
+Juanma García,Burgos CF,Spain,attacker,80.0,68.0,67.0,61.0,27.0,48.0
+L. Vilsvik,Strømsgodset IF,Norway,defender,68.0,58.0,64.0,62.0,61.0,70.0
+C. Dieng,RZ Pellets Wolfsberger AC,Senegal,attacker,90.0,64.0,68.0,58.0,30.0,52.0
+L. Vangioni,Club Libertad,Argentina,defender,77.0,63.0,70.0,69.0,71.0,74.0
+G. Torje,FC Dinamo 1948 Bucureşti,Romania,attacker,72.0,65.0,69.0,64.0,35.0,53.0
+K. Miyoshi,Royal Antwerp FC,Japan,attacker,78.0,69.0,77.0,70.0,46.0,54.0
+Matheus Pereira,FC Barcelona,Brazil,midfielder,69.0,60.0,74.0,65.0,35.0,58.0
+Michildo Melo,Sport Club Corinthians Paulista,Brazil,midfielder,79.0,54.0,61.0,64.0,60.0,66.0
+M. Eisa,Milton Keynes Dons,Sudan,attacker,81.0,64.0,66.0,51.0,24.0,63.0
+N. Pasquini,Estudiantes de La Plata,Argentina,defender,77.0,59.0,63.0,72.0,66.0,71.0
+M. Yoshida,U.C. Sampdoria,Japan,defender,52.0,41.0,63.0,51.0,74.0,71.0
+B. Thompson,Millwall,England,midfielder,69.0,60.0,72.0,64.0,64.0,77.0
+R. Guerreiro,Borussia Dortmund,Portugal,defender,75.0,77.0,88.0,85.0,76.0,58.0
+A. Zorgane,Royal Charleroi S.C.,Algeria,midfielder,63.0,67.0,67.0,65.0,64.0,78.0
+A. Sarcevic,Bolton Wanderers,England,midfielder,63.0,63.0,67.0,64.0,59.0,70.0
+Hugo Duro,Valencia CF,Spain,attacker,72.0,69.0,71.0,44.0,29.0,58.0
+J. Angulo,Deportivo Cali,Colombia,defender,73.0,58.0,68.0,69.0,73.0,75.0
+R. Babel,Galatasaray SK,Netherlands,midfielder,77.0,79.0,77.0,71.0,39.0,75.0
+L. Ruiz,Estoril Praia,Colombia,attacker,71.0,70.0,70.0,57.0,23.0,63.0
+O. Merlo,Club Sporting Cristal,Argentina,defender,54.0,35.0,46.0,51.0,68.0,75.0
+A. De Bruyn,KAA Gent,Belgium,midfielder,73.0,68.0,73.0,62.0,34.0,56.0
+Frederico Venâncio,SD Eibar,Portugal,defender,59.0,33.0,56.0,51.0,73.0,68.0
+Ľ. Šatka,Lech Poznań,Slovakia,defender,62.0,29.0,53.0,54.0,69.0,68.0
+U. Đurđević,Real Sporting de Gijón,Montenegro,attacker,79.0,79.0,71.0,54.0,31.0,85.0
+S. Muwashar,Al Ahli,Saudi Arabia,midfielder,89.0,64.0,71.0,62.0,30.0,67.0
+Kim Seung Dae,Jeonbuk Hyundai Motors,Korea Republic,attacker,87.0,62.0,68.0,63.0,48.0,65.0
+Hedson Porfírio,Associação Chapecoense de Futebol,Brazil,attacker,77.0,57.0,68.0,72.0,36.0,49.0
+C. Amissi,Al Taawoun,Burundi,midfielder,74.0,67.0,68.0,64.0,64.0,73.0
+Y. Suzuki,Sint-Truidense VV,Japan,attacker,70.0,71.0,68.0,65.0,44.0,71.0
+T. Pukki,Norwich City,Finland,attacker,76.0,76.0,75.0,60.0,34.0,68.0
+C. Ngonge,FC Groningen,Belgium,midfielder,82.0,62.0,72.0,53.0,31.0,61.0
+K. Mavropanos,VfB Stuttgart,Greece,defender,77.0,33.0,49.0,49.0,74.0,78.0
+Mario González,SC Braga,Spain,attacker,72.0,73.0,74.0,62.0,22.0,64.0
+Pascoal Muscato,Santos,Brazil,midfielder,58.0,68.0,70.0,69.0,73.0,76.0
+J. Obrian,FC Dallas,Colombia,midfielder,88.0,63.0,67.0,59.0,19.0,66.0
+L. Fernández,Tigres U.A.N.L.,Uruguay,midfielder,74.0,72.0,74.0,72.0,41.0,63.0
+A. Al Sulayhim,Al Nassr,Saudi Arabia,midfielder,73.0,60.0,75.0,67.0,58.0,64.0
+João Gamboa,Estoril Praia,Portugal,midfielder,65.0,58.0,66.0,66.0,67.0,73.0
+K. Bare,RCD Espanyol de Barcelona,Albania,midfielder,75.0,61.0,74.0,70.0,73.0,77.0
+J. Augustin,FC Nantes,France,attacker,71.0,68.0,69.0,60.0,30.0,51.0
+A. Čolak,Malmö FF,Croatia,attacker,71.0,73.0,67.0,55.0,34.0,76.0
+T. Kádár,Tianjin Jinmen Tiger FC,Hungary,defender,69.0,34.0,62.0,66.0,74.0,82.0
+Eric García,FC Barcelona,Spain,defender,65.0,44.0,66.0,65.0,79.0,72.0
+D. Gosling,Watford,England,midfielder,50.0,68.0,68.0,71.0,70.0,67.0
+R. Izumi,Kashima Antlers,Japan,midfielder,74.0,61.0,67.0,62.0,55.0,70.0
+K. Sigþórsson,IFK Göteborg,Iceland,attacker,54.0,66.0,65.0,56.0,38.0,69.0
+R. Sawyers,Stoke City,Saint Kitts and Nevis,midfielder,69.0,60.0,73.0,70.0,61.0,70.0
+L. Amos,Queens Park Rangers,England,midfielder,58.0,51.0,66.0,65.0,63.0,62.0
+O. Omoijuanfo,Molde FK,Norway,attacker,75.0,71.0,68.0,61.0,44.0,74.0
+R. Sandoval,Universidad Técnica de Cajamarca,Peru,midfielder,77.0,66.0,70.0,62.0,23.0,59.0
+Paolinho Leima,Clube Atlético Mineiro,Brazil,defender,75.0,50.0,69.0,65.0,63.0,72.0
+W. Harding,Rotherham United,Jamaica,defender,75.0,40.0,60.0,54.0,66.0,78.0
+L. Paganini,Lecce,Italy,midfielder,75.0,56.0,72.0,69.0,54.0,66.0
+Ș. Vlădoiu,Universitatea Craiova,Romania,defender,87.0,35.0,60.0,55.0,62.0,69.0
+J. Beauguel,FC Viktoria Plzeň,France,attacker,68.0,72.0,68.0,52.0,31.0,79.0
+R. Giles,Cardiff City,England,defender,89.0,55.0,68.0,64.0,57.0,63.0
+D. Andrade,Deportivo Cali,Colombia,defender,77.0,45.0,70.0,57.0,64.0,70.0
+D. Grigore,Rapid București,Romania,defender,61.0,52.0,49.0,57.0,67.0,75.0
+M. Villanueva,Santa Clara,Venezuela,defender,65.0,40.0,61.0,59.0,70.0,80.0
+Nuno Lisareda,Sport Club Corinthians Paulista,Brazil,attacker,78.0,74.0,73.0,60.0,29.0,60.0
+U. Račić,Valencia CF,Serbia,midfielder,66.0,75.0,74.0,75.0,78.0,81.0
+Morales,Levante Unión Deportiva,Spain,attacker,86.0,82.0,85.0,75.0,52.0,68.0
+J. Leko,Charlton Athletic,England,attacker,87.0,61.0,68.0,55.0,24.0,58.0
+S. Gustafson,FC Utrecht,Sweden,midfielder,61.0,71.0,70.0,71.0,55.0,70.0
+G. Mensah,FC Girondins de Bordeaux,Ghana,defender,75.0,56.0,71.0,64.0,65.0,65.0
+A. Czerwiński,Lech Poznań,Poland,defender,82.0,42.0,64.0,61.0,61.0,70.0
+R. Renner,LASK Linz,Austria,midfielder,82.0,61.0,68.0,64.0,62.0,63.0
+C. Strandberg,Al Hazem,Sweden,attacker,82.0,73.0,63.0,53.0,25.0,79.0
+Carlos Mané,Yukatel Kayserispor,Portugal,attacker,88.0,68.0,78.0,65.0,41.0,47.0
+Rubens Freitosa,Club Athletico Paranaense,Brazil,midfielder,64.0,64.0,71.0,73.0,68.0,76.0
+J. Shackleton,Leeds United,England,midfielder,80.0,46.0,73.0,67.0,62.0,68.0
+J. Osorio,Toronto FC,Canada,midfielder,60.0,68.0,74.0,70.0,64.0,67.0
+J. Tavernier,Rangers FC,England,defender,83.0,71.0,75.0,74.0,72.0,78.0
+T. Kunimoto,Jeonbuk Hyundai Motors,Japan,midfielder,79.0,64.0,75.0,70.0,43.0,69.0
+G. Bong,Nottingham Forest,Cameroon,defender,58.0,41.0,65.0,66.0,70.0,65.0
+G. Burdisso,Club Atlético Lanús,Argentina,defender,45.0,43.0,53.0,54.0,70.0,78.0
+Gérson Noalha,Palmeiras,Brazil,attacker,76.0,76.0,75.0,58.0,31.0,68.0
+G. Imbula,Portimonense SC,Congo DR,midfielder,69.0,59.0,74.0,69.0,58.0,61.0
+K. Malong,Olympiacos CFP,Cameroon,midfielder,83.0,71.0,74.0,69.0,69.0,81.0
+S. Hoskins,Northampton Town,England,midfielder,86.0,59.0,67.0,60.0,48.0,66.0
+C. Doukouré,CD Leganés,Côte d'Ivoire,midfielder,65.0,62.0,65.0,65.0,71.0,75.0
+M. Mancienne,Burton Albion,England,midfielder,66.0,35.0,60.0,55.0,66.0,75.0
+Sergio Tejera,FC Cartagena,Spain,midfielder,69.0,70.0,69.0,69.0,67.0,74.0
+R. Métanire,Minnesota United FC,Madagascar,defender,76.0,31.0,67.0,64.0,67.0,79.0
+F. Mattiello,Atalanta,Italy,midfielder,72.0,64.0,73.0,70.0,69.0,61.0
+C. De Norre,Oud-Heverlee Leuven,Belgium,defender,70.0,63.0,71.0,66.0,65.0,70.0
+R. Czichos,1. FC Köln,Germany,defender,59.0,48.0,62.0,59.0,72.0,75.0
+Manu Molina,UD Ibiza,Spain,midfielder,62.0,60.0,66.0,68.0,46.0,61.0
+C. Summerville,Leeds United,Netherlands,midfielder,88.0,61.0,70.0,59.0,24.0,49.0
+J. dos Santos,LA Galaxy,Mexico,midfielder,71.0,66.0,77.0,79.0,70.0,72.0
+C. Clark,New York Red Bulls,United States,midfielder,75.0,59.0,67.0,64.0,43.0,55.0
+C. Calderón,Club Deportivo Guadalajara,Mexico,defender,81.0,53.0,67.0,61.0,64.0,67.0
+Borja Bastón,Real Oviedo,Spain,attacker,45.0,75.0,65.0,61.0,38.0,76.0
+K. Bistrović,PFC CSKA Moscow,Croatia,midfielder,67.0,63.0,67.0,69.0,69.0,62.0
+Renato Sanches,LOSC Lille,Portugal,midfielder,84.0,74.0,84.0,77.0,72.0,84.0
+J. Föhrenbach,1. FC Heidenheim 1846,Germany,defender,73.0,39.0,61.0,56.0,67.0,70.0
+Carlos Embaló,KAS Eupen,Guinea Bissau,attacker,86.0,62.0,71.0,62.0,28.0,63.0
+M. Delgado,Toronto FC,United States,midfielder,66.0,52.0,64.0,61.0,65.0,71.0
+C. Izquierdoz,Boca Juniors,Argentina,defender,51.0,52.0,54.0,54.0,79.0,84.0
+F. Caicedo,Genoa,Ecuador,attacker,74.0,78.0,75.0,70.0,44.0,80.0
+K. Sardella,RSC Anderlecht,Belgium,defender,74.0,37.0,72.0,65.0,60.0,57.0
+A. Saelemaekers,AC Milan,Belgium,attacker,81.0,66.0,78.0,74.0,62.0,68.0
+R. Jenssen,Tromsø IL,Norway,midfielder,68.0,64.0,68.0,70.0,59.0,75.0
+T. Rowe,Doncaster Rovers,England,defender,68.0,56.0,66.0,63.0,64.0,65.0
+D. Nishi,Urawa Red Diamonds,Japan,defender,57.0,53.0,67.0,69.0,67.0,74.0
+A. Katranis,Piast Gliwice,Greece,defender,72.0,47.0,66.0,60.0,63.0,67.0
+E. Olivera,Atlético Nacional,Argentina,defender,68.0,43.0,55.0,50.0,69.0,73.0
+F. Becker,FC St. Pauli,Germany,midfielder,73.0,49.0,74.0,65.0,53.0,58.0
+G. Friend,Birmingham City,England,defender,55.0,55.0,66.0,61.0,70.0,71.0
+Alex Nascimento,Futebol Clube de Famalicão,Brazil,defender,58.0,32.0,50.0,49.0,69.0,68.0
+S. Davis,Rangers FC,Northern Ireland,midfielder,39.0,63.0,76.0,76.0,74.0,68.0
+Kim Min Tae,Nagoya Grampus,Korea Republic,defender,63.0,36.0,54.0,53.0,71.0,75.0
+E. Başsan,Yukatel Kayserispor,Turkey,midfielder,76.0,68.0,72.0,71.0,22.0,59.0
+Illarramendi,Real Sociedad,Spain,midfielder,47.0,71.0,78.0,77.0,77.0,69.0
+I. Niane,FC Metz,Senegal,attacker,82.0,74.0,71.0,54.0,20.0,62.0
+B. Behrendt,Eintracht Braunschweig,Germany,defender,66.0,53.0,45.0,56.0,68.0,74.0
+R. Ljubicic,SK Rapid Wien,Austria,midfielder,58.0,57.0,68.0,65.0,61.0,68.0
+R. Delgado,Club Atlético Colón,Argentina,defender,80.0,65.0,74.0,72.0,72.0,81.0
+F. Diédhiou,Aytemiz Alanyaspor,Senegal,attacker,59.0,69.0,66.0,47.0,31.0,73.0
+David Bruno,Estoril Praia,Portugal,defender,67.0,44.0,65.0,58.0,64.0,69.0
+T. Bingöl,Aytemiz Alanyaspor,Turkey,midfielder,80.0,60.0,67.0,63.0,32.0,60.0
+A. Cruz,Tigres U.A.N.L.,Mexico,defender,76.0,37.0,68.0,65.0,69.0,66.0
+T. Davies,Everton,England,midfielder,65.0,64.0,75.0,73.0,69.0,71.0
+Zhao Mingjian,Shanghai Shenhua FC,China PR,defender,72.0,52.0,64.0,62.0,63.0,71.0
+N. Sliti,Ettifaq FC,Tunisia,midfielder,72.0,71.0,78.0,72.0,34.0,68.0
+M. de Ligt,Juventus,Netherlands,defender,73.0,59.0,69.0,60.0,84.0,87.0
+B. Aaronson,FC Red Bull Salzburg,United States,midfielder,80.0,62.0,73.0,63.0,50.0,56.0
+G. Courtet,AC Ajaccio,France,attacker,65.0,72.0,66.0,63.0,26.0,70.0
+K. Linetty,Torino F.C.,Poland,midfielder,67.0,63.0,75.0,71.0,72.0,69.0
+G. Koomson,FK Bodø/Glimt,Ghana,attacker,89.0,62.0,68.0,63.0,39.0,63.0
+Suso,Sevilla FC,Spain,attacker,76.0,76.0,85.0,82.0,32.0,55.0
+J. Knight,Peterborough United,England,defender,58.0,52.0,61.0,56.0,67.0,73.0
+F. Holst,IF Elfsborg,Denmark,midfielder,82.0,55.0,67.0,66.0,62.0,69.0
+D. Gugganig,RZ Pellets Wolfsberger AC,Austria,defender,51.0,36.0,48.0,49.0,67.0,75.0
+M. Dittgen,FC St. Pauli,Germany,midfielder,85.0,56.0,66.0,56.0,54.0,68.0
+Fábio Silva,Wolverhampton Wanderers,Portugal,attacker,73.0,70.0,72.0,46.0,22.0,63.0
+M. Tosetti,FC Sion,Switzerland,midfielder,77.0,57.0,66.0,67.0,41.0,55.0
+Diego Rico,Real Sociedad,Spain,defender,72.0,57.0,69.0,69.0,71.0,74.0
+F. Boulaya,FC Metz,Algeria,midfielder,72.0,69.0,80.0,75.0,26.0,54.0
+S. Palacios,Panathinaikos FC,Argentina,attacker,91.0,71.0,79.0,69.0,44.0,68.0
+M. Wittek,Vitesse,Germany,defender,79.0,62.0,72.0,66.0,65.0,70.0
+B. Chardonnet,Stade Brestois 29,France,defender,55.0,40.0,57.0,52.0,75.0,74.0
+J. Zirkzee,RSC Anderlecht,Netherlands,attacker,69.0,64.0,67.0,49.0,18.0,67.0
+V. Castellanos,New York City FC,Argentina,attacker,71.0,69.0,69.0,60.0,34.0,71.0
+Garrido,Cádiz CF,Spain,midfielder,36.0,43.0,53.0,57.0,71.0,88.0
+Y. Hamache,Boavista FC,France,defender,77.0,61.0,71.0,67.0,64.0,68.0
+A. Ibargüen,Santos Laguna,Colombia,midfielder,91.0,63.0,74.0,65.0,36.0,42.0
+E. Bergström,Willem II,Sweden,defender,54.0,36.0,51.0,45.0,67.0,75.0
+Paulinho,Sporting CP,Portugal,attacker,67.0,78.0,75.0,64.0,44.0,81.0
+K. Bua,FC Sion,Switzerland,midfielder,85.0,66.0,73.0,65.0,38.0,64.0
+G. Pezzella,Real Betis Balompié,Argentina,defender,54.0,49.0,57.0,47.0,79.0,73.0
+J. Garner,Nottingham Forest,England,midfielder,67.0,62.0,65.0,66.0,65.0,65.0
+Thiago Mendes,Olympique Lyonnais,Brazil,midfielder,72.0,67.0,77.0,76.0,74.0,75.0
+T. Röcher,RZ Pellets Wolfsberger AC,Austria,midfielder,79.0,66.0,70.0,63.0,23.0,67.0
+Y. Armougom,Stade Malherbe Caen,France,defender,76.0,42.0,65.0,56.0,61.0,62.0
+A. Elis,FC Girondins de Bordeaux,Honduras,attacker,90.0,71.0,77.0,63.0,31.0,74.0
+D. Charles,Accrington Stanley,Northern Ireland,attacker,75.0,65.0,66.0,58.0,34.0,73.0
+Mujaid,KRC Genk,Spain,defender,73.0,26.0,55.0,49.0,71.0,74.0
+Marcos Antonio,Shakhtar Donetsk,Brazil,midfielder,84.0,65.0,77.0,69.0,59.0,49.0
+M. Forss,Brentford,Finland,attacker,74.0,69.0,64.0,44.0,39.0,68.0
+A. Sauthier,Servette FC,Switzerland,defender,67.0,51.0,61.0,64.0,65.0,69.0
+B. Cáceres,Club Libertad,Paraguay,midfielder,70.0,65.0,66.0,69.0,55.0,62.0
+G. Freitas,Mazatlán Futbol Club,Uruguay,midfielder,55.0,53.0,58.0,60.0,68.0,83.0
+C. Baird,Houston Dynamo,United States,attacker,77.0,64.0,65.0,55.0,32.0,68.0
+M. Diaby,FC Paços de Ferreira,France,midfielder,33.0,45.0,52.0,53.0,74.0,79.0
+Dani Olmo,RB Leipzig,Spain,midfielder,67.0,76.0,86.0,81.0,50.0,60.0
+M. Sušić,CFR Cluj,Bosnia and Herzegovina,defender,71.0,47.0,62.0,59.0,64.0,72.0
+Rômulo Calsede,São Paulo,Brazil,attacker,72.0,72.0,67.0,60.0,32.0,69.0
+Jordi Amat,KAS Eupen,Spain,defender,62.0,48.0,56.0,53.0,69.0,76.0
+E. Kara,SK Rapid Wien,Austria,attacker,75.0,75.0,61.0,51.0,28.0,85.0
+Mikel Iribas,CF Fuenlabrada,Spain,defender,72.0,53.0,62.0,62.0,62.0,75.0
+A. Salétros,Sarpsborg 08 FF,Sweden,midfielder,65.0,57.0,64.0,67.0,61.0,68.0
+Pablo Santos,Moreirense FC,Brazil,defender,65.0,39.0,54.0,45.0,75.0,78.0
+V. Moses,Spartak Moskva,Nigeria,midfielder,76.0,69.0,80.0,74.0,70.0,70.0
+K. Mbabu,VfL Wolfsburg,Switzerland,defender,88.0,51.0,73.0,69.0,74.0,80.0
+A. Tuanzebe,Aston Villa,England,defender,80.0,36.0,69.0,63.0,73.0,73.0
+J. Kappelhof,Chicago Fire Football Club,Netherlands,defender,61.0,38.0,62.0,59.0,68.0,69.0
+R. Christie,AFC Bournemouth,Scotland,midfielder,80.0,71.0,76.0,72.0,65.0,77.0
+H. Eyjólfsson,Rosenborg BK,Iceland,defender,74.0,44.0,55.0,56.0,69.0,73.0
+J. Damm,Atlanta United,Mexico,midfielder,92.0,62.0,72.0,63.0,44.0,71.0
+D. Maeda,Yokohama F. Marinos,Japan,midfielder,89.0,72.0,70.0,60.0,39.0,65.0
+T. Viudez,Club Atlético Rentistas,Uruguay,attacker,68.0,70.0,75.0,66.0,27.0,50.0
+Nacho Monreal,Real Sociedad,Spain,defender,65.0,61.0,74.0,74.0,80.0,68.0
+F. Pogba,FC Sochaux-Montbéliard,Guinea,defender,61.0,41.0,56.0,58.0,67.0,80.0
+N. Briasco,Boca Juniors,Armenia,attacker,80.0,68.0,73.0,60.0,23.0,69.0
+V. Jensen,Ajax,Denmark,midfielder,71.0,58.0,69.0,63.0,41.0,54.0
+M. Grujić,FC Porto,Serbia,midfielder,61.0,71.0,77.0,71.0,72.0,77.0
+M. Paniagua,Guaireña FC,Paraguay,midfielder,59.0,48.0,58.0,65.0,68.0,68.0
+Unai Vencedor,Athletic Club de Bilbao,Spain,midfielder,66.0,70.0,74.0,72.0,73.0,74.0
+M. Hummels,Borussia Dortmund,Germany,defender,56.0,59.0,73.0,77.0,89.0,77.0
+Koke,Atlético de Madrid,Spain,midfielder,70.0,75.0,81.0,85.0,79.0,80.0
+A. Plata,Club Deportes Tolima,Colombia,midfielder,87.0,66.0,71.0,59.0,42.0,69.0
+D. Williams,ATK Mohun Bagan FC,Australia,midfielder,83.0,69.0,67.0,57.0,42.0,70.0
+A. Marcus,Portimonense SC,Nigeria,attacker,77.0,67.0,71.0,58.0,32.0,67.0
+J. Harrison,Leeds United,England,midfielder,83.0,71.0,79.0,72.0,42.0,68.0
+Jota,Celtic,Portugal,midfielder,85.0,65.0,78.0,65.0,32.0,49.0
+T. Partey,Arsenal,Ghana,midfielder,69.0,71.0,81.0,82.0,80.0,84.0
+K. Laba,Al Ain FC,Togo,attacker,78.0,74.0,69.0,62.0,25.0,77.0
+A. Barberis,AC Monza,Italy,midfielder,67.0,46.0,65.0,67.0,61.0,67.0
+Y. Machida,Oita Trinita,Japan,attacker,90.0,58.0,67.0,63.0,40.0,47.0
+G. Haraguchi,1. FC Union Berlin,Japan,midfielder,84.0,66.0,78.0,70.0,44.0,53.0
+P. Ceppelini,Club Atlético Peñarol,Uruguay,midfielder,67.0,63.0,68.0,72.0,42.0,65.0
+A. Al Hassan,Al Nassr,Saudi Arabia,midfielder,68.0,51.0,64.0,61.0,61.0,70.0
+L. Podolski,Górnik Zabrze,Germany,midfielder,59.0,78.0,73.0,75.0,36.0,74.0
+J. Thielmann,1. FC Köln,Germany,midfielder,76.0,69.0,70.0,65.0,40.0,64.0
+F. Calderón,Unión de Santa Fe,Argentina,defender,60.0,32.0,52.0,45.0,68.0,80.0
+Leo Vimieiro,São Paulo,Brazil,defender,73.0,52.0,70.0,66.0,74.0,71.0
+J. Green,SpVgg Greuther Fürth,United States,midfielder,74.0,68.0,76.0,66.0,33.0,60.0
+Douglas,Vissel Kobe,Brazil,attacker,70.0,74.0,69.0,49.0,28.0,69.0
+S. Mockenhaupt,SV Wehen Wiesbaden,Germany,defender,82.0,28.0,50.0,41.0,65.0,78.0
+S. Zwierschitz,FC Flyeralarm Admira,Austria,defender,68.0,49.0,59.0,58.0,66.0,71.0
+J. Segovia,Puebla FC,Argentina,defender,50.0,26.0,47.0,45.0,70.0,80.0
+G. Zardes,Columbus Crew,United States,attacker,85.0,71.0,68.0,52.0,44.0,79.0
+Dinei Peixo,Sport Club Corinthians Paulista,Brazil,attacker,73.0,66.0,73.0,69.0,58.0,75.0
+Y. Salibur,Fatih Karagümrük S.K.,France,midfielder,85.0,68.0,73.0,67.0,40.0,63.0
+K. Ehlers,SG Dynamo Dresden,Germany,defender,65.0,29.0,53.0,51.0,68.0,67.0
+Marco Baixinho,FC Paços de Ferreira,Portugal,defender,53.0,34.0,53.0,49.0,72.0,78.0
+A. Al Zori,Al Shabab,Saudi Arabia,defender,65.0,45.0,62.0,55.0,63.0,71.0
+G. Simeone,Hellas Verona,Argentina,attacker,76.0,74.0,75.0,59.0,37.0,70.0
+F. Formiliano,Club Necaxa,Uruguay,defender,64.0,27.0,56.0,50.0,69.0,78.0
+R. Ureña,América de Cali,Chile,midfielder,62.0,58.0,64.0,57.0,64.0,72.0
+M. Höger,SV Waldhof Mannheim 07,Germany,midfielder,36.0,66.0,67.0,67.0,69.0,71.0
+Danilo,Ajax,Brazil,attacker,76.0,70.0,73.0,58.0,22.0,65.0
+Zhang Linpeng,Guangzhou FC,China PR,defender,73.0,56.0,68.0,64.0,68.0,83.0
+Salvi Sánchez,Cádiz CF,Spain,midfielder,89.0,70.0,76.0,74.0,39.0,53.0
+F. Flores,Deportivo Táchira FC,Venezuela,midfielder,68.0,46.0,58.0,62.0,62.0,70.0
+Miranda,Real Betis Balompié,Spain,defender,78.0,57.0,74.0,68.0,71.0,66.0
+Diego Oliveira,FC Tokyo,Brazil,attacker,76.0,72.0,71.0,69.0,38.0,75.0
+S. Obeng,Real Oviedo,Ghana,attacker,79.0,68.0,61.0,46.0,24.0,75.0
+B. Şimşek,Göztepe SK,Turkey,attacker,77.0,66.0,72.0,64.0,31.0,64.0
+L. Ocampos,Sevilla FC,Argentina,attacker,81.0,84.0,83.0,78.0,63.0,84.0
+G. Mera,Junior FC,Colombia,defender,48.0,26.0,43.0,39.0,71.0,81.0
+K. Sema,Watford,Sweden,attacker,78.0,66.0,74.0,71.0,60.0,68.0
+F. Mladenović,Legia Warszawa,Serbia,midfielder,85.0,63.0,73.0,69.0,62.0,62.0
+D. Abels,Sparta Rotterdam,Netherlands,defender,58.0,43.0,62.0,54.0,68.0,71.0
+R. Boudebouz,AS Saint-Étienne,Algeria,midfielder,66.0,74.0,76.0,75.0,40.0,59.0
+P. Bojić,Sepsi OSK Sf. Gheorghe,Serbia,midfielder,65.0,66.0,68.0,65.0,29.0,63.0
+Fran Gámez,Real Zaragoza,Spain,defender,80.0,49.0,66.0,59.0,65.0,67.0
+Costinha,Santa Clara,Portugal,midfielder,77.0,64.0,70.0,67.0,65.0,59.0
+F. Frei,FC Basel 1893,Switzerland,midfielder,57.0,70.0,69.0,71.0,69.0,74.0
+B. Borrello,SG Dynamo Dresden,Australia,midfielder,74.0,65.0,70.0,60.0,26.0,66.0
+K. Varga,Kasimpaşa SK,Hungary,midfielder,84.0,65.0,69.0,64.0,33.0,53.0
+J. Guillemenot,FC St. Gallen 1879,Switzerland,attacker,76.0,65.0,68.0,64.0,37.0,66.0
+M. Rente,Heracles Almelo,Germany,defender,75.0,29.0,52.0,44.0,65.0,74.0
+S. Prcić,RC Strasbourg Alsace,Bosnia and Herzegovina,midfielder,53.0,59.0,68.0,71.0,67.0,66.0
+J. Worrall,Nottingham Forest,England,defender,61.0,25.0,45.0,47.0,72.0,76.0
+C. O'Hare,Coventry City,England,midfielder,81.0,58.0,76.0,68.0,66.0,66.0
+H. Orzán,FBC Melgar,Argentina,midfielder,84.0,50.0,70.0,68.0,58.0,73.0
+Ivan Cavaleiro,Fulham,Portugal,attacker,86.0,72.0,75.0,67.0,39.0,73.0
+Jairão Zezé,Atlético Clube Goianiense,Brazil,midfielder,76.0,54.0,77.0,73.0,41.0,47.0
+A. Espino,Cádiz CF,Uruguay,defender,78.0,60.0,69.0,63.0,70.0,75.0
+J. Amoah,Vitória de Guimarães,Ghana,midfielder,69.0,51.0,73.0,64.0,57.0,64.0
+D. Kyereh,FC St. Pauli,Germany,midfielder,82.0,68.0,75.0,62.0,22.0,61.0
+Edgar,Real Betis Balompié,Spain,midfielder,60.0,49.0,62.0,60.0,72.0,78.0
+T. Băluță,Brighton & Hove Albion,Romania,midfielder,60.0,49.0,50.0,57.0,69.0,74.0
+Diogo Viana,Campionii FC Arges,Portugal,midfielder,74.0,59.0,67.0,67.0,48.0,58.0
+Pietrson Mendes,Bahia,Brazil,midfielder,80.0,69.0,74.0,73.0,43.0,50.0
+I. Traoré,SK Slavia Praha,Côte d'Ivoire,midfielder,62.0,63.0,75.0,70.0,72.0,81.0
+Pablo Larrea,CD Tenerife,Spain,midfielder,61.0,62.0,67.0,65.0,62.0,64.0
+K. Mbappé,Paris Saint-Germain,France,attacker,97.0,88.0,92.0,80.0,36.0,77.0
+B. Perlaza,Atlético Nacional,Colombia,midfielder,58.0,51.0,61.0,59.0,73.0,85.0
+O. Gonzalez,Toronto FC,United States,defender,36.0,36.0,44.0,49.0,66.0,83.0
+G. Robail,Valenciennes FC,France,midfielder,72.0,63.0,69.0,70.0,46.0,59.0
+M. Le Bihan,Dijon FCO,France,attacker,55.0,75.0,71.0,59.0,46.0,72.0
+Ó. Benítez,Atlético Tucumán,Argentina,midfielder,76.0,62.0,70.0,64.0,56.0,74.0
+G. Carabajal,Argentinos Juniors,Argentina,midfielder,72.0,70.0,73.0,71.0,42.0,65.0
+T. Pietermaat,K Beerschot VA,Belgium,midfielder,61.0,31.0,59.0,60.0,68.0,71.0
+A. Briançon,Nîmes Olympique,France,defender,52.0,47.0,53.0,57.0,72.0,81.0
+J. Yates,Blackpool,England,attacker,79.0,68.0,67.0,54.0,29.0,68.0
+Nazario Serpe,Bahia,Brazil,midfielder,52.0,39.0,44.0,60.0,67.0,69.0
+J. Ayoví,Estudiantes de La Plata,Ecuador,attacker,60.0,70.0,67.0,58.0,41.0,72.0
+G. Bale,Real Madrid CF,Wales,midfielder,82.0,84.0,80.0,82.0,55.0,70.0
+C. De Ketelaere,Club Brugge KV,Belgium,attacker,72.0,72.0,77.0,75.0,62.0,71.0
+Willian José,Real Betis Balompié,Brazil,attacker,62.0,78.0,74.0,66.0,40.0,80.0
+F. Pereyra,FBC Melgar,Argentina,defender,64.0,35.0,51.0,46.0,69.0,79.0
+M. Lanzini,West Ham United,Argentina,midfielder,71.0,72.0,81.0,77.0,32.0,42.0
+O. Vranješ,AEK Athens,Bosnia and Herzegovina,defender,67.0,47.0,57.0,53.0,70.0,83.0
+M. Munetsi,Stade de Reims,Zimbabwe,midfielder,63.0,48.0,65.0,65.0,70.0,75.0
+Z. Labyad,Ajax,Morocco,midfielder,72.0,75.0,78.0,76.0,36.0,54.0
+M. Bär,TSV 1860 München,Germany,midfielder,86.0,58.0,65.0,61.0,38.0,64.0
+V. Costache,CFR Cluj,Romania,attacker,84.0,63.0,67.0,61.0,30.0,66.0
+J. Gouweleeuw,FC Augsburg,Netherlands,defender,71.0,58.0,64.0,65.0,79.0,75.0
+Natinho Mestres,Palmeiras,Brazil,midfielder,77.0,64.0,72.0,65.0,34.0,52.0
+O. Alonso,Minnesota United FC,Cuba,midfielder,56.0,65.0,72.0,66.0,68.0,74.0
+Piqué,FC Barcelona,Spain,defender,58.0,61.0,68.0,71.0,85.0,78.0
+Carvamelinho,Grêmio,Brazil,defender,68.0,55.0,58.0,69.0,67.0,65.0
+I. Šunjić,Birmingham City,Croatia,midfielder,69.0,58.0,64.0,57.0,70.0,77.0
+Saúl Crespo,SD Ponferradina,Spain,midfielder,61.0,52.0,61.0,61.0,63.0,72.0
+M. Palacios,Pohang Steelers,Colombia,midfielder,92.0,61.0,69.0,57.0,45.0,75.0
+Kiko Olivas,Real Valladolid CF,Spain,defender,47.0,52.0,60.0,60.0,76.0,76.0
+G. Sigurðsson,Everton,Iceland,midfielder,54.0,78.0,78.0,82.0,59.0,66.0
+B. Bahn,F.C. Hansa Rostock,Germany,midfielder,79.0,64.0,70.0,68.0,35.0,64.0
+Dani Quintana,Jagiellonia Białystok,Spain,midfielder,73.0,61.0,70.0,68.0,35.0,46.0
+T. Phete,Belenenses SAD,South Africa,defender,51.0,41.0,57.0,53.0,71.0,73.0
+A. Albers,SSV Jahn Regensburg,Denmark,attacker,65.0,68.0,61.0,44.0,29.0,74.0
+S. Feghouli,Galatasaray SK,Algeria,midfielder,71.0,71.0,78.0,75.0,34.0,65.0
+G. Trauner,Feyenoord,Austria,defender,64.0,57.0,62.0,62.0,75.0,87.0
+Vitor Hugo,Trabzonspor,Brazil,defender,63.0,31.0,46.0,38.0,78.0,78.0
+Pedro Marques,Futebol Clube de Famalicão,Portugal,attacker,76.0,70.0,68.0,50.0,27.0,68.0
+J. McGrath,St. Mirren,Republic of Ireland,midfielder,76.0,63.0,70.0,65.0,57.0,64.0
+Rui Fonte,Estoril Praia,Portugal,attacker,63.0,68.0,70.0,67.0,42.0,61.0
+F. Sakala,Rangers FC,Zambia,attacker,88.0,76.0,73.0,57.0,31.0,68.0
+M. Mihojević,Göztepe SK,Bosnia and Herzegovina,defender,59.0,39.0,48.0,48.0,69.0,70.0
+Jailson Oliva,Clube Atlético Mineiro,Brazil,defender,81.0,38.0,69.0,58.0,67.0,57.0
+Rafael Camacho,Belenenses SAD,Portugal,attacker,82.0,61.0,76.0,65.0,54.0,58.0
+D. Arroyo,CS Emelec,Ecuador,midfielder,56.0,28.0,57.0,56.0,69.0,66.0
+Lucas Áfrico,Estoril Praia,Brazil,defender,54.0,41.0,52.0,56.0,68.0,76.0
+L. Guzmán,Club Atlético Aldosivi,Argentina,midfielder,72.0,58.0,70.0,60.0,37.0,62.0
+A. Auassar,Sparta Rotterdam,Netherlands,midfielder,32.0,63.0,59.0,63.0,63.0,79.0
+Guruzeta,SD Amorebieta,Spain,attacker,65.0,68.0,67.0,62.0,26.0,60.0
+D. Fomin,,Russia,midfielder,67.0,65.0,69.0,71.0,68.0,66.0
+Y. Okubo,Cerezo Osaka,Japan,attacker,37.0,69.0,67.0,63.0,26.0,56.0
+O. Idrissi,Sevilla FC,Morocco,attacker,83.0,76.0,80.0,70.0,35.0,69.0
+M. Schultz,Eintracht Braunschweig,Germany,defender,53.0,26.0,51.0,41.0,65.0,73.0
+Marcano,FC Porto,Spain,defender,55.0,46.0,59.0,60.0,79.0,74.0
+J. Álvarez,Club Atlético Banfield,Argentina,midfielder,77.0,61.0,72.0,65.0,38.0,62.0
+Flávio,FC Paços de Ferreira,Brazil,defender,50.0,29.0,44.0,39.0,65.0,72.0
+J. González,Club Necaxa,Mexico,midfielder,70.0,58.0,72.0,65.0,70.0,68.0
+E. Ocansey,KV Kortrijk,Ghana,midfielder,86.0,63.0,73.0,59.0,51.0,68.0
+Duirval Diniz,Club Athletico Paranaense,Brazil,defender,53.0,47.0,52.0,55.0,77.0,74.0
+T. Skarke,SV Darmstadt 98,Germany,midfielder,85.0,66.0,70.0,60.0,37.0,57.0
+L. Caldirola,AC Monza,Italy,defender,49.0,42.0,61.0,63.0,71.0,69.0
+Guilson Paiva,Flamengo,Brazil,midfielder,83.0,69.0,78.0,75.0,42.0,68.0
+Gervinho,Trabzonspor,Côte d'Ivoire,attacker,91.0,68.0,77.0,68.0,35.0,57.0
+Everton Andrão,Fluminense,Brazil,midfielder,67.0,62.0,75.0,74.0,78.0,76.0
+R. Marchizza,Empoli,Italy,defender,60.0,29.0,62.0,54.0,68.0,67.0
+Z. Valentin,Houston Dynamo,Puerto Rico,defender,70.0,46.0,66.0,62.0,67.0,75.0
+M. Kelly,Crystal Palace,England,defender,50.0,44.0,61.0,59.0,76.0,68.0
+Bernardo Motinho,Fortaleza,Brazil,defender,72.0,52.0,66.0,66.0,69.0,63.0
+A. Acquah,Al Batin,Ghana,midfielder,77.0,63.0,72.0,67.0,69.0,76.0
+J. Candia,Club Atlético Huracán,Uruguay,attacker,73.0,68.0,67.0,58.0,36.0,65.0
+Thales,FC Arouca,Brazil,defender,59.0,41.0,61.0,64.0,72.0,57.0
+S. Al Faraj,Al Hilal,Saudi Arabia,midfielder,63.0,65.0,73.0,77.0,68.0,65.0
+Carlinhos Junior,Shimizu S-Pulse,Brazil,attacker,87.0,68.0,71.0,64.0,28.0,66.0
+S. Kalajdžić,VfB Stuttgart,Austria,attacker,61.0,73.0,73.0,66.0,45.0,70.0
+A. Matthews,Charlton Athletic,Wales,defender,69.0,52.0,65.0,64.0,63.0,68.0
+Jota Gonçalves,CD Tondela,Portugal,defender,58.0,31.0,49.0,33.0,68.0,66.0
+Kiki,FC Vizela,Portugal,defender,67.0,48.0,63.0,62.0,63.0,67.0
+M. Pink,SK Austria Klagenfurt,Austria,attacker,55.0,65.0,59.0,51.0,27.0,74.0
+Sergi Roberto,FC Barcelona,Spain,defender,76.0,63.0,77.0,80.0,76.0,73.0
+F. Lemoine,FC Lorient,France,midfielder,37.0,58.0,68.0,69.0,71.0,75.0
+D. Johnsen,Venezia FC,Norway,attacker,80.0,60.0,72.0,67.0,32.0,59.0
+A. Laïdouni,Ferencvárosi TC,France,midfielder,61.0,57.0,72.0,63.0,66.0,75.0
+G. Weissbeck,FC Sochaux-Montbéliard,France,midfielder,64.0,70.0,74.0,71.0,42.0,64.0
+Elildo Petri,Palmeiras,Brazil,midfielder,73.0,68.0,77.0,75.0,29.0,67.0
+P. Gueye,KV Kortrijk,Senegal,attacker,75.0,64.0,67.0,54.0,21.0,73.0
+S. Rhein,F.C. Hansa Rostock,Germany,midfielder,67.0,42.0,65.0,67.0,63.0,67.0
+J. Trindade,Club Atlético Peñarol,Uruguay,midfielder,72.0,42.0,65.0,64.0,68.0,72.0
+Rosberto Dourado,Sport Club Corinthians Paulista,Brazil,midfielder,77.0,57.0,77.0,74.0,82.0,68.0
+Lyanco,Southampton,Brazil,defender,65.0,36.0,58.0,52.0,72.0,69.0
+F. Bambock,Grenoble Foot 38,France,midfielder,65.0,49.0,63.0,60.0,64.0,78.0
+B. Manuel,Royal Antwerp FC,Belgium,attacker,79.0,63.0,76.0,66.0,34.0,57.0
+A. Barreca,Lecce,Italy,defender,72.0,34.0,72.0,62.0,68.0,64.0
+L. Koscielny,FC Girondins de Bordeaux,France,defender,54.0,43.0,65.0,63.0,79.0,75.0
+R. González,Club de Deportes Cobresal,Chile,defender,63.0,37.0,58.0,58.0,64.0,74.0
+G. Troupée,FC Twente,Netherlands,defender,74.0,46.0,66.0,59.0,62.0,67.0
+J. Acevedo,Metropolitanos de Caracas FC,Venezuela,attacker,72.0,70.0,67.0,61.0,38.0,73.0
+Cédric,Arsenal,Portugal,defender,76.0,63.0,75.0,70.0,72.0,66.0
+Camilo Sanvezzo,Mazatlán Futbol Club,Brazil,attacker,77.0,77.0,78.0,68.0,34.0,67.0
+Ximo Navarro,Deportivo Alavés,Spain,defender,73.0,47.0,68.0,65.0,70.0,76.0
+R. Gosens,Atalanta,Germany,defender,82.0,75.0,79.0,74.0,77.0,81.0
+J. Nikolaou,Eintracht Braunschweig,Germany,midfielder,64.0,39.0,57.0,62.0,67.0,77.0
+A. Hassan,İttifak Holding Konyaspor,Egypt,attacker,54.0,74.0,69.0,57.0,32.0,76.0
+S. Sané,FC Schalke 04,Senegal,defender,52.0,49.0,63.0,64.0,76.0,79.0
+G. François,Royale Union Saint-Gilloise,Belgium,defender,70.0,57.0,67.0,61.0,64.0,66.0
+P. Delvalle,Club Libertad,Paraguay,attacker,79.0,64.0,68.0,60.0,24.0,47.0
+C. Brannagan,Oxford United,England,midfielder,63.0,65.0,65.0,69.0,61.0,67.0
+Lee Seung Gi,Jeonbuk Hyundai Motors,Korea Republic,midfielder,75.0,67.0,73.0,71.0,53.0,69.0
+Tete,Shakhtar Donetsk,Brazil,midfielder,83.0,70.0,79.0,72.0,39.0,59.0
+Jorge Praceira,Palmeiras,Brazil,defender,66.0,40.0,61.0,56.0,76.0,73.0
+Guilherme Ramos,DSC Arminia Bielefeld,Portugal,defender,54.0,33.0,45.0,46.0,69.0,74.0
+Mexer,FC Girondins de Bordeaux,Mozambique,defender,39.0,48.0,63.0,57.0,73.0,73.0
+L. Pico,Club Independiente Santa Fe,Colombia,midfielder,58.0,45.0,65.0,64.0,63.0,75.0
+Óscar Valentín,Rayo Vallecano,Spain,midfielder,66.0,45.0,62.0,61.0,69.0,72.0
+F. de Jong,FC Barcelona,Netherlands,midfielder,81.0,69.0,88.0,85.0,77.0,78.0
+S. Arzamendia,Cádiz CF,Paraguay,defender,75.0,57.0,67.0,61.0,66.0,62.0
+P. Mukairu,Antalyaspor,Nigeria,attacker,84.0,68.0,71.0,62.0,29.0,64.0
+D. Cvitanich,Racing Club,Argentina,attacker,56.0,70.0,72.0,66.0,37.0,67.0
+Léo Bonatini,Grasshopper Club Zürich,Brazil,attacker,67.0,68.0,68.0,65.0,34.0,68.0
+Juan Muñoz,CD Leganés,Spain,attacker,64.0,72.0,69.0,54.0,21.0,66.0
+M. Lang,FC Basel 1893,Switzerland,defender,61.0,65.0,65.0,65.0,72.0,73.0
+M. Sau,Benevento,Italy,attacker,83.0,67.0,76.0,66.0,30.0,56.0
+A. Bamba,Paris FC,Côte d'Ivoire,defender,76.0,33.0,55.0,51.0,67.0,77.0
+M. Zeegelaar,Udinese Calcio,Netherlands,midfielder,72.0,62.0,73.0,68.0,73.0,72.0
+M. Noble,West Ham United,England,midfielder,37.0,67.0,73.0,76.0,72.0,70.0
+A. Martial,Manchester United,France,attacker,87.0,80.0,85.0,73.0,35.0,68.0
+R. Bormuth,Karlsruher SC,Germany,defender,72.0,25.0,49.0,38.0,70.0,74.0
+P. Zeballos,Club River Plate Asunción,Paraguay,midfielder,66.0,71.0,69.0,69.0,33.0,62.0
+C. Villanueva,Club Deportivo Palestino,Chile,midfielder,58.0,70.0,77.0,75.0,49.0,48.0
+F. Moyano,Argentinos Juniors,Argentina,midfielder,68.0,54.0,70.0,67.0,65.0,71.0
+D. Álvarez,Puebla FC,Mexico,midfielder,89.0,59.0,74.0,70.0,32.0,60.0
+L. Gregory,Sheffield Wednesday,England,attacker,62.0,65.0,65.0,54.0,28.0,76.0
+An Hyeon Beom,Jeju United FC,Korea Republic,midfielder,84.0,62.0,69.0,64.0,59.0,66.0
+T. Fontaine,FC Lorient,Madagascar,defender,66.0,24.0,39.0,52.0,65.0,74.0
+Santi Mina,RC Celta de Vigo,Spain,attacker,75.0,77.0,76.0,69.0,49.0,72.0
+S. Brown,Aberdeen,Scotland,midfielder,35.0,60.0,68.0,60.0,70.0,75.0
+S. Sinclair,Preston North End,England,midfielder,81.0,73.0,75.0,65.0,41.0,63.0
+J. Vargas,Unión La Calera,Chile,midfielder,78.0,61.0,72.0,62.0,35.0,60.0
+A. Donis,Stade de Reims,Greece,attacker,81.0,68.0,73.0,57.0,24.0,61.0
+G. Cox,Fortuna Sittard,England,defender,75.0,60.0,66.0,61.0,64.0,67.0
+K. Thiam,Altay SK,Senegal,midfielder,68.0,55.0,58.0,61.0,63.0,72.0
+E. Tercero,Club Tijuana,Mexico,defender,74.0,36.0,63.0,53.0,69.0,66.0
+Q. Laçi,AC Ajaccio,Albania,midfielder,74.0,65.0,69.0,67.0,64.0,75.0
+A. Sørensen,1. FC Nürnberg,Denmark,defender,58.0,42.0,58.0,57.0,69.0,71.0
+E. Pavez,Club Tijuana,Chile,midfielder,79.0,64.0,71.0,66.0,67.0,81.0
+A. Radovanović,KV Kortrijk,Serbia,defender,39.0,29.0,46.0,47.0,68.0,77.0
+Heitor Gesse,Clube Atlético Mineiro,Brazil,defender,78.0,55.0,64.0,66.0,69.0,61.0
+Yun Il Lok,Ulsan Hyundai FC,Korea Republic,midfielder,72.0,62.0,69.0,64.0,46.0,67.0
+V. Demaku,FK Austria Wien,Austria,midfielder,55.0,41.0,61.0,60.0,63.0,65.0
+N. Stark,Hertha BSC,Germany,defender,77.0,52.0,69.0,64.0,77.0,76.0
+A. Șeroni,FC Botoşani,Romania,defender,32.0,34.0,42.0,42.0,65.0,81.0
+D. Ulvestad,Kristiansund BK,Norway,defender,34.0,45.0,45.0,48.0,68.0,75.0
+I. Scocco,Newell's Old Boys,Argentina,attacker,70.0,79.0,80.0,73.0,35.0,64.0
+J. Clarke,Tottenham Hotspur,England,midfielder,75.0,60.0,71.0,61.0,25.0,53.0
+Júnior Santos,Sanfrecce Hiroshima,Brazil,attacker,70.0,70.0,68.0,52.0,26.0,74.0
+J. Hector,1. FC Köln,Germany,midfielder,59.0,60.0,75.0,75.0,76.0,75.0
+Ö. Toprak,SV Werder Bremen,Turkey,defender,72.0,39.0,68.0,61.0,80.0,70.0
+Á. Zaldívar,Club Deportivo Guadalajara,Mexico,attacker,76.0,67.0,70.0,63.0,43.0,70.0
+L. Marrone,AC Monza,Italy,defender,53.0,58.0,71.0,71.0,70.0,71.0
+A. McGeady,Sunderland,Republic of Ireland,midfielder,70.0,68.0,74.0,69.0,44.0,55.0
+A. Reca,Spezia,Poland,midfielder,78.0,57.0,69.0,64.0,62.0,65.0
+I. Tajouri-Shradi,New York City FC,Libya,attacker,82.0,70.0,75.0,64.0,33.0,57.0
+F. Hübner,1. FC Nürnberg,Germany,defender,51.0,43.0,44.0,46.0,75.0,71.0
+N. Bertolo,Platense,Argentina,midfielder,59.0,70.0,71.0,74.0,38.0,66.0
+Y. Endo,Kashima Antlers,Japan,midfielder,47.0,61.0,69.0,68.0,42.0,65.0
+V. Crețu,FCSB (Steaua),Romania,defender,84.0,39.0,61.0,55.0,64.0,80.0
+B. Whiteman,Preston North End,England,midfielder,68.0,63.0,69.0,68.0,63.0,71.0
+B. Zuculini,River Plate,Argentina,midfielder,66.0,65.0,70.0,67.0,70.0,80.0
+B. Lasme,DSC Arminia Bielefeld,France,attacker,83.0,66.0,62.0,52.0,24.0,71.0
+H. Ziyech,Chelsea,Morocco,attacker,78.0,76.0,83.0,87.0,50.0,65.0
+Afonso Sousa,Belenenses SAD,Portugal,attacker,75.0,56.0,75.0,64.0,45.0,54.0
+A. Milik,Olympique de Marseille,Poland,attacker,64.0,84.0,76.0,67.0,39.0,71.0
+D. Türüç,İstanbul Başakşehir FK,Turkey,midfielder,74.0,71.0,74.0,76.0,57.0,71.0
+S. Al Jaman,Abha Club,Saudi Arabia,midfielder,80.0,61.0,66.0,60.0,27.0,62.0
+Fei Nanduo,Guangzhou FC,China PR,midfielder,85.0,71.0,75.0,74.0,39.0,68.0
+S. Inagaki,Nagoya Grampus,Japan,midfielder,71.0,65.0,68.0,66.0,64.0,73.0
+T. Pellenard,AJ Auxerre,France,defender,58.0,36.0,63.0,61.0,65.0,68.0
+Yan,Moreirense FC,Brazil,midfielder,68.0,64.0,69.0,64.0,21.0,54.0
+W. Riveros,Barcelona Sporting Club,Paraguay,defender,63.0,34.0,54.0,50.0,70.0,72.0
+W. Janssen,FC Utrecht,Netherlands,defender,34.0,63.0,66.0,68.0,72.0,74.0
+A. Alipour,Clube Sport Marítimo,Iran,attacker,75.0,68.0,64.0,50.0,23.0,60.0
+Júnior Moraes,Shakhtar Donetsk,Ukraine,attacker,79.0,79.0,77.0,60.0,27.0,68.0
+Pablo Moreno,Girona FC,Spain,attacker,78.0,67.0,71.0,53.0,21.0,56.0
+L. Schøne,N.E.C. Nijmegen,Denmark,midfielder,37.0,74.0,75.0,79.0,62.0,58.0
+M. Robinson,Atlanta United,United States,defender,81.0,33.0,53.0,47.0,69.0,76.0
+D. Graovac,CFR Cluj,Bosnia and Herzegovina,defender,59.0,40.0,45.0,57.0,66.0,73.0
+M. Vrančić,Stoke City,Bosnia and Herzegovina,midfielder,50.0,70.0,72.0,75.0,58.0,69.0
+N. Müller,Central Coast Mariners,Germany,midfielder,65.0,67.0,71.0,66.0,43.0,61.0
+R. Řezník,FC Viktoria Plzeň,Czech Republic,defender,71.0,58.0,65.0,64.0,69.0,73.0
+A. Succar,Club Universitario de Deportes,Peru,attacker,76.0,67.0,62.0,53.0,26.0,66.0
+S. Ay,Çaykur Rizespor,Turkey,defender,63.0,42.0,48.0,49.0,66.0,77.0
+E. Smith Rowe,Arsenal,England,midfielder,78.0,64.0,78.0,73.0,32.0,61.0
+D. Appiah,FC Nantes,France,defender,75.0,39.0,63.0,59.0,69.0,75.0
+Borja Garcés,CD Leganés,Spain,attacker,62.0,72.0,68.0,50.0,31.0,49.0
+E. Hussain,Molde FK,Norway,midfielder,59.0,63.0,70.0,66.0,62.0,66.0
+J. Chicco,Club Atlético Sarmiento,Argentina,midfielder,55.0,50.0,62.0,61.0,64.0,65.0
+V. Odjidja-Ofoe,KAA Gent,Belgium,midfielder,58.0,69.0,74.0,76.0,69.0,76.0
+Nuno Mendes,Paris Saint-Germain,Portugal,defender,85.0,57.0,74.0,68.0,74.0,72.0
+J. Thiaré,Le Havre AC,Senegal,attacker,84.0,68.0,70.0,55.0,22.0,67.0
+A. Trondsen,Trabzonspor,Norway,midfielder,76.0,68.0,69.0,69.0,66.0,74.0
+Germán,Granada CF,Spain,defender,49.0,40.0,56.0,59.0,81.0,79.0
+A. Coeff,AJ Auxerre,France,defender,56.0,52.0,63.0,63.0,65.0,80.0
+R. Jack,Rangers FC,Scotland,midfielder,61.0,67.0,75.0,71.0,73.0,79.0
+A. Mehmedi,VfL Wolfsburg,Switzerland,attacker,68.0,74.0,78.0,70.0,43.0,66.0
+J. Molina,Club Deportivo Guadalajara,Mexico,midfielder,63.0,58.0,65.0,66.0,70.0,84.0
+P. Faragò,Cagliari,Italy,defender,60.0,57.0,67.0,69.0,65.0,66.0
+Fernando Boldrin,Çaykur Rizespor,Brazil,midfielder,66.0,69.0,71.0,70.0,59.0,64.0
+V. Aboubakar,Al Nassr,Cameroon,attacker,75.0,75.0,78.0,71.0,36.0,80.0
+Ki Sung Yueng,FC Seoul,Korea Republic,midfielder,45.0,69.0,69.0,77.0,63.0,72.0
+Kaio Figueiras,Club Athletico Paranaense,Brazil,defender,69.0,51.0,66.0,65.0,64.0,66.0
+M. Novak,RZ Pellets Wolfsberger AC,Austria,defender,73.0,45.0,64.0,59.0,64.0,71.0
+Ł. Trałka,Warta Poznań,Poland,midfielder,42.0,57.0,58.0,64.0,67.0,77.0
+C. McLennan,Aberdeen,Scotland,midfielder,81.0,60.0,64.0,59.0,45.0,62.0
+Z. Yıldırım,Altay SK,Turkey,midfielder,69.0,59.0,65.0,59.0,67.0,71.0
+P. Šulc,FC Viktoria Plzeň,Czech Republic,midfielder,70.0,57.0,72.0,68.0,35.0,54.0
+L. Tomlin,Cardiff City,England,midfielder,51.0,70.0,71.0,68.0,37.0,62.0
+A. Vellios,FC Academica Clinceni,Greece,attacker,47.0,66.0,60.0,56.0,36.0,68.0
+F. Kostić,Eintracht Frankfurt,Serbia,midfielder,88.0,77.0,83.0,82.0,68.0,80.0
+F. Lohkemper,1. FC Nürnberg,Germany,attacker,81.0,65.0,69.0,56.0,30.0,63.0
+D. Sánchez,Tottenham Hotspur,Colombia,defender,75.0,45.0,65.0,55.0,80.0,80.0
+F. Ricca,Club Brugge KV,Uruguay,defender,70.0,52.0,67.0,60.0,72.0,73.0
+K. Pröger,SC Paderborn 07,Germany,attacker,87.0,66.0,71.0,56.0,38.0,66.0
+D. Undav,Royale Union Saint-Gilloise,Germany,attacker,61.0,73.0,68.0,53.0,31.0,73.0
+L. García,AEK Athens,Trinidad and Tobago,attacker,85.0,67.0,80.0,70.0,31.0,71.0
+I. Bebou,TSG Hoffenheim,Togo,attacker,90.0,75.0,80.0,68.0,34.0,64.0
+M. Johnson,Sheffield Wednesday,England,midfielder,76.0,60.0,68.0,62.0,59.0,63.0
+T. Coulibaly,VfB Stuttgart,France,midfielder,79.0,57.0,77.0,62.0,42.0,61.0
+E. Kılınç,Galatasaray SK,Turkey,midfielder,77.0,69.0,74.0,67.0,47.0,59.0
+Welington Dano,Clube Atlético Mineiro,Brazil,defender,79.0,54.0,79.0,76.0,75.0,74.0
+D. Miloc,Arsenal de Sarandí,Argentina,midfielder,60.0,46.0,64.0,61.0,66.0,78.0
+A. Chipciu,CFR Cluj,Romania,attacker,77.0,68.0,69.0,67.0,52.0,70.0
+G. Sepúlveda,Club Deportivo Guadalajara,Mexico,defender,67.0,36.0,51.0,48.0,70.0,72.0
+Josué Chiamulera,Grêmio,Brazil,defender,78.0,43.0,64.0,56.0,85.0,79.0
+Toni Villa,Real Valladolid CF,Spain,midfielder,77.0,64.0,80.0,74.0,52.0,51.0
+E. Marcondes,AFC Bournemouth,Denmark,midfielder,74.0,68.0,72.0,67.0,38.0,60.0
+João Félix,Atlético de Madrid,Portugal,attacker,82.0,79.0,86.0,76.0,40.0,68.0
+L. Masopust,SK Slavia Praha,Czech Republic,midfielder,88.0,67.0,77.0,69.0,64.0,76.0
+J. Morrell,Portsmouth,Wales,midfielder,68.0,54.0,70.0,65.0,51.0,51.0
+P. Cutrone,Empoli,Italy,attacker,72.0,71.0,71.0,55.0,29.0,69.0
+Daguinho Parrela,Internacional,Brazil,defender,75.0,44.0,59.0,68.0,68.0,75.0
+V. Međimorec,AFC UTA Arad,Croatia,defender,70.0,38.0,41.0,34.0,67.0,71.0
+Y. Vertessen,PSV,Belgium,midfielder,91.0,62.0,68.0,62.0,30.0,66.0
+F. Mancuello,Vélez Sarsfield,Argentina,midfielder,65.0,64.0,71.0,77.0,57.0,66.0
+I. Coulibaly,K Beerschot VA,Mali,midfielder,80.0,65.0,71.0,63.0,63.0,67.0
+Wilson Sosán,Atlético Clube Goianiense,Brazil,midfielder,73.0,48.0,69.0,70.0,30.0,55.0
+N. Valskis,Jamshedpur FC,Lithuania,attacker,64.0,67.0,63.0,57.0,31.0,73.0
+T. Barkhuizen,Preston North End,England,midfielder,94.0,66.0,70.0,60.0,41.0,68.0
+G. Roemeratoe,Willem II,Netherlands,midfielder,70.0,44.0,64.0,59.0,66.0,73.0
+Allan Sousa,Vejle Boldklub,Brazil,midfielder,84.0,64.0,74.0,63.0,23.0,62.0
+A. Cougo,Club Libertad,Uruguay,defender,79.0,52.0,60.0,59.0,57.0,69.0
+J. Williams,Bristol City,England,midfielder,60.0,56.0,67.0,67.0,68.0,64.0
+M. Ureña,Central Coast Mariners,Costa Rica,attacker,81.0,62.0,70.0,59.0,37.0,68.0
+T. Hübers,1. FC Köln,Germany,defender,83.0,39.0,56.0,54.0,72.0,71.0
+Dani Raba,Villarreal CF,Spain,midfielder,66.0,71.0,73.0,72.0,38.0,58.0
+M. Rashica,Norwich City,Kosovo,attacker,83.0,77.0,83.0,71.0,46.0,65.0
+Pedro Henrique,Demir Grup Sivasspor,Brazil,midfielder,80.0,68.0,73.0,67.0,31.0,61.0
+P. Olkowski,Gazişehir Gaziantep F.K.,Poland,defender,74.0,57.0,66.0,63.0,65.0,72.0
+D. Mayor,Plymouth Argyle,England,midfielder,71.0,64.0,69.0,66.0,49.0,67.0
+H. Akbunar,Göztepe SK,Turkey,attacker,87.0,67.0,77.0,70.0,38.0,58.0
+J. Cooper,Millwall,England,defender,53.0,32.0,52.0,48.0,73.0,78.0
+J. Torunarigha,Hertha BSC,Germany,defender,74.0,34.0,65.0,63.0,75.0,74.0
+M. Nakamba,Aston Villa,Zimbabwe,midfielder,70.0,49.0,71.0,62.0,74.0,78.0
+Daniel Podence,Wolverhampton Wanderers,Portugal,attacker,90.0,65.0,85.0,71.0,33.0,50.0
+A. Izzo,Torino F.C.,Italy,defender,70.0,33.0,65.0,48.0,82.0,78.0
+M. Álvarez,Cracovia,Germany,attacker,62.0,68.0,67.0,66.0,33.0,69.0
+G. Bonaventura,Fiorentina,Italy,midfielder,69.0,75.0,80.0,80.0,70.0,65.0
+J. Van Rankin,Portland Timbers,Mexico,defender,73.0,39.0,67.0,63.0,68.0,75.0
+Víctor Gómez,Málaga CF,Spain,defender,75.0,50.0,69.0,70.0,66.0,67.0
+Murilo,Gil Vicente FC,Brazil,midfielder,89.0,70.0,77.0,65.0,25.0,65.0
+E. Bohinen,PFC CSKA Moscow,Norway,midfielder,67.0,60.0,70.0,67.0,66.0,69.0
+Samu Castillejo,AC Milan,Spain,attacker,80.0,69.0,82.0,74.0,43.0,53.0
+Rafa,SL Benfica,Portugal,midfielder,94.0,73.0,86.0,74.0,50.0,52.0
+G. Fratta,Gimnasia y Esgrima La Plata,Uruguay,defender,66.0,35.0,51.0,44.0,69.0,63.0
+E. Bailly,Manchester United,Côte d'Ivoire,defender,73.0,42.0,67.0,58.0,79.0,77.0
+Lee You Hyeon,Jeonbuk Hyundai Motors,Korea Republic,defender,78.0,41.0,65.0,59.0,60.0,74.0
+Marcos André,Valencia CF,Brazil,attacker,76.0,78.0,72.0,59.0,38.0,73.0
+Ricardo Alves,CD Tondela,Portugal,defender,67.0,40.0,54.0,52.0,67.0,71.0
+D. Pines,D.C. United,United States,defender,71.0,22.0,45.0,39.0,70.0,77.0
+C. Mandouki,Paris FC,France,midfielder,55.0,54.0,66.0,64.0,67.0,73.0
+C. Gentner,FC Luzern,Germany,midfielder,34.0,73.0,66.0,72.0,73.0,72.0
+I. Boura,Racing Club de Lens,France,defender,67.0,47.0,69.0,53.0,62.0,58.0
+Edu Bedia,FC Goa,Spain,midfielder,49.0,57.0,68.0,70.0,48.0,71.0
+M. te Wierik,FC Groningen,Netherlands,defender,53.0,48.0,62.0,59.0,69.0,73.0
+D. John,Bolton Wanderers,Wales,defender,86.0,54.0,68.0,60.0,61.0,62.0
+P. Ochs,Hannover 96,Germany,defender,72.0,63.0,69.0,64.0,61.0,61.0
+J. Nilsson,DSC Arminia Bielefeld,Sweden,defender,60.0,32.0,55.0,54.0,74.0,74.0
+Morata,Juventus,Spain,attacker,82.0,80.0,81.0,72.0,31.0,77.0
+T. Bunbury,New England Revolution,United States,midfielder,73.0,66.0,66.0,59.0,41.0,78.0
+P. Lienhart,Sport-Club Freiburg,Austria,defender,64.0,28.0,61.0,56.0,78.0,73.0
+J. Delgado,FC Paços de Ferreira,Chile,midfielder,76.0,63.0,72.0,63.0,41.0,64.0
+Artur Jorge,Moreirense FC,Portugal,defender,53.0,35.0,50.0,46.0,74.0,75.0
+D. Díaz,Barcelona Sporting Club,Ecuador,midfielder,74.0,65.0,77.0,76.0,44.0,68.0
+A. Selmani,Hammarby IF,Kosovo,attacker,70.0,69.0,64.0,53.0,30.0,80.0
+P. Magalhães,CD Antofagasta,Chile,defender,74.0,43.0,62.0,58.0,65.0,74.0
+Y. Yeboah,Wisła Kraków,Ghana,midfielder,90.0,62.0,73.0,57.0,25.0,52.0
+D. Le Tallec,AEK Athens,France,midfielder,60.0,62.0,69.0,68.0,75.0,78.0
+P. Maslov,Spartak Moskva,Russia,defender,76.0,33.0,60.0,59.0,67.0,65.0
+P. Schürpf,FC Luzern,Switzerland,midfielder,71.0,69.0,61.0,65.0,61.0,73.0
+J. Emmanuel-Thomas,Aberdeen,England,attacker,71.0,67.0,69.0,64.0,36.0,72.0
+L. Cueto,Karlsruher SC,Germany,attacker,91.0,63.0,71.0,54.0,35.0,53.0
+G. Chakvetadze,KAA Gent,Georgia,midfielder,71.0,66.0,72.0,69.0,34.0,51.0
+J. Russell,Sporting Kansas City,Scotland,attacker,77.0,73.0,77.0,70.0,50.0,79.0
+M. Viña,Roma,Uruguay,defender,82.0,62.0,75.0,71.0,69.0,69.0
+André Almeida,Vitória de Guimarães,Portugal,midfielder,72.0,62.0,75.0,66.0,59.0,64.0
+E. Aguilar,Incheon United FC,Costa Rica,midfielder,63.0,64.0,72.0,77.0,46.0,70.0
+T. Hlatshwayo,Orlando Pirates,South Africa,defender,59.0,29.0,37.0,48.0,70.0,73.0
+I. Näsberg,Vålerenga Fotball,Norway,defender,66.0,35.0,55.0,52.0,65.0,74.0
+J. Familia-Castillo,Birmingham City,Netherlands,defender,79.0,53.0,67.0,62.0,57.0,72.0
+Ó. Trejo,Rayo Vallecano,Argentina,midfielder,71.0,72.0,78.0,75.0,69.0,77.0
+M. Manotas,Club Tijuana,Colombia,attacker,72.0,71.0,70.0,59.0,33.0,67.0
+A. Traustason,New England Revolution,Iceland,midfielder,81.0,67.0,69.0,65.0,55.0,72.0
+F. Grahl,Club Atlético Aldosivi,Argentina,midfielder,68.0,52.0,67.0,69.0,56.0,66.0
+A. Lucoqui,1. FSV Mainz 05,Angola,defender,79.0,44.0,67.0,59.0,68.0,71.0
+N. Chalobah,Fulham,England,midfielder,61.0,61.0,72.0,68.0,72.0,71.0
+L. Grimi,Club Atlético Huracán,Argentina,defender,52.0,62.0,64.0,63.0,67.0,70.0
+J. Kubicki,Lechia Gdańsk,Poland,midfielder,72.0,56.0,66.0,62.0,62.0,76.0
+A. Rodríguez,Deportivo Cali,Colombia,attacker,70.0,69.0,68.0,55.0,32.0,77.0
+M. Beister,FC Ingolstadt 04,Germany,midfielder,72.0,66.0,70.0,61.0,39.0,62.0
+Juan Bernat,Paris Saint-Germain,Spain,defender,82.0,65.0,82.0,78.0,76.0,68.0
+M. De Sciglio,Juventus,Italy,defender,68.0,46.0,74.0,70.0,75.0,69.0
+E. Aguirre,CF Monterrey,Mexico,defender,90.0,54.0,70.0,68.0,67.0,71.0
+Antonaldo Vaz,Palmeiras,Brazil,defender,71.0,38.0,65.0,62.0,68.0,68.0
+S. Falette,Atakaş Hatayspor,Guinea,defender,68.0,44.0,47.0,46.0,69.0,80.0
+G. Masouras,Sparta Rotterdam,Greece,defender,91.0,49.0,65.0,58.0,60.0,68.0
+Luan Sendeiro,Internacional,Brazil,midfielder,67.0,56.0,61.0,71.0,68.0,68.0
+A. Musa,Fatih Karagümrük S.K.,Nigeria,midfielder,92.0,66.0,74.0,63.0,30.0,55.0
+A. Gogić,Hibernian,Cyprus,midfielder,46.0,45.0,54.0,52.0,66.0,83.0
+Ó. Cardozo,Club Libertad,Paraguay,attacker,50.0,80.0,64.0,63.0,28.0,68.0
+M. Kudus,Ajax,Ghana,midfielder,88.0,72.0,82.0,70.0,60.0,75.0
+L. Pernica,FC Viktoria Plzeň,Czech Republic,defender,65.0,38.0,54.0,54.0,70.0,75.0
+R. Harakawa,Cerezo Osaka,Japan,midfielder,83.0,66.0,71.0,69.0,60.0,69.0
+Pedrão,Portimonense SC,Brazil,defender,55.0,30.0,46.0,43.0,65.0,76.0
+J. Álvarez,River Plate,Argentina,attacker,84.0,74.0,75.0,72.0,46.0,62.0
+G. Donsah,Crotone,Ghana,midfielder,70.0,63.0,73.0,70.0,66.0,74.0
+G. Togni,Club Atlético Independiente,Argentina,defender,81.0,65.0,72.0,66.0,62.0,69.0
+L. Shankland,K Beerschot VA,Scotland,attacker,72.0,68.0,66.0,58.0,27.0,72.0
+T. Ünlü,Altay SK,Germany,defender,72.0,36.0,66.0,61.0,63.0,70.0
+Riki,Burgos CF,Spain,midfielder,70.0,62.0,69.0,66.0,48.0,54.0
+M. Salah,Liverpool,Egypt,attacker,90.0,87.0,90.0,81.0,45.0,75.0
+M. Gregoritsch,FC Augsburg,Austria,attacker,60.0,73.0,70.0,72.0,41.0,71.0
+Lincoln,Vissel Kobe,Brazil,attacker,73.0,67.0,71.0,57.0,22.0,63.0
+E. Triverio,Club Atlético Huracán,Argentina,attacker,43.0,68.0,67.0,52.0,30.0,73.0
+M. Sala,Crotone,Italy,defender,72.0,36.0,66.0,55.0,63.0,58.0
+S. Bergwijn,Tottenham Hotspur,Netherlands,midfielder,85.0,78.0,82.0,75.0,39.0,69.0
+R. Coly,Estoril Praia,Senegal,defender,79.0,44.0,60.0,58.0,63.0,72.0
+E. Choupo-Moting,FC Bayern München,Cameroon,attacker,71.0,73.0,78.0,68.0,38.0,73.0
+M. Arnold,VfL Wolfsburg,Germany,midfielder,65.0,81.0,78.0,79.0,76.0,74.0
+D. Župarić,Portland Timbers,Croatia,defender,49.0,21.0,56.0,45.0,69.0,77.0
+C. Kazim-Richards,Derby County,Turkey,attacker,54.0,71.0,62.0,66.0,34.0,79.0
+Gilberto,SL Benfica,Brazil,defender,78.0,55.0,70.0,68.0,71.0,74.0
+M. Pineida,Barcelona Sporting Club,Ecuador,defender,73.0,44.0,63.0,64.0,68.0,72.0
+C. Gutiérrez,Club Universidad Nacional,Mexico,midfielder,78.0,53.0,69.0,67.0,43.0,61.0
+N. Poulsen,Aarhus GF,Denmark,midfielder,61.0,45.0,65.0,66.0,69.0,80.0
+N. Lodeiro,Seattle Sounders FC,Uruguay,midfielder,74.0,73.0,81.0,83.0,49.0,74.0
+N. Stefanelli,AIK,Argentina,attacker,88.0,67.0,75.0,59.0,33.0,69.0
+E. Rivière,Crotone,France,attacker,76.0,68.0,64.0,57.0,31.0,59.0
+T. Kongolo,Fulham,Netherlands,defender,66.0,43.0,65.0,60.0,70.0,71.0
+J. Zavala,Mazatlán Futbol Club,Mexico,defender,42.0,54.0,60.0,61.0,66.0,80.0
+Shi Ke,Shandong Taishan,China PR,defender,66.0,26.0,47.0,44.0,67.0,74.0
+M. Politano,Napoli,Italy,midfielder,83.0,77.0,84.0,78.0,42.0,55.0
+M. Kana,RSC Anderlecht,Belgium,midfielder,70.0,32.0,68.0,63.0,65.0,65.0
+G. Cameron,FC Cincinnati,United States,defender,46.0,55.0,64.0,63.0,68.0,74.0
+Pizzi,SL Benfica,Portugal,midfielder,75.0,77.0,82.0,81.0,64.0,66.0
+C. Paterson,Sheffield Wednesday,Scotland,attacker,70.0,66.0,62.0,62.0,66.0,83.0
+J. Christensen,FC Nordsjælland,Denmark,midfielder,70.0,56.0,69.0,67.0,65.0,70.0
+L. Zarandia,SV Zulte Waregem,Georgia,midfielder,84.0,61.0,73.0,58.0,39.0,61.0
+Vanderleiton,Santos,Brazil,defender,62.0,46.0,57.0,57.0,72.0,68.0
+Zé Uilton,FC Paços de Ferreira,Brazil,attacker,74.0,58.0,69.0,59.0,27.0,49.0
+L. Dvali,Ferencvárosi TC,Georgia,defender,57.0,32.0,40.0,40.0,69.0,82.0
+R. Camacho,Club de Foot Montréal,France,defender,38.0,42.0,57.0,62.0,67.0,78.0
+D. Toköz,Trabzonspor,Turkey,midfielder,71.0,65.0,71.0,69.0,71.0,72.0
+F. Colidio,Inter,Argentina,attacker,68.0,67.0,70.0,63.0,25.0,44.0
+L. Fuentes,Club América,Mexico,defender,72.0,57.0,67.0,67.0,72.0,69.0
+M. Lustig,AIK,Sweden,defender,55.0,54.0,61.0,66.0,73.0,71.0
+F. Coquelin,Villarreal CF,France,midfielder,68.0,67.0,80.0,76.0,78.0,79.0
+V. Wormgoor,Columbus Crew,Netherlands,defender,32.0,38.0,53.0,56.0,70.0,81.0
+J. King,Watford,Norway,attacker,79.0,76.0,76.0,68.0,38.0,70.0
+N. Stanciu,SK Slavia Praha,Romania,midfielder,72.0,75.0,80.0,80.0,59.0,68.0
+A. Miranchuk,Atalanta,Russia,midfielder,75.0,70.0,80.0,76.0,31.0,62.0
+N. Atkinson,Melbourne City FC,Australia,defender,78.0,46.0,69.0,61.0,61.0,79.0
+Ronaldo Esler,Fortaleza,Brazil,defender,89.0,58.0,77.0,70.0,74.0,59.0
+D. Rice,West Ham United,England,midfielder,66.0,53.0,74.0,71.0,81.0,79.0
+G. Berggren,BK Häcken,Sweden,midfielder,58.0,47.0,58.0,57.0,62.0,74.0
+A. Correa,La Equidad,Colombia,defender,76.0,40.0,58.0,59.0,62.0,74.0
+A. Tinnerholm,New York City FC,Sweden,defender,74.0,52.0,69.0,66.0,68.0,77.0
+F. Aursnes,Feyenoord,Norway,midfielder,74.0,65.0,71.0,70.0,67.0,72.0
+Marvin,Real Madrid CF,Spain,attacker,81.0,60.0,68.0,59.0,19.0,48.0
+S. Dest,FC Barcelona,United States,defender,87.0,59.0,81.0,72.0,67.0,66.0
+Fabrio Farinha,Internacional,Brazil,midfielder,72.0,62.0,77.0,75.0,43.0,58.0
+C. Mavinga,Toronto FC,Congo DR,defender,81.0,39.0,63.0,62.0,68.0,76.0
+I. Pillud,Racing Club,Argentina,defender,65.0,50.0,62.0,65.0,69.0,78.0
+J. Rivierez,Stade Malherbe Caen,France,defender,43.0,28.0,55.0,53.0,64.0,80.0
+W. Singo,Torino F.C.,Côte d'Ivoire,defender,77.0,40.0,67.0,57.0,62.0,59.0
+S. Schön,FC Dallas,Hungary,attacker,79.0,60.0,70.0,58.0,28.0,47.0
+Fernando Karanga,Henan Songshan Longmen FC,Brazil,attacker,63.0,71.0,62.0,52.0,30.0,76.0
+M. Terrier,Stade Rennais FC,France,attacker,84.0,77.0,76.0,74.0,35.0,66.0
+Reguilón,Tottenham Hotspur,Spain,defender,86.0,58.0,78.0,75.0,78.0,70.0
+Eugeni,FC Arouca,Spain,midfielder,63.0,69.0,72.0,73.0,57.0,65.0
+J. Quiñónes,Club Deportes Tolima,Colombia,defender,56.0,35.0,42.0,41.0,69.0,79.0
+E. Andersson,Mjällby AIF,Sweden,midfielder,64.0,58.0,69.0,69.0,56.0,63.0
+Manuel Fernandes,Yukatel Kayserispor,Portugal,midfielder,64.0,70.0,75.0,74.0,64.0,64.0
+J. Rodríguez,Club León,Mexico,midfielder,68.0,44.0,67.0,66.0,73.0,58.0
+D. Blanco,Club Atlético Independiente,Argentina,midfielder,83.0,67.0,81.0,75.0,66.0,66.0
+Andrés Martín,Rayo Vallecano,Spain,attacker,78.0,69.0,69.0,65.0,27.0,64.0
+R. Vormer,Club Brugge KV,Netherlands,midfielder,58.0,75.0,70.0,79.0,75.0,79.0
+L. Morgan,Inter Miami CF,Scotland,midfielder,84.0,65.0,72.0,69.0,52.0,64.0
+F. Díaz,Club Nacional,Colombia,defender,73.0,50.0,65.0,68.0,67.0,69.0
+A. Barkok,Eintracht Frankfurt,Morocco,midfielder,78.0,66.0,78.0,69.0,55.0,65.0
+M. Dárdai,Hertha BSC,Germany,defender,65.0,32.0,56.0,63.0,71.0,69.0
+Allan,Everton,Brazil,midfielder,72.0,71.0,82.0,77.0,80.0,79.0
+Y. Neyou,AS Saint-Étienne,Cameroon,midfielder,65.0,60.0,76.0,67.0,73.0,67.0
+K. Sulemana,Stade Rennais FC,Ghana,attacker,93.0,66.0,76.0,60.0,28.0,63.0
+R. De Laet,Royal Antwerp FC,Belgium,defender,83.0,51.0,69.0,64.0,76.0,78.0
+S. Alexandropoulos,Panathinaikos FC,Greece,midfielder,76.0,57.0,67.0,61.0,65.0,66.0
+S. Pérez,Boavista FC,Colombia,midfielder,68.0,59.0,67.0,62.0,62.0,62.0
+C. Vanhoutte,KSV Cercle Brugge,Belgium,midfielder,64.0,54.0,65.0,59.0,62.0,70.0
+M. Rashford,Manchester United,England,midfielder,90.0,84.0,84.0,79.0,43.0,77.0
+Christian Rivera,Real Sporting de Gijón,Spain,midfielder,53.0,48.0,66.0,63.0,66.0,72.0
+Adolfinho Padilha,Bahia,Brazil,defender,81.0,57.0,75.0,65.0,69.0,72.0
+Y. Ravet,Grenoble Foot 38,France,attacker,72.0,67.0,74.0,72.0,38.0,67.0
+Rúben Lima,Futebol Clube de Famalicão,Portugal,defender,73.0,57.0,69.0,65.0,72.0,69.0
+A. Kramarić,TSG Hoffenheim,Croatia,attacker,71.0,86.0,86.0,76.0,30.0,71.0
+Rober Correa,SD Eibar,Spain,defender,73.0,43.0,63.0,59.0,67.0,74.0
+A. Bobichon,Angers SCO,France,midfielder,65.0,73.0,72.0,72.0,56.0,65.0
+S. Hefti,BSC Young Boys,Switzerland,defender,75.0,49.0,65.0,64.0,70.0,80.0
+R. Matsumoto,Oita Trinita,Japan,midfielder,83.0,54.0,64.0,62.0,57.0,65.0
+Bruno Fernandes,Manchester United,Portugal,midfielder,75.0,86.0,84.0,89.0,70.0,77.0
+A. Gray,Queens Park Rangers,Jamaica,attacker,82.0,72.0,71.0,61.0,30.0,72.0
+K. Imeri,Servette FC,Switzerland,attacker,71.0,65.0,69.0,64.0,56.0,65.0
+N. González,Fiorentina,Argentina,attacker,87.0,71.0,82.0,64.0,45.0,60.0
+L. Akins,Burton Albion,England,midfielder,73.0,64.0,64.0,59.0,59.0,79.0
+Aarón,1. FSV Mainz 05,Spain,defender,64.0,47.0,74.0,71.0,71.0,64.0
+E. Gutiérrez,Club Universitario de Deportes,Argentina,attacker,52.0,69.0,61.0,55.0,32.0,68.0
+Fafà Picault,Houston Dynamo,United States,midfielder,86.0,66.0,71.0,62.0,40.0,49.0
+R. Kongolo,SC Heerenveen,Netherlands,midfielder,72.0,55.0,66.0,59.0,66.0,78.0
+B. Mansilla,Platense,Argentina,midfielder,90.0,62.0,71.0,57.0,43.0,67.0
+N. Pépé,Arsenal,Côte d'Ivoire,midfielder,88.0,79.0,83.0,75.0,36.0,65.0
+S. Biuk,Hajduk Split,Croatia,midfielder,78.0,59.0,67.0,63.0,35.0,59.0
+İ. Öztürk,Altay SK,Turkey,defender,32.0,43.0,48.0,48.0,68.0,74.0
+S. Mikalsen,Lillestrøm SK,Norway,defender,73.0,60.0,61.0,57.0,63.0,71.0
+Jeong Jae Yong,Suwon FC,Korea Republic,midfielder,49.0,59.0,60.0,62.0,63.0,79.0
+E. Zelaya,Damac FC,Argentina,attacker,72.0,75.0,63.0,58.0,33.0,76.0
+A. Johansson,Halmstads BK,Sweden,defender,33.0,52.0,61.0,59.0,68.0,68.0
+J. Cabot,Angers SCO,France,midfielder,91.0,66.0,75.0,60.0,28.0,53.0
+S. Deli,Adana Demirspor,Côte d'Ivoire,defender,69.0,46.0,65.0,53.0,75.0,80.0
+F. Đuričić,U.S. Sassuolo Calcio,Serbia,midfielder,73.0,69.0,78.0,75.0,42.0,60.0
+L. Ponzio,River Plate,Argentina,midfielder,47.0,58.0,65.0,69.0,72.0,67.0
+M. Coco,FC Nantes,France,midfielder,86.0,69.0,72.0,68.0,47.0,59.0
+T. Chandler,Eintracht Frankfurt,United States,midfielder,64.0,71.0,70.0,72.0,72.0,78.0
+G. Mackay-Steven,Heart of Midlothian,Scotland,midfielder,83.0,61.0,71.0,61.0,36.0,56.0
+M. Olosunde,Preston North End,United States,defender,76.0,39.0,64.0,52.0,64.0,65.0
+J. Vásquez,Genoa,Mexico,defender,66.0,32.0,56.0,57.0,73.0,72.0
+R. Hatsuse,Vissel Kobe,Japan,defender,73.0,32.0,60.0,56.0,62.0,60.0
+J. Keohane,Rochdale,Republic of Ireland,defender,76.0,53.0,61.0,55.0,59.0,65.0
+Mauro Júnior,PSV,Brazil,midfielder,84.0,65.0,77.0,72.0,49.0,50.0
+Víctor Chust,Cádiz CF,Spain,defender,68.0,23.0,35.0,36.0,69.0,66.0
+A. Lennon,Burnley,England,midfielder,78.0,60.0,77.0,70.0,48.0,56.0
+K. Holmberg,Djurgårdens IF,Sweden,attacker,72.0,65.0,64.0,56.0,42.0,73.0
+Vítor Costa,Clube Sport Marítimo,Brazil,defender,75.0,54.0,66.0,58.0,62.0,66.0
+J. Gaari,RKC Waalwijk,Curacao,defender,75.0,40.0,63.0,52.0,62.0,71.0
+F. Lejeune,Deportivo Alavés,France,defender,45.0,57.0,66.0,61.0,78.0,76.0
+E. Insúa,Club Atlético Aldosivi,Argentina,defender,73.0,58.0,67.0,62.0,70.0,75.0
+K. Ramírez,Gallos Blancos de Querétaro,Uruguay,midfielder,82.0,57.0,73.0,63.0,32.0,58.0
+T. Sakamoto,Cerezo Osaka,Japan,midfielder,73.0,66.0,71.0,67.0,40.0,60.0
+F. Girotti,River Plate,Argentina,attacker,69.0,68.0,64.0,48.0,31.0,72.0
+S. Jamieson,Melbourne City FC,Australia,defender,64.0,52.0,61.0,61.0,63.0,78.0
+J. Howson,Middlesbrough,England,midfielder,57.0,68.0,70.0,67.0,69.0,72.0
+R. Rodríguez,Torino F.C.,Switzerland,defender,71.0,67.0,74.0,74.0,75.0,74.0
+L. Sobiech,SV Darmstadt 98,Germany,defender,37.0,51.0,43.0,47.0,74.0,73.0
+M. Kallesøe,Randers FC,Denmark,defender,81.0,55.0,65.0,59.0,59.0,70.0
+A. Carrasquilla,Houston Dynamo,Panama,midfielder,73.0,61.0,72.0,64.0,57.0,66.0
+A. Carboni,Cagliari,Italy,defender,56.0,28.0,61.0,54.0,70.0,64.0
+A. González,Málaga CF,Venezuela,defender,80.0,65.0,71.0,64.0,66.0,80.0
+Roberto López,Real Sociedad B,Spain,midfielder,60.0,70.0,71.0,71.0,16.0,57.0
+T. Kister,SV Sandhausen,Germany,defender,43.0,29.0,40.0,42.0,67.0,71.0
+T. Ambrose,KV Oostende,France,midfielder,80.0,65.0,70.0,59.0,29.0,67.0
+R. Curtis,Portsmouth,Republic of Ireland,midfielder,83.0,64.0,67.0,60.0,48.0,76.0
+J. Morávek,FC Augsburg,Czech Republic,midfielder,37.0,69.0,72.0,73.0,55.0,56.0
+M. Aramu,Venezia FC,Italy,midfielder,74.0,63.0,74.0,70.0,52.0,60.0
+M. Angha,Fortuna Sittard,Switzerland,defender,71.0,37.0,63.0,58.0,65.0,74.0
+P. Musa,Boavista FC,Croatia,attacker,72.0,72.0,69.0,58.0,35.0,72.0
+B. White,Arsenal,England,defender,69.0,27.0,67.0,61.0,77.0,76.0
+J. Barrera,Atlético Nacional,Colombia,midfielder,73.0,65.0,75.0,74.0,42.0,57.0
+Isi,Rayo Vallecano,Spain,midfielder,86.0,74.0,77.0,73.0,39.0,65.0
+M. Brozović,Inter,Croatia,midfielder,69.0,74.0,79.0,80.0,79.0,78.0
+I. Sylla,Toulouse Football Club,Guinea,defender,62.0,61.0,66.0,67.0,65.0,74.0
+Joãozinho,Estoril Praia,Portugal,defender,68.0,55.0,67.0,65.0,68.0,69.0
+M. Lliuya,Sport Huancayo,Peru,midfielder,65.0,68.0,71.0,64.0,45.0,62.0
+S. Yajima,Gamba Osaka,Japan,midfielder,69.0,59.0,67.0,64.0,55.0,65.0
+T. St. Jago,FC Utrecht,Netherlands,defender,78.0,34.0,60.0,52.0,70.0,72.0
+E. Wiemberg,Unión La Calera,Chile,defender,72.0,53.0,68.0,63.0,63.0,64.0
+José Mari,Cádiz CF,Spain,midfielder,65.0,60.0,66.0,67.0,68.0,73.0
+I. Erquiaga,Club Atlético Huracán,Argentina,defender,78.0,47.0,68.0,60.0,64.0,62.0
+N. Castrillón,Club Deportes Tolima,Colombia,defender,70.0,29.0,55.0,47.0,63.0,69.0
+Lee Chang Min,Jeju United FC,Korea Republic,midfielder,67.0,64.0,64.0,68.0,59.0,73.0
+Timor,Getafe CF,Spain,midfielder,41.0,66.0,67.0,72.0,68.0,76.0
+D. Blacha,SV Meppen,Poland,midfielder,63.0,58.0,71.0,67.0,59.0,65.0
+F. Pisacane,Lecce,Italy,defender,60.0,26.0,62.0,52.0,72.0,66.0
+E. Muñoz,Club Atlético Independiente,Argentina,defender,52.0,31.0,52.0,49.0,70.0,73.0
+S. Gassama,Málaga CF,Senegal,attacker,63.0,71.0,61.0,47.0,32.0,76.0
+José Gragera,Real Sporting de Gijón,Spain,midfielder,61.0,49.0,65.0,66.0,69.0,73.0
+D. Warmerdam,FC Utrecht,Netherlands,defender,74.0,58.0,73.0,66.0,66.0,76.0
+M. Götze,PSV,Germany,midfielder,68.0,75.0,84.0,83.0,55.0,69.0
+A. Maier,FC Augsburg,Germany,midfielder,69.0,57.0,75.0,71.0,68.0,71.0
+B. Carrasco,Club Deportivo Palestino,Chile,midfielder,89.0,62.0,68.0,62.0,42.0,62.0
+Abel Camará,Belenenses SAD,Guinea Bissau,attacker,74.0,71.0,67.0,60.0,22.0,77.0
+Albertinho Dutra,São Paulo,Brazil,attacker,81.0,72.0,80.0,81.0,23.0,50.0
+F. Chiesa,Juventus,Italy,attacker,91.0,81.0,85.0,74.0,48.0,73.0
+N. Eliasson,Nîmes Olympique,Sweden,midfielder,87.0,61.0,75.0,69.0,38.0,53.0
+E. Saveljich,Rayo Vallecano,Montenegro,defender,45.0,32.0,43.0,46.0,69.0,80.0
+Carvajal,Real Madrid CF,Spain,defender,80.0,54.0,80.0,78.0,81.0,80.0
+Juande,Adelaide United,Spain,midfielder,55.0,48.0,62.0,61.0,63.0,76.0
+Eduardo Henrique,Al Raed,Brazil,midfielder,71.0,67.0,72.0,70.0,67.0,74.0
+F. Cassata,Genoa,Italy,midfielder,47.0,48.0,68.0,68.0,54.0,57.0
+T. Eaves,Hull City,England,attacker,53.0,66.0,59.0,46.0,37.0,79.0
+Bruno Fagundeiro,Cuiabá,Brazil,midfielder,65.0,66.0,70.0,70.0,55.0,60.0
+E. Thommy,VfB Stuttgart,Germany,midfielder,76.0,70.0,75.0,71.0,33.0,50.0
+H. Dervişoğlu,Galatasaray SK,Turkey,attacker,75.0,69.0,72.0,64.0,36.0,65.0
+J. Toivio,BK Häcken,Finland,defender,55.0,52.0,52.0,55.0,65.0,74.0
+B. Salamon,Lech Poznań,Poland,defender,40.0,45.0,56.0,58.0,69.0,64.0
+Ayrton,Spartak Moskva,Brazil,defender,84.0,55.0,75.0,65.0,67.0,76.0
+Sergio Álvarez,SD Eibar,Spain,midfielder,61.0,66.0,68.0,68.0,71.0,79.0
+W. Zahibo,Dundalk FC,Central African Republic,midfielder,52.0,47.0,59.0,56.0,63.0,79.0
+C. Gonzáles,Club Sporting Cristal,Peru,midfielder,71.0,64.0,76.0,67.0,56.0,54.0
+Toni Martínez,FC Porto,Spain,attacker,72.0,77.0,72.0,58.0,24.0,75.0
+M. Bakalorz,MSV Duisburg,Germany,midfielder,62.0,65.0,62.0,59.0,69.0,76.0
+D. Sterling,Blackpool,England,defender,75.0,48.0,64.0,56.0,64.0,68.0
+E. Agbadou,KAS Eupen,Côte d'Ivoire,defender,65.0,30.0,57.0,50.0,66.0,79.0
+D. Sinkgraven,Bayer 04 Leverkusen,Netherlands,defender,77.0,60.0,79.0,73.0,72.0,64.0
+J. Benítez,Club Deportivo Palestino,Argentina,attacker,80.0,64.0,71.0,60.0,39.0,71.0
+D. Nemeth,1. FSV Mainz 05,Austria,defender,60.0,29.0,40.0,43.0,70.0,79.0
+Marc Cardona,Go Ahead Eagles,Spain,attacker,75.0,71.0,71.0,61.0,27.0,61.0
+S. Hausner,Aarhus GF,Denmark,defender,68.0,26.0,55.0,45.0,68.0,73.0
+M. Ruben,Rosario Central,Argentina,attacker,74.0,74.0,70.0,63.0,42.0,72.0
+T. Moulin,FC Academica Clinceni,France,midfielder,67.0,63.0,66.0,63.0,63.0,70.0
+Ander Guevara,Real Sociedad,Spain,midfielder,53.0,64.0,71.0,74.0,73.0,70.0
+Jonathan Viera,Unión Deportiva Las Palmas,Spain,midfielder,82.0,75.0,82.0,79.0,63.0,69.0
+A. Abdi,Stade Malherbe Caen,Tunisia,defender,83.0,59.0,68.0,65.0,60.0,72.0
+Danilo,Parma,Brazil,defender,38.0,39.0,53.0,49.0,78.0,66.0
+V. Verre,U.C. Sampdoria,Italy,midfielder,70.0,74.0,75.0,74.0,65.0,66.0
+D. Granli,Aalborg BK,Norway,defender,64.0,48.0,58.0,58.0,67.0,70.0
+Diogo Mendes,Clube Sport Marítimo,Portugal,midfielder,67.0,48.0,66.0,60.0,67.0,72.0
+E. Doyle,Bolton Wanderers,Republic of Ireland,attacker,62.0,67.0,64.0,58.0,28.0,70.0
+Waldo,KSV Cercle Brugge,Spain,midfielder,88.0,71.0,76.0,63.0,35.0,66.0
+B. Pichler,Holstein Kiel,Austria,attacker,71.0,67.0,64.0,63.0,33.0,67.0
+Víctor Díaz,Granada CF,Spain,defender,71.0,56.0,67.0,68.0,75.0,75.0
+D. Zima,Torino F.C.,Czech Republic,defender,74.0,38.0,63.0,54.0,76.0,76.0
+R. Meshino,Estoril Praia,Japan,attacker,72.0,67.0,70.0,62.0,21.0,55.0
+N. Zaniolo,Roma,Italy,midfielder,83.0,74.0,80.0,71.0,61.0,82.0
+F. Coloccini,Club Atlético Aldosivi,Argentina,defender,32.0,54.0,60.0,59.0,71.0,64.0
+M. Oyola,Barcelona Sporting Club,Ecuador,midfielder,63.0,56.0,64.0,66.0,59.0,60.0
+P. Diop,UD Ibiza,Senegal,midfielder,39.0,66.0,68.0,68.0,78.0,87.0
+G. Ekpolo,BK Häcken,Nigeria,defender,77.0,37.0,61.0,57.0,64.0,80.0
+L. Quiñonez,Barcelona Sporting Club,Ecuador,defender,76.0,63.0,69.0,68.0,66.0,68.0
+G. Crociata,Empoli,Italy,midfielder,73.0,56.0,72.0,66.0,32.0,58.0
+Pol Lirola,Olympique de Marseille,Spain,defender,77.0,57.0,75.0,70.0,71.0,70.0
+N. Geyrhofer,SK Sturm Graz,Austria,defender,57.0,27.0,46.0,40.0,66.0,70.0
+A. Tahiri,CFR Cluj,Morocco,midfielder,76.0,58.0,73.0,68.0,36.0,50.0
+V. Lekhal,Le Havre AC,Algeria,midfielder,74.0,48.0,62.0,60.0,65.0,76.0
+Sérgio Espinho,Cuiabá,Brazil,midfielder,58.0,56.0,68.0,63.0,64.0,72.0
+S. Terodde,FC Schalke 04,Germany,attacker,54.0,78.0,66.0,54.0,38.0,78.0
+A. Bukia,FC Arouca,Congo DR,midfielder,81.0,60.0,75.0,57.0,36.0,51.0
+R. Baku,VfL Wolfsburg,Germany,midfielder,84.0,73.0,81.0,73.0,70.0,78.0
+Lee Gwang Hyeok,Pohang Steelers,Korea Republic,midfielder,87.0,54.0,67.0,59.0,37.0,50.0
+F. Tudor,Raków Częstochowa,Croatia,midfielder,88.0,59.0,67.0,64.0,65.0,72.0
+D. Demme,Napoli,Germany,midfielder,57.0,42.0,77.0,75.0,76.0,76.0
+M. Chanot,New York City FC,Luxembourg,defender,51.0,49.0,50.0,48.0,71.0,80.0
+B. Velarde,Club Universitario de Deportes,Peru,defender,53.0,28.0,46.0,44.0,65.0,71.0
+Y. Magnin,Clermont Foot 63,France,midfielder,70.0,50.0,71.0,61.0,67.0,56.0
+J. Willock,Newcastle United,England,midfielder,76.0,72.0,76.0,68.0,61.0,69.0
+T. Henry,Venezia FC,France,attacker,61.0,73.0,66.0,65.0,39.0,79.0
+S. Bornauw,VfL Wolfsburg,Belgium,defender,72.0,45.0,65.0,60.0,78.0,76.0
+Unai García,CA Osasuna,Spain,defender,60.0,41.0,54.0,59.0,73.0,75.0
+M. Uzuni,Ferencvárosi TC,Albania,attacker,85.0,71.0,78.0,62.0,27.0,65.0
+S. Sturaro,Genoa,Italy,midfielder,68.0,67.0,72.0,70.0,75.0,75.0
+Adryan,FC Sion,Brazil,midfielder,71.0,62.0,74.0,67.0,39.0,51.0
+A. Limbombe,FC Nantes,Belgium,midfielder,82.0,66.0,72.0,66.0,49.0,55.0
+E. Konsa,Aston Villa,England,defender,77.0,39.0,71.0,62.0,79.0,75.0
+Jozabed,Málaga CF,Spain,midfielder,57.0,67.0,70.0,71.0,58.0,65.0
+A. Blin,Lecce,France,midfielder,40.0,55.0,64.0,66.0,70.0,77.0
+G. Fuentes,Junior FC,Colombia,defender,82.0,44.0,68.0,60.0,65.0,73.0
+B. Mbeumo,Brentford,France,attacker,83.0,73.0,74.0,69.0,37.0,63.0
+M. Pereira Lage,Angers SCO,Portugal,midfielder,78.0,73.0,73.0,72.0,43.0,65.0
+Rúben Lameiras,Vitória de Guimarães,Portugal,attacker,76.0,71.0,79.0,72.0,42.0,64.0
+B. Verstraete,Royal Antwerp FC,Belgium,midfielder,68.0,60.0,72.0,71.0,67.0,70.0
+Y. Tielemans,Leicester City,Belgium,midfielder,63.0,79.0,80.0,86.0,71.0,72.0
+R. Armand,Pau FC,France,attacker,76.0,69.0,68.0,56.0,22.0,69.0
+Manquillo,Newcastle United,Spain,defender,70.0,44.0,72.0,63.0,72.0,66.0
+H. Boussefiane,Málaga CF,Morocco,midfielder,87.0,60.0,68.0,58.0,32.0,45.0
+R. Alessandrini,Qingdao FC,France,attacker,84.0,78.0,78.0,72.0,45.0,67.0
+G. González,Unión de Santa Fe,Argentina,attacker,81.0,66.0,68.0,59.0,40.0,74.0
+F. Sacko,Vitória de Guimarães,Mali,defender,92.0,45.0,72.0,60.0,65.0,71.0
+R. Ibarra,Pachuca,Ecuador,midfielder,85.0,62.0,68.0,66.0,36.0,67.0
+Fábio Martins,SC Braga,Portugal,midfielder,77.0,74.0,82.0,72.0,46.0,67.0
+Montoya,Real Betis Balompié,Spain,defender,74.0,60.0,72.0,70.0,71.0,70.0
+N. Rigoni,AC Monza,Italy,midfielder,52.0,54.0,65.0,67.0,66.0,71.0
+S. Popov,Atakaş Hatayspor,Bulgaria,defender,71.0,49.0,62.0,63.0,66.0,74.0
+L. Montes,Club León,Mexico,midfielder,62.0,73.0,80.0,77.0,59.0,69.0
+M. Mehlem,SC Paderborn 07,Germany,midfielder,78.0,38.0,63.0,55.0,63.0,75.0
+O. Etebo,Watford,Nigeria,midfielder,77.0,65.0,75.0,68.0,71.0,81.0
+T. Murg,PAOK,Austria,midfielder,80.0,70.0,74.0,70.0,40.0,62.0
+F. Soyalp,Gazişehir Gaziantep F.K.,Turkey,midfielder,66.0,59.0,70.0,68.0,52.0,61.0
+E. Palacios,Bayer 04 Leverkusen,Argentina,midfielder,55.0,73.0,77.0,74.0,72.0,71.0
+J. Velásquez,Club Independiente Santa Fe,Colombia,midfielder,78.0,60.0,68.0,61.0,43.0,57.0
+S. Wangberg,Stabæk Fotball,Norway,defender,46.0,39.0,45.0,50.0,64.0,76.0
+Paris Adot,SD Ponferradina,Spain,defender,75.0,57.0,64.0,62.0,62.0,72.0
+E. Hernández,Club León,Mexico,midfielder,71.0,75.0,77.0,73.0,46.0,59.0
+R. Feltscher,MSV Duisburg,Venezuela,defender,59.0,46.0,62.0,63.0,66.0,81.0
+B. Özcan,İstanbul Başakşehir FK,Turkey,midfielder,68.0,58.0,75.0,73.0,53.0,65.0
+M. Smith,Millwall,England,attacker,33.0,68.0,51.0,49.0,36.0,79.0
+H. Pertúz,Deportivo Pasto,Colombia,defender,47.0,26.0,40.0,46.0,66.0,74.0
+T. Pettersson,Lillestrøm SK,Sweden,defender,43.0,49.0,57.0,56.0,66.0,80.0
+Kiko Bondoso,FC Vizela,Portugal,attacker,77.0,67.0,73.0,64.0,33.0,52.0
+G. Gaudino,SV Sandhausen,Germany,midfielder,63.0,49.0,71.0,68.0,47.0,43.0
+Lucas Piazón,SC Braga,Brazil,attacker,69.0,77.0,76.0,74.0,34.0,57.0
+N. Şahin,Antalyaspor,Turkey,midfielder,32.0,67.0,70.0,77.0,70.0,66.0
+F. Maouassa,Club Brugge KV,France,defender,84.0,64.0,75.0,71.0,72.0,76.0
+J. Simpson,Rangers FC,England,defender,55.0,37.0,56.0,50.0,68.0,75.0
+S. Berghuis,Ajax,Netherlands,attacker,80.0,81.0,82.0,82.0,36.0,66.0
+R. Karsdorp,Roma,Netherlands,midfielder,87.0,64.0,77.0,74.0,76.0,78.0
+K. Zouma,West Ham United,France,defender,65.0,51.0,57.0,63.0,81.0,85.0
+P. Mortensen,Aarhus GF,Denmark,attacker,52.0,72.0,66.0,54.0,33.0,81.0
+Fran Villalba,Real Sporting de Gijón,Spain,midfielder,69.0,63.0,73.0,71.0,48.0,40.0
+M. Lundemo,APOEL Nicosia FC,Norway,midfielder,57.0,59.0,66.0,65.0,58.0,70.0
+S. McKenna,Nottingham Forest,Scotland,defender,60.0,33.0,46.0,44.0,68.0,83.0
+Pau Torres,Villarreal CF,Spain,defender,71.0,38.0,70.0,67.0,84.0,80.0
+Aleix Vidal,RCD Espanyol de Barcelona,Spain,defender,81.0,67.0,78.0,74.0,72.0,70.0
+N. López,Tigres U.A.N.L.,Uruguay,midfielder,77.0,78.0,79.0,70.0,25.0,63.0
+G. Svensson,IFK Göteborg,Sweden,midfielder,36.0,45.0,63.0,61.0,69.0,81.0
+L. Fiordilino,Venezia FC,Italy,midfielder,82.0,57.0,71.0,68.0,66.0,68.0
+F. Forestieri,Udinese Calcio,Italy,midfielder,75.0,71.0,75.0,69.0,48.0,64.0
+D. Zappacosta,Atalanta,Italy,defender,76.0,66.0,74.0,73.0,75.0,71.0
+F. Paredes,Defensa y Justicia,Argentina,defender,78.0,39.0,69.0,62.0,66.0,71.0
+Yuri Ribeiro,Legia Warszawa,Portugal,defender,76.0,51.0,72.0,67.0,67.0,66.0
+L. Crepulja,Rapid București,Croatia,midfielder,67.0,58.0,63.0,60.0,66.0,73.0
+D. Zabala,Rosario Central,Uruguay,midfielder,72.0,73.0,71.0,72.0,41.0,63.0
+B. Williams,Norwich City,England,defender,80.0,57.0,73.0,65.0,70.0,68.0
+Á. Gabrielli,Club Nacional de Football,Uruguay,defender,66.0,42.0,62.0,57.0,63.0,64.0
+D. Ćaleta-Car,Olympique de Marseille,Croatia,defender,59.0,39.0,62.0,60.0,79.0,82.0
+N. Robertha,D.C. United,Curacao,attacker,82.0,66.0,67.0,51.0,26.0,64.0
+Suk Hyun Jun,ESTAC Troyes,Korea Republic,attacker,55.0,69.0,65.0,57.0,39.0,73.0
+O. Duda,1. FC Köln,Slovakia,midfielder,65.0,73.0,79.0,72.0,53.0,64.0
+Daniel dos Anjos,CD Tondela,Brazil,attacker,65.0,70.0,67.0,50.0,22.0,62.0
+N. Jørgensen,Kasimpaşa SK,Denmark,attacker,65.0,73.0,71.0,70.0,39.0,74.0
+O. Kakay,Queens Park Rangers,Sierra Leone,defender,73.0,26.0,64.0,48.0,65.0,58.0
+A. Laurienté,FC Lorient,France,midfielder,77.0,72.0,76.0,70.0,33.0,45.0
+A. Aldrete,Cruz Azul,Mexico,defender,71.0,57.0,69.0,68.0,70.0,72.0
+J. Murphy,Hibernian,Scotland,midfielder,68.0,65.0,69.0,64.0,49.0,59.0
+E. Goldaniga,U.S. Sassuolo Calcio,Italy,defender,43.0,33.0,51.0,41.0,73.0,67.0
+C. Akolo,Amiens SC,Congo DR,midfielder,79.0,67.0,74.0,63.0,27.0,61.0
+J. Dom,K Beerschot VA,Belgium,defender,75.0,58.0,63.0,63.0,65.0,73.0
+B. Henning,Eintracht Braunschweig,Germany,midfielder,71.0,52.0,71.0,59.0,60.0,68.0
+Borja Lasso,CD Tenerife,Spain,midfielder,66.0,68.0,69.0,67.0,39.0,68.0
+Arribas,AD Alcorcón,Spain,midfielder,72.0,62.0,66.0,61.0,34.0,60.0
+B. Poulain,KAS Eupen,France,defender,33.0,26.0,47.0,56.0,71.0,71.0
+C. Christie,Fulham,Republic of Ireland,defender,83.0,53.0,68.0,63.0,66.0,75.0
+Mario Gaspar,Villarreal CF,Spain,defender,74.0,69.0,72.0,71.0,78.0,76.0
+Nacho Vidal,CA Osasuna,Spain,defender,77.0,55.0,70.0,69.0,71.0,65.0
+C. Davies,Derby County,England,defender,45.0,36.0,53.0,45.0,72.0,63.0
+C. Metcalfe,Melbourne City FC,Australia,midfielder,57.0,54.0,67.0,59.0,56.0,76.0
+A. Niewulis,Raków Częstochowa,Poland,defender,55.0,39.0,52.0,52.0,64.0,81.0
+A. Santamaría,Club Atlas,Peru,defender,61.0,60.0,64.0,65.0,71.0,71.0
+L. Vigen,SV Zulte Waregem,Denmark,midfielder,73.0,60.0,68.0,67.0,63.0,76.0
+W. Saïd,Racing Club de Lens,France,attacker,75.0,69.0,72.0,65.0,29.0,57.0
+Petros,Al Nassr,Brazil,midfielder,68.0,68.0,75.0,72.0,73.0,83.0
+H. Benincasa,Carlos A. Mannucci,Peru,defender,69.0,34.0,51.0,52.0,67.0,65.0
+M. Cacutalua,FC Erzgebirge Aue,Germany,defender,72.0,41.0,48.0,47.0,68.0,67.0
+J. Ríos,Club Deportes Tolima,Colombia,midfielder,66.0,54.0,63.0,61.0,68.0,75.0
+T. Jedvaj,FC Lokomotiv Moscow,Croatia,defender,67.0,51.0,63.0,57.0,74.0,72.0
+Felipe,Atlético de Madrid,Brazil,defender,61.0,41.0,62.0,58.0,85.0,84.0
+Adilson Edrada,Santos,Brazil,midfielder,77.0,71.0,80.0,70.0,32.0,55.0
+R. Chávez,Club Atlético de San Luis,Mexico,defender,72.0,35.0,68.0,60.0,64.0,66.0
+S. Rondón,Everton,Venezuela,attacker,69.0,76.0,71.0,66.0,32.0,81.0
+W. Troost-Ekong,Watford,Nigeria,defender,61.0,32.0,44.0,45.0,76.0,77.0
+Paulinho,Al Ahli,Brazil,midfielder,72.0,81.0,81.0,77.0,80.0,85.0
+M. Smith,Hull City,Wales,midfielder,72.0,56.0,68.0,66.0,61.0,71.0
+F. Ioannidis,Panathinaikos FC,Greece,attacker,69.0,68.0,64.0,51.0,24.0,68.0
+M. Mavraj,Türkgücü München,Albania,defender,34.0,27.0,42.0,51.0,72.0,70.0
+A. Schöpf,DSC Arminia Bielefeld,Austria,midfielder,70.0,66.0,71.0,69.0,63.0,71.0
+W. Azaro,Ettifaq FC,Morocco,attacker,72.0,65.0,63.0,46.0,20.0,73.0
+J. Jugas,Cracovia,Czech Republic,defender,63.0,45.0,50.0,51.0,67.0,75.0
+G. Celis,Club Deportes Tolima,Colombia,midfielder,64.0,51.0,66.0,60.0,68.0,68.0
+S. Bakıs,Heracles Almelo,Turkey,attacker,37.0,67.0,60.0,51.0,29.0,65.0
+D. Banguero,Atlético Nacional,Colombia,defender,78.0,57.0,63.0,62.0,66.0,80.0
+Daniel Bragança,Sporting CP,Portugal,midfielder,80.0,66.0,80.0,75.0,64.0,52.0
+J. Mæhle,Atalanta,Denmark,defender,89.0,56.0,72.0,68.0,66.0,78.0
+Lasure,Real Zaragoza,Spain,defender,71.0,44.0,61.0,58.0,64.0,76.0
+S. Mané,Liverpool,Senegal,attacker,91.0,83.0,89.0,80.0,44.0,77.0
+A. Flint,Cardiff City,England,defender,43.0,47.0,41.0,40.0,71.0,81.0
+Jorge Miramón,Levante Unión Deportiva,Spain,defender,73.0,58.0,70.0,73.0,71.0,73.0
+M. Livaja,Hajduk Split,Croatia,attacker,79.0,75.0,76.0,67.0,32.0,77.0
+Iván Jaime,Futebol Clube de Famalicão,Spain,midfielder,72.0,70.0,71.0,65.0,50.0,60.0
+A. Vindheim,AC Sparta Praha,Norway,defender,83.0,54.0,68.0,63.0,64.0,70.0
+J. Andersen,Crystal Palace,Denmark,defender,58.0,47.0,59.0,63.0,77.0,78.0
+L. Janson,Vélez Sarsfield,Argentina,attacker,84.0,73.0,79.0,66.0,36.0,63.0
+L. Mabiala,Portland Timbers,Congo DR,defender,43.0,44.0,51.0,51.0,72.0,84.0
+B. Stambouli,Adana Demirspor,France,midfielder,54.0,49.0,67.0,64.0,71.0,75.0
+J. McCart,St. Johnstone FC,Scotland,defender,66.0,30.0,56.0,45.0,66.0,76.0
+C. Richards,TSG Hoffenheim,United States,defender,72.0,27.0,55.0,57.0,71.0,73.0
+B. Šeško,FC Red Bull Salzburg,Slovenia,attacker,71.0,67.0,67.0,60.0,42.0,73.0
+G. Madine,Blackpool,England,attacker,49.0,66.0,61.0,51.0,32.0,78.0
+Z. Tripić,Viking FK,Norway,attacker,81.0,70.0,71.0,65.0,41.0,75.0
+Sergio Gómez,RSC Anderlecht,Spain,midfielder,69.0,64.0,73.0,69.0,59.0,54.0
+Sergio López,FC Basel 1893,Spain,defender,76.0,55.0,68.0,63.0,62.0,57.0
+S. Maier,Türkgücü München,Germany,midfielder,67.0,61.0,68.0,65.0,34.0,55.0
+B. Assombalonga,Adana Demirspor,Congo DR,attacker,74.0,69.0,67.0,58.0,35.0,73.0
+S. Schwab,PAOK,Austria,midfielder,63.0,72.0,72.0,76.0,70.0,78.0
+J. Shaughnessy,St. Mirren,Republic of Ireland,defender,66.0,26.0,55.0,48.0,65.0,74.0
+Saúl Berjón,Burgos CF,Spain,midfielder,78.0,68.0,71.0,70.0,41.0,62.0
+L. Mancuso,Empoli,Italy,attacker,76.0,72.0,74.0,62.0,34.0,68.0
+S. Mugoša,Incheon United FC,Montenegro,attacker,64.0,74.0,68.0,51.0,24.0,76.0
+R. Kerrouche,USL Dunkerque,France,midfielder,65.0,54.0,66.0,62.0,65.0,68.0
+R. Kaib,SC Heerenveen,Sweden,defender,80.0,46.0,65.0,63.0,58.0,64.0
+Quintana,Málaga CF,Spain,midfielder,63.0,50.0,61.0,61.0,65.0,64.0
+Auro,Toronto FC,Brazil,defender,71.0,50.0,72.0,65.0,64.0,63.0
+J. Sands,New York City FC,United States,midfielder,51.0,50.0,64.0,59.0,68.0,71.0
+T. Pobega,Torino F.C.,Italy,midfielder,65.0,67.0,68.0,64.0,65.0,69.0
+M. Pellegrini,Estudiantes de La Plata,Argentina,midfielder,82.0,62.0,71.0,61.0,49.0,56.0
+G. Masouras,Olympiacos CFP,Greece,midfielder,83.0,75.0,74.0,72.0,51.0,69.0
+Tiago Araújo,FC Arouca,Portugal,midfielder,86.0,61.0,69.0,61.0,37.0,65.0
+J. Ankersen,Randers FC,Denmark,midfielder,83.0,63.0,69.0,62.0,42.0,67.0
+Rubén Sobrino,Cádiz CF,Spain,attacker,78.0,76.0,72.0,62.0,37.0,66.0
+P. Jaeckel,1. FC Union Berlin,Germany,defender,73.0,33.0,51.0,51.0,72.0,71.0
+C. Benschop,SV Sandhausen,Curacao,attacker,57.0,69.0,61.0,60.0,38.0,77.0
+Formosandrinho,Clube Atlético Mineiro,Brazil,attacker,77.0,77.0,73.0,60.0,24.0,60.0
+A. Solari,RC Celta de Vigo,Argentina,midfielder,86.0,64.0,74.0,70.0,58.0,74.0
+C. Sickinger,SV Sandhausen,Germany,midfielder,66.0,47.0,58.0,59.0,64.0,70.0
+H. Jimenez,Austin FC,United States,defender,66.0,60.0,66.0,64.0,64.0,65.0
+Ivo Pinto,Fortuna Sittard,Portugal,defender,79.0,47.0,67.0,63.0,65.0,70.0
+V. Gvilia,Raków Częstochowa,Georgia,midfielder,64.0,64.0,68.0,68.0,54.0,67.0
+Rubén Pardo,CD Leganés,Spain,midfielder,53.0,69.0,72.0,75.0,64.0,52.0
+N. Chadli,İstanbul Başakşehir FK,Belgium,midfielder,74.0,75.0,78.0,75.0,56.0,76.0
+R. Mak,Ferencvárosi TC,Slovakia,attacker,75.0,69.0,72.0,68.0,37.0,58.0
+Douglas Luiz,Aston Villa,Brazil,midfielder,67.0,67.0,76.0,74.0,74.0,69.0
+F. Aristeguieta,Puebla FC,Venezuela,attacker,51.0,73.0,67.0,55.0,42.0,83.0
+H. Sarpei,SpVgg Greuther Fürth,Ghana,midfielder,68.0,38.0,64.0,57.0,66.0,67.0
+Aylton Boa Morte,Portimonense SC,Portugal,attacker,80.0,64.0,72.0,61.0,28.0,69.0
+Bruno Xadas,Clube Sport Marítimo,Portugal,midfielder,73.0,68.0,74.0,70.0,43.0,59.0
+R. Matsuda,Cerezo Osaka,Japan,defender,82.0,47.0,65.0,63.0,62.0,71.0
+C. Riveros,Club Nacional,Paraguay,midfielder,44.0,61.0,66.0,65.0,64.0,66.0
+Iván González,FC Goa,Spain,defender,67.0,46.0,53.0,52.0,65.0,79.0
+A. Kuen,SK Sturm Graz,Austria,midfielder,70.0,64.0,69.0,69.0,59.0,70.0
+K. Günter,Hellas Verona,Germany,defender,65.0,31.0,62.0,56.0,76.0,72.0
+M. Dembélé,Guangzhou City,Belgium,midfielder,70.0,68.0,85.0,76.0,73.0,77.0
+J. Norwood,Ipswich Town,England,attacker,75.0,66.0,64.0,55.0,39.0,70.0
+Borja Iglesias,Real Betis Balompié,Spain,attacker,65.0,80.0,74.0,64.0,35.0,80.0
+L. Phiri,Çaykur Rizespor,South Africa,midfielder,78.0,53.0,71.0,66.0,69.0,68.0
+Edenildo Lagoas,Ceará Sporting Club,Brazil,defender,54.0,53.0,58.0,64.0,67.0,69.0
+Kim Tae Hwan,Ulsan Hyundai FC,Korea Republic,defender,91.0,57.0,69.0,61.0,64.0,79.0
+H. Nielsen,SpVgg Greuther Fürth,Norway,attacker,79.0,70.0,71.0,67.0,42.0,75.0
+F. Castillo,Fútbol Club Juárez,Colombia,attacker,92.0,75.0,81.0,63.0,43.0,73.0
+D. Dioses,Carlos A. Mannucci,Peru,midfielder,67.0,61.0,66.0,64.0,65.0,68.0
+M. Ngadeu,KAA Gent,Cameroon,defender,60.0,44.0,50.0,52.0,72.0,83.0
+C. Rodríguez,Club Atlético Peñarol,Uruguay,defender,48.0,31.0,44.0,36.0,68.0,76.0
+J. Sainati,SC Bastia,France,defender,66.0,31.0,47.0,53.0,64.0,78.0
+K. Matsubara,Sint-Truidense VV,Japan,defender,74.0,58.0,66.0,58.0,60.0,70.0
+Eraso,CD Leganés,Spain,midfielder,59.0,71.0,71.0,73.0,58.0,75.0
+Denis Suárez,RC Celta de Vigo,Spain,midfielder,74.0,71.0,80.0,81.0,61.0,56.0
+G. Bergessio,Club Nacional de Football,Argentina,attacker,50.0,77.0,65.0,60.0,33.0,73.0
+F. Gardoș,FC Academica Clinceni,Romania,defender,38.0,45.0,55.0,51.0,66.0,65.0
+D. Febles,Aragua Fútbol Club,Venezuela,attacker,71.0,63.0,59.0,47.0,33.0,67.0
+K. Aktürkoğlu,Galatasaray SK,Turkey,midfielder,85.0,63.0,74.0,61.0,34.0,48.0
+A. Palaversa,KV Kortrijk,Croatia,midfielder,63.0,66.0,69.0,68.0,66.0,72.0
+B. Pavard,FC Bayern München,France,defender,69.0,53.0,71.0,72.0,78.0,76.0
+A. Douvikas,FC Utrecht,Greece,attacker,77.0,68.0,68.0,59.0,34.0,64.0
+R. Sigurjónsson,CFR Cluj,Iceland,midfielder,66.0,70.0,70.0,69.0,49.0,77.0
+O. Moruțan,Galatasaray SK,Romania,midfielder,75.0,69.0,77.0,69.0,42.0,61.0
+M. Aebischer,BSC Young Boys,Switzerland,midfielder,72.0,65.0,75.0,75.0,65.0,75.0
+S. Hagen,Odds BK,Norway,defender,33.0,35.0,45.0,52.0,69.0,69.0
+Martín,Deportivo Alavés,Spain,defender,66.0,35.0,69.0,63.0,74.0,65.0
+M. Merentiel,Defensa y Justicia,Uruguay,attacker,73.0,68.0,68.0,53.0,29.0,53.0
+Alex das Freitas,Associação Chapecoense de Futebol,Brazil,midfielder,66.0,55.0,66.0,59.0,72.0,70.0
+J. Ščuk,Altay SK,Bosnia and Herzegovina,midfielder,58.0,62.0,69.0,67.0,68.0,68.0
+J. Bořil,SK Slavia Praha,Czech Republic,defender,73.0,60.0,71.0,71.0,74.0,82.0
+M. Uth,1. FC Köln,Germany,midfielder,73.0,77.0,76.0,72.0,40.0,68.0
+F. Noguera,Estudiantes de La Plata,Argentina,defender,42.0,38.0,48.0,43.0,70.0,81.0
+E. Apeh,CD Tenerife,Nigeria,attacker,70.0,66.0,64.0,54.0,26.0,63.0
+K. Papadopoulos,,Greece,defender,51.0,41.0,47.0,50.0,69.0,78.0
+A. Ueda,Kashima Antlers,Japan,attacker,83.0,67.0,64.0,53.0,27.0,71.0
+G. Plata,Real Valladolid CF,Ecuador,attacker,85.0,66.0,79.0,65.0,43.0,64.0
+Yeom Ki Hun,Suwon Samsung Bluewings,Korea Republic,midfielder,37.0,67.0,70.0,75.0,46.0,57.0
+N. De Pauw,Royal Antwerp FC,Congo DR,midfielder,68.0,66.0,69.0,68.0,61.0,76.0
+K. Diatta,AS Monaco,Senegal,midfielder,93.0,69.0,78.0,66.0,47.0,69.0
+Mei Fang,Guangzhou FC,China PR,defender,61.0,29.0,51.0,46.0,68.0,69.0
+F. Caputo,U.C. Sampdoria,Italy,attacker,82.0,79.0,78.0,62.0,30.0,67.0
+A. Hughes,Preston North End,Wales,defender,66.0,36.0,60.0,59.0,69.0,74.0
+H. Mkhitaryan,Roma,Armenia,attacker,85.0,80.0,83.0,79.0,56.0,74.0
+R. Aabid,Yeni Malatyaspor,France,midfielder,70.0,60.0,73.0,71.0,63.0,69.0
+P. Hrošovský,KRC Genk,Slovakia,midfielder,69.0,69.0,75.0,74.0,70.0,66.0
+Javi Jiménez,Málaga CF,Spain,defender,86.0,34.0,70.0,62.0,64.0,70.0
+Pablo Valcarce,Burgos CF,Spain,midfielder,77.0,67.0,71.0,66.0,51.0,68.0
+Josan,Elche CF,Spain,midfielder,85.0,69.0,74.0,66.0,52.0,55.0
+B. Schenkeveld,Panathinaikos FC,Netherlands,defender,77.0,39.0,64.0,59.0,70.0,76.0
+B. O'Neill,Perth Glory,Australia,midfielder,65.0,57.0,68.0,68.0,65.0,78.0
+M. Watkins,Aberdeen,Wales,attacker,75.0,64.0,68.0,62.0,28.0,67.0
+L. Moore,Reading,Jamaica,defender,69.0,33.0,62.0,58.0,68.0,77.0
+R. Keogh,Blackpool,Republic of Ireland,defender,50.0,31.0,58.0,58.0,67.0,71.0
+A. Zendejas,Club Necaxa,Mexico,midfielder,76.0,59.0,71.0,63.0,40.0,65.0
+A. Miron,FCSB (Steaua),Romania,defender,50.0,38.0,51.0,48.0,65.0,76.0
+N. Ibáñez,Pachuca,Argentina,attacker,73.0,69.0,66.0,55.0,34.0,71.0
+A. Jung,SV Werder Bremen,Germany,defender,72.0,60.0,65.0,66.0,72.0,79.0
+J. Dina Ebimbe,Paris Saint-Germain,France,midfielder,83.0,61.0,75.0,68.0,66.0,75.0
+M. Dávila,Club Deportivo Palestino,Chile,midfielder,80.0,63.0,69.0,66.0,54.0,61.0
+J. Swift,Reading,England,midfielder,65.0,73.0,77.0,75.0,60.0,65.0
+R. Vilca,Doncaster Rovers,Peru,midfielder,74.0,62.0,70.0,65.0,44.0,59.0
+K. Gameiro,RC Strasbourg Alsace,France,attacker,83.0,77.0,75.0,74.0,41.0,67.0
+H. Dalsgaard,FC Midtjylland,Denmark,defender,73.0,57.0,66.0,62.0,72.0,72.0
+G. Molins,Sarpsborg 08 FF,Sweden,attacker,50.0,67.0,68.0,64.0,44.0,78.0
+R. Blackburn,Club The Strongest,Panama,attacker,65.0,70.0,67.0,44.0,25.0,60.0
+B. Džemaili,FC Zürich,Switzerland,midfielder,49.0,69.0,69.0,72.0,70.0,66.0
+M. Meulensteen,RKC Waalwijk,Netherlands,defender,65.0,56.0,64.0,64.0,67.0,71.0
+Mauri Borgho,São Paulo,Brazil,defender,76.0,63.0,70.0,71.0,72.0,66.0
+C. Kobald,Karlsruher SC,Austria,defender,72.0,26.0,54.0,54.0,70.0,70.0
+Moon Seon Min,Jeonbuk Hyundai Motors,Korea Republic,midfielder,92.0,64.0,72.0,64.0,38.0,62.0
+Z. Gano,SV Zulte Waregem,Belgium,attacker,54.0,69.0,62.0,55.0,33.0,76.0
+E. Lenjani,Grasshopper Club Zürich,Albania,defender,76.0,64.0,68.0,69.0,60.0,68.0
+C. Pulisic,Chelsea,United States,attacker,89.0,70.0,86.0,73.0,37.0,59.0
+B. Barišić,Rangers FC,Croatia,defender,76.0,60.0,72.0,75.0,70.0,77.0
+Choi Sung Geun,Suwon Samsung Bluewings,Korea Republic,midfielder,72.0,54.0,63.0,60.0,67.0,75.0
+L. Stergiou,FC St. Gallen 1879,Switzerland,defender,65.0,32.0,49.0,46.0,68.0,72.0
+Pedraza,Villarreal CF,Spain,defender,78.0,72.0,75.0,70.0,73.0,77.0
+N. Moisander,Malmö FF,Finland,defender,46.0,49.0,67.0,68.0,72.0,67.0
+V. Claesson,,Sweden,midfielder,76.0,76.0,75.0,74.0,48.0,75.0
+Gaspar Campos,Real Sporting de Gijón,Spain,midfielder,80.0,72.0,69.0,60.0,32.0,65.0
+D. Kempe,SV Wehen Wiesbaden,Germany,defender,65.0,42.0,61.0,58.0,63.0,78.0
+Óscar Plano,Real Valladolid CF,Spain,midfielder,86.0,70.0,74.0,72.0,54.0,73.0
+P. Pellegri,AC Milan,Italy,attacker,69.0,67.0,66.0,55.0,21.0,63.0
+A. Keogh,Perth Glory,Republic of Ireland,attacker,63.0,64.0,63.0,60.0,37.0,75.0
+C. Keșerü,FCSB (Steaua),Romania,attacker,71.0,74.0,70.0,66.0,41.0,72.0
+S. Szymański,,Poland,midfielder,84.0,65.0,75.0,68.0,30.0,47.0
+João Pedro,Cagliari,Brazil,attacker,72.0,78.0,81.0,77.0,41.0,74.0
+S. Horvath,LASK Linz,Austria,midfielder,86.0,63.0,72.0,66.0,44.0,50.0
+M. Greve,Brøndby IF,Denmark,midfielder,70.0,61.0,70.0,66.0,51.0,69.0
+R. González,Club Necaxa,Mexico,midfielder,54.0,47.0,64.0,60.0,63.0,68.0
+J. Pohjanpalo,Çaykur Rizespor,Finland,attacker,63.0,74.0,69.0,58.0,26.0,70.0
+D. Moberg Karlsson,AC Sparta Praha,Sweden,midfielder,87.0,71.0,77.0,71.0,30.0,61.0
+Juan Jesus,Napoli,Brazil,defender,71.0,33.0,59.0,52.0,75.0,73.0
+F. Jungwirth,Vancouver Whitecaps FC,Germany,defender,33.0,43.0,56.0,61.0,65.0,74.0
+A. Harit,Olympique de Marseille,Morocco,midfielder,79.0,64.0,81.0,69.0,45.0,47.0
+N. Gerzić,Örebro SK,Sweden,midfielder,38.0,49.0,69.0,69.0,56.0,61.0
+T. Bakinson,Bristol City,England,midfielder,65.0,57.0,66.0,61.0,66.0,73.0
+É. Gutiérrez,PSV,Mexico,midfielder,71.0,70.0,73.0,73.0,63.0,64.0
+A. Tanghe,KV Oostende,Belgium,defender,60.0,26.0,51.0,51.0,70.0,69.0
+Emerson,Olympique Lyonnais,Italy,defender,80.0,63.0,78.0,70.0,75.0,63.0
+Sun Ke,Shenzhen FC,China PR,midfielder,77.0,64.0,66.0,61.0,59.0,66.0
+N. Maksimović,Getafe CF,Serbia,midfielder,56.0,68.0,71.0,75.0,77.0,78.0
+Simy,US Salernitana 1919,Nigeria,attacker,59.0,77.0,61.0,45.0,29.0,78.0
+F. Torrent,Rosario Central,Argentina,defender,85.0,51.0,70.0,62.0,64.0,77.0
+Diegildo Ramos,Flamengo,Brazil,attacker,30.0,79.0,67.0,67.0,28.0,70.0
+Hwang Ui Jo,FC Girondins de Bordeaux,Korea Republic,attacker,78.0,77.0,74.0,64.0,42.0,73.0
+K. Nagai,FC Tokyo,Japan,attacker,91.0,65.0,65.0,63.0,39.0,73.0
+C. Abi,En Avant de Guingamp,France,attacker,77.0,64.0,67.0,59.0,28.0,63.0
+M. Ristić,Montpellier Hérault SC,Serbia,defender,76.0,60.0,73.0,65.0,69.0,68.0
+Hervías,Real Valladolid CF,Spain,midfielder,80.0,67.0,74.0,68.0,62.0,55.0
+N. Pérez,Udinese Calcio,Argentina,defender,61.0,25.0,45.0,46.0,76.0,74.0
+D. Schnegg,Venezia FC,Austria,defender,73.0,53.0,65.0,60.0,63.0,74.0
+F. Rogić,AIK,Sweden,midfielder,69.0,59.0,67.0,61.0,61.0,77.0
+N. Domínguez,Racing Club,Argentina,defender,58.0,61.0,69.0,70.0,74.0,74.0
+I. Louza,Watford,France,midfielder,61.0,64.0,76.0,74.0,63.0,52.0
+J. Gallardo,CF Monterrey,Mexico,defender,82.0,67.0,74.0,71.0,69.0,73.0
+P. Baysse,FC Girondins de Bordeaux,France,defender,43.0,45.0,61.0,62.0,74.0,76.0
+B. Verbič,Dynamo Kyiv,Slovenia,midfielder,82.0,72.0,79.0,72.0,45.0,71.0
+R. González,Club León,Argentina,defender,32.0,37.0,51.0,45.0,68.0,77.0
+A. Crețu,Universitatea Craiova,Romania,midfielder,61.0,49.0,56.0,56.0,66.0,72.0
+V. Edvardsen,Degerfors IF,Sweden,attacker,63.0,68.0,62.0,58.0,32.0,72.0
+K. Baccus,Western Sydney Wanderers,Australia,midfielder,71.0,52.0,69.0,60.0,66.0,68.0
+Y. Karamoh,Fatih Karagümrük S.K.,France,midfielder,78.0,69.0,78.0,69.0,31.0,61.0
+T. Yonemoto,Nagoya Grampus,Japan,midfielder,64.0,56.0,63.0,63.0,67.0,73.0
+J. Dörfler,SC Paderborn 07,Germany,defender,75.0,52.0,65.0,59.0,61.0,74.0
+M. Kramer,RKC Waalwijk,Netherlands,attacker,41.0,64.0,56.0,56.0,35.0,63.0
+J. Brenet,TSG Hoffenheim,Netherlands,defender,79.0,36.0,69.0,61.0,67.0,66.0
+H. Abe,FC Barcelona,Japan,midfielder,89.0,61.0,71.0,56.0,33.0,59.0
+Berrocal,Real Sporting de Gijón,Spain,defender,61.0,35.0,51.0,48.0,67.0,69.0
+F. Diabaté,GZT Giresunspor,Mali,attacker,87.0,64.0,73.0,60.0,24.0,42.0
+J. Tucker,Gillingham,England,defender,68.0,26.0,46.0,45.0,66.0,79.0
+F. Mayembo,Le Havre AC,Congo,defender,46.0,38.0,49.0,45.0,68.0,81.0
+J. Guilavogui,VfL Wolfsburg,France,midfielder,67.0,59.0,65.0,65.0,80.0,78.0
+A. Weimann,Bristol City,Austria,attacker,81.0,69.0,70.0,62.0,45.0,70.0
+Bojan,Vissel Kobe,Spain,midfielder,68.0,71.0,74.0,71.0,26.0,43.0
+M. Catalán,Pachuca,Argentina,defender,91.0,58.0,62.0,64.0,64.0,67.0
+D. Sinik,Antalyaspor,Turkey,midfielder,77.0,51.0,72.0,63.0,40.0,46.0
+Li Lei,Beijing Guoan FC,China PR,defender,75.0,43.0,64.0,65.0,67.0,73.0
+B. Sosa,VfB Stuttgart,Croatia,defender,79.0,43.0,75.0,75.0,71.0,69.0
+K. Paal,PEC Zwolle,Netherlands,defender,83.0,52.0,74.0,67.0,64.0,71.0
+S. Sabelli,Genoa,Italy,defender,76.0,40.0,64.0,60.0,68.0,72.0
+N. Amiri,Bayer 04 Leverkusen,Germany,midfielder,68.0,73.0,82.0,78.0,50.0,67.0
+M. Nzola,Spezia,France,attacker,86.0,70.0,68.0,59.0,29.0,75.0
+S. Candia,Guaireña FC,Paraguay,defender,60.0,42.0,51.0,50.0,70.0,72.0
+Ezequiel,Sanfrecce Hiroshima,Brazil,attacker,92.0,60.0,72.0,57.0,34.0,55.0
+André Ramalho,PSV,Brazil,defender,48.0,60.0,66.0,66.0,75.0,77.0
+J. Tverskov,Odense Boldklub,Denmark,defender,53.0,43.0,60.0,55.0,70.0,74.0
+Z. Gordon,Western Sydney Wanderers,Scotland,defender,76.0,33.0,62.0,48.0,64.0,79.0
+I. Kabore,ESTAC Troyes,Burkina Faso,defender,91.0,27.0,64.0,58.0,58.0,70.0
+K. McFadzean,Coventry City,England,defender,34.0,37.0,48.0,48.0,68.0,78.0
+M. Farfan,Los Angeles FC,United States,defender,70.0,35.0,66.0,51.0,63.0,68.0
+H. Massengo,Bristol City,France,midfielder,71.0,47.0,71.0,63.0,66.0,64.0
+T. Boyd,Hallescher FC,United States,attacker,46.0,71.0,60.0,43.0,28.0,78.0
+A. Bertolacci,Fatih Karagümrük S.K.,Italy,midfielder,63.0,69.0,75.0,73.0,73.0,65.0
+L. Acosta,Club Atlético Lanús,Argentina,attacker,83.0,70.0,77.0,71.0,52.0,62.0
+L. Acosta,FC Cincinnati,Argentina,midfielder,79.0,67.0,82.0,70.0,46.0,56.0
+R. Nyambe,Blackburn Rovers,Namibia,defender,81.0,33.0,69.0,58.0,68.0,76.0
+E. Le Fée,FC Lorient,France,midfielder,63.0,53.0,75.0,73.0,56.0,46.0
+Song Min Kyu,Jeonbuk Hyundai Motors,Korea Republic,midfielder,83.0,67.0,72.0,62.0,27.0,72.0
+Milton Menceiros,Ceará Sporting Club,Brazil,defender,69.0,49.0,58.0,57.0,68.0,75.0
+A. Bernier,Seraing,Belgium,midfielder,82.0,61.0,68.0,60.0,29.0,57.0
+A. Khalili,Hammarby IF,Sweden,midfielder,69.0,66.0,72.0,69.0,64.0,70.0
+T. Bunmathan,Yokohama F. Marinos,Thailand,defender,71.0,60.0,69.0,67.0,64.0,61.0
+N. Fernández,San Lorenzo de Almagro,Argentina,attacker,85.0,70.0,74.0,60.0,31.0,58.0
+E. Zhegrova,FC Basel 1893,Kosovo,midfielder,81.0,63.0,76.0,63.0,25.0,56.0
+Jesús Vázquez,Valencia CF,Spain,defender,72.0,44.0,57.0,58.0,61.0,63.0
+A. Mayorga,Club Deportivo Guadalajara,Mexico,defender,81.0,55.0,72.0,62.0,67.0,73.0
+G. Tzavellas,AEK Athens,Greece,defender,67.0,63.0,62.0,66.0,73.0,80.0
+S. Driussi,Austin FC,Argentina,attacker,81.0,74.0,74.0,71.0,26.0,69.0
+S. Owusu,Al Fayha,Ghana,midfielder,91.0,64.0,74.0,59.0,35.0,53.0
+M. Seegert,SV Waldhof Mannheim 07,Germany,defender,66.0,34.0,56.0,52.0,65.0,72.0
+D. Čop,Dinamo Zagreb,Croatia,attacker,48.0,69.0,69.0,63.0,33.0,65.0
+C. Nielsen,Royale Union Saint-Gilloise,Denmark,midfielder,73.0,65.0,70.0,70.0,61.0,70.0
+G. Wüthrich,SK Sturm Graz,Switzerland,defender,55.0,35.0,52.0,49.0,71.0,80.0
+R. Ghezzal,Beşiktaş JK,Algeria,midfielder,71.0,69.0,80.0,81.0,28.0,55.0
+Jonaldo Monteiro,Fortaleza,Brazil,defender,74.0,51.0,61.0,66.0,64.0,71.0
+P. Dawidowicz,Hellas Verona,Poland,defender,62.0,46.0,62.0,61.0,76.0,77.0
+Varela,PAOK,Cape Verde Islands,defender,63.0,44.0,59.0,54.0,71.0,81.0
+Eguaras,Real Zaragoza,Spain,midfielder,57.0,55.0,63.0,72.0,66.0,73.0
+N. Leguizamón,Club Atlético Colón,Argentina,attacker,71.0,68.0,69.0,59.0,30.0,71.0
+B. Touré,AJ Auxerre,Mali,midfielder,40.0,52.0,65.0,63.0,68.0,77.0
+Kwon Kyung Won,Seongnam FC,Korea Republic,defender,64.0,39.0,60.0,61.0,72.0,78.0
+Rochinha,Vitória de Guimarães,Portugal,attacker,83.0,66.0,82.0,68.0,40.0,52.0
+D. Gómez,Deportivo Pasto,Colombia,defender,77.0,57.0,63.0,57.0,62.0,75.0
+H. Goya,Oita Trinita,Japan,attacker,70.0,67.0,63.0,52.0,28.0,62.0
+P. Ba,Le Havre AC,Senegal,attacker,72.0,72.0,67.0,52.0,26.0,68.0
+Sokratis,Olympiacos CFP,Greece,defender,63.0,53.0,60.0,53.0,78.0,80.0
+C. Piccini,Valencia CF,Italy,defender,75.0,42.0,71.0,64.0,74.0,76.0
+G. Escalante,Lazio,Argentina,midfielder,66.0,67.0,72.0,72.0,75.0,75.0
+J. Þorsteinsson,Aarhus GF,Iceland,attacker,78.0,62.0,73.0,62.0,39.0,65.0
+L. Bonucci,Juventus,Italy,defender,64.0,58.0,72.0,69.0,86.0,80.0
+P. Farkas,FC Luzern,Austria,defender,83.0,61.0,67.0,64.0,64.0,77.0
+T. Sana,IFK Göteborg,Sweden,midfielder,77.0,65.0,71.0,62.0,32.0,61.0
+Miguel Veloso,Hellas Verona,Portugal,midfielder,46.0,70.0,76.0,83.0,66.0,71.0
+L. Di Plácido,Club Atlético Lanús,Argentina,defender,86.0,60.0,74.0,63.0,65.0,72.0
+H. Kamara,OGC Nice,Côte d'Ivoire,defender,88.0,61.0,76.0,69.0,71.0,76.0
+L. Barreiro Martins,1. FSV Mainz 05,Luxembourg,midfielder,67.0,56.0,77.0,66.0,69.0,61.0
+I. Maggi,Racing Club,Argentina,attacker,76.0,66.0,65.0,51.0,28.0,60.0
+A. Souquet,Montpellier Hérault SC,France,defender,70.0,59.0,71.0,70.0,71.0,70.0
+L. Jović,Real Madrid CF,Serbia,attacker,75.0,80.0,78.0,68.0,29.0,74.0
+Y. Cabral,Atlético Tucumán,Argentina,defender,41.0,29.0,44.0,46.0,73.0,69.0
+Allison Sireo,Associação Chapecoense de Futebol,Brazil,defender,75.0,35.0,41.0,42.0,72.0,71.0
+J. Bertilsson,Degerfors IF,Sweden,attacker,72.0,61.0,66.0,63.0,32.0,59.0
+S. Alakouch,FC Metz,France,defender,73.0,45.0,72.0,67.0,70.0,65.0
+E. Ómarsson,Nîmes Olympique,Iceland,attacker,82.0,64.0,68.0,54.0,37.0,70.0
+Pedro Nuno,Belenenses SAD,Portugal,attacker,67.0,74.0,77.0,76.0,39.0,64.0
+U. Demirok,Yukatel Kayserispor,Turkey,defender,32.0,44.0,56.0,55.0,70.0,72.0
+A. Hurtado,Pachuca,Colombia,attacker,84.0,71.0,74.0,67.0,47.0,69.0
+I. Schranz,SK Slavia Praha,Slovakia,attacker,83.0,76.0,70.0,63.0,30.0,73.0
+M. Muheim,Hamburger SV,Switzerland,defender,73.0,55.0,65.0,65.0,65.0,67.0
+T. Wiesner,AC Sparta Praha,Czech Republic,defender,80.0,61.0,73.0,66.0,66.0,60.0
+B. Gibson,Norwich City,England,defender,53.0,29.0,52.0,49.0,73.0,68.0
+R. Hack,DSC Arminia Bielefeld,Germany,midfielder,83.0,67.0,76.0,63.0,33.0,51.0
+G. Reyna,Borussia Dortmund,United States,midfielder,77.0,71.0,82.0,74.0,36.0,71.0
+J. Price,Colorado Rapids,England,midfielder,48.0,47.0,65.0,73.0,63.0,74.0
+D. Man,Parma,Romania,attacker,86.0,72.0,75.0,68.0,48.0,70.0
+A. Young,Aston Villa,England,defender,72.0,66.0,77.0,74.0,73.0,68.0
+Rafael Santos,APOEL Nicosia FC,Brazil,defender,62.0,26.0,43.0,38.0,65.0,67.0
+A. Scholz,Urawa Red Diamonds,Denmark,defender,72.0,55.0,68.0,65.0,75.0,79.0
+L. Dietz,FC Würzburger Kickers,Germany,defender,59.0,37.0,58.0,53.0,66.0,69.0
+L. Rosić,Moreirense FC,Serbia,defender,52.0,29.0,48.0,46.0,71.0,73.0
+B. Godeau,KAA Gent,Belgium,defender,35.0,35.0,51.0,56.0,70.0,67.0
+D. Heintz,Sport-Club Freiburg,Germany,defender,59.0,37.0,59.0,60.0,74.0,79.0
+H. Kiyotake,Cerezo Osaka,Japan,midfielder,70.0,68.0,72.0,70.0,41.0,62.0
+Jamiro Monteiro,Philadelphia Union,Cape Verde Islands,midfielder,75.0,63.0,78.0,73.0,64.0,76.0
+A. Maitland-Niles,Arsenal,England,midfielder,81.0,63.0,77.0,70.0,71.0,72.0
+E. Mena,Racing Club,Chile,defender,83.0,51.0,73.0,70.0,68.0,78.0
+P. Yade,FC Metz,Senegal,attacker,79.0,68.0,68.0,59.0,29.0,64.0
+Xeka,LOSC Lille,Portugal,midfielder,55.0,61.0,75.0,74.0,71.0,77.0
+M. Pittón,Unión de Santa Fe,Argentina,midfielder,76.0,53.0,68.0,65.0,62.0,68.0
+R. Aguirre,Club Necaxa,Uruguay,attacker,76.0,72.0,65.0,54.0,23.0,65.0
+S. Tonali,AC Milan,Italy,midfielder,78.0,65.0,76.0,77.0,72.0,76.0
+J. Defoe,Rangers FC,England,attacker,55.0,74.0,72.0,58.0,26.0,42.0
+P. Stolarski,Pogoń Szczecin,Poland,defender,83.0,51.0,64.0,61.0,57.0,66.0
+M. Heinloth,FC Ingolstadt 04,Germany,defender,71.0,41.0,64.0,55.0,62.0,72.0
+A. Doldán,Gallos Blancos de Querétaro,Paraguay,defender,64.0,31.0,47.0,45.0,67.0,65.0
+N. Kanté,Chelsea,France,midfielder,78.0,66.0,82.0,75.0,87.0,83.0
+K. Schlotterbeck,Sport-Club Freiburg,Germany,defender,66.0,26.0,54.0,51.0,74.0,72.0
+M. Martínez,Racing Club,Argentina,defender,63.0,54.0,64.0,64.0,71.0,78.0
+A. Sedlar,RCD Mallorca,Serbia,defender,52.0,40.0,48.0,49.0,71.0,78.0
+D. Barinov,FC Lokomotiv Moscow,Russia,midfielder,68.0,59.0,66.0,63.0,74.0,71.0
+M. Reus,Borussia Dortmund,Germany,midfielder,73.0,84.0,85.0,84.0,47.0,63.0
+C. Johnson,Fleetwood Town,England,defender,71.0,46.0,63.0,59.0,60.0,73.0
+I. Franco,Club Libertad,Paraguay,attacker,80.0,67.0,72.0,56.0,37.0,60.0
+F. Sierralta,Watford,Chile,defender,53.0,30.0,53.0,50.0,70.0,76.0
+F. Avenatti,Royale Union Saint-Gilloise,Uruguay,attacker,49.0,67.0,66.0,66.0,44.0,76.0
+L. Smith,Dundee United,Scotland,defender,71.0,40.0,61.0,56.0,62.0,70.0
+H. Wolf,Borussia Mönchengladbach,Austria,midfielder,77.0,69.0,77.0,67.0,36.0,65.0
+Arribas,Real Oviedo,Spain,defender,69.0,41.0,58.0,55.0,71.0,74.0
+G. Mancini,Roma,Italy,defender,61.0,45.0,59.0,50.0,80.0,84.0
+L. Ceppitelli,Cagliari,Italy,defender,51.0,33.0,44.0,35.0,76.0,70.0
+Y. Matsuo,Yokohama FC,Japan,midfielder,84.0,61.0,68.0,60.0,58.0,63.0
+S. Galindo,Club Always Ready,Bolivia,midfielder,74.0,58.0,64.0,68.0,47.0,61.0
+A. Donatti,San Lorenzo de Almagro,Argentina,defender,40.0,59.0,52.0,53.0,73.0,73.0
+G. Martínez,Al Nassr,Argentina,midfielder,87.0,72.0,82.0,73.0,34.0,62.0
+A. Yusuf,Royal Antwerp FC,Nigeria,midfielder,81.0,44.0,68.0,64.0,64.0,74.0
+Ros,CD Lugo,Spain,defender,60.0,47.0,57.0,60.0,67.0,64.0
+Caio,Al Ain FC,United Arab Emirates,midfielder,80.0,72.0,75.0,65.0,29.0,66.0
+P. Seguin,SpVgg Greuther Fürth,Germany,midfielder,66.0,59.0,71.0,69.0,68.0,75.0
+F. Koch,WSG Tirol,Austria,defender,73.0,51.0,63.0,55.0,64.0,63.0
+Aitor García,Real Sporting de Gijón,Spain,midfielder,84.0,71.0,72.0,67.0,37.0,63.0
+O. Pachlopník,FC Viktoria Plzeň,Czech Republic,midfielder,76.0,62.0,75.0,65.0,36.0,60.0
+E. Bardhi,Levante Unión Deportiva,North Macedonia,midfielder,75.0,81.0,82.0,78.0,63.0,56.0
+C. Immobile,Lazio,Italy,attacker,86.0,87.0,81.0,67.0,39.0,77.0
+Oh Ban Suk,Incheon United FC,Korea Republic,defender,35.0,24.0,50.0,37.0,70.0,75.0
+M. Jensen,Brentford,Denmark,midfielder,67.0,63.0,73.0,75.0,65.0,70.0
+B. Dejaegere,Toulouse Football Club,Belgium,midfielder,74.0,61.0,76.0,71.0,67.0,73.0
+L. Donnelly,Motherwell,Northern Ireland,midfielder,64.0,65.0,63.0,61.0,64.0,72.0
+T. Shimakawa,Sagan Tosu,Japan,midfielder,60.0,55.0,57.0,57.0,64.0,70.0
+F. Frans,K Beerschot VA,Belgium,defender,43.0,40.0,48.0,50.0,69.0,76.0
+D. Musto,Club Atlético Peñarol,Argentina,midfielder,44.0,49.0,61.0,65.0,69.0,75.0
+Dodi,Kashiwa Reysol,Brazil,midfielder,72.0,58.0,73.0,67.0,60.0,61.0
+M. Svoboda,Venezia FC,Austria,midfielder,58.0,41.0,58.0,53.0,65.0,77.0
+Adão Salvadaldo,Club Athletico Paranaense,Brazil,attacker,72.0,73.0,75.0,51.0,26.0,51.0
+F. Panák,AC Sparta Praha,Czech Republic,defender,70.0,53.0,66.0,64.0,67.0,67.0
+S. Gómez,Atlético Nacional,Colombia,midfielder,63.0,60.0,65.0,59.0,64.0,72.0
+D. Blind,Ajax,Netherlands,defender,45.0,64.0,79.0,82.0,83.0,72.0
+M. Chrapek,Piast Gliwice,Poland,midfielder,58.0,60.0,69.0,64.0,63.0,58.0
+Jorginhson,Ceará Sporting Club,Brazil,midfielder,70.0,57.0,74.0,68.0,76.0,64.0
+S. Ambrosius,Hamburger SV,Germany,defender,68.0,30.0,52.0,45.0,68.0,77.0
+B. Smith,Seattle Sounders FC,Australia,defender,78.0,49.0,65.0,60.0,62.0,66.0
+N. Toko,FC Würzburger Kickers,Congo DR,midfielder,76.0,54.0,69.0,59.0,60.0,77.0
+V. Korniienko,Shakhtar Donetsk,Ukraine,defender,75.0,43.0,70.0,71.0,65.0,76.0
+Cristian Lodeira,Juventude,Brazil,attacker,78.0,69.0,76.0,58.0,29.0,52.0
+A. Pearce,Millwall,Republic of Ireland,defender,33.0,26.0,43.0,44.0,69.0,75.0
+Welliton Helmes,Internacional,Brazil,midfielder,71.0,63.0,71.0,61.0,30.0,56.0
+M. Stoppelkamp,MSV Duisburg,Germany,midfielder,62.0,67.0,69.0,67.0,47.0,65.0
+Choi Bo Kyung,Jeonbuk Hyundai Motors,Korea Republic,defender,60.0,39.0,53.0,55.0,63.0,75.0
+R. Massimo,VfB Stuttgart,Germany,midfielder,87.0,59.0,70.0,56.0,53.0,59.0
+N. Orellana,Unión La Calera,Chile,attacker,78.0,65.0,68.0,62.0,28.0,71.0
+M. Suárez,River Plate,Argentina,attacker,79.0,77.0,83.0,77.0,44.0,75.0
+Y. Eteki,Granada CF,Cameroon,midfielder,63.0,55.0,69.0,66.0,70.0,76.0
+R. Nicolaisen,Toulouse Football Club,Denmark,defender,61.0,41.0,55.0,50.0,65.0,73.0
+C. Verdonk,N.E.C. Nijmegen,Netherlands,defender,65.0,58.0,67.0,67.0,66.0,65.0
+G. Kyriakopoulos,U.S. Sassuolo Calcio,Greece,defender,70.0,48.0,65.0,59.0,66.0,69.0
+L. Dos Santos,Valenciennes FC,France,defender,54.0,48.0,65.0,63.0,68.0,63.0
+N. Süle,FC Bayern München,Germany,defender,65.0,42.0,51.0,59.0,83.0,81.0
+Pelé,AS Monaco,Guinea Bissau,midfielder,71.0,60.0,69.0,65.0,70.0,79.0
+J. Morel,FC Lorient,Madagascar,defender,50.0,44.0,57.0,60.0,74.0,71.0
+P. Zinckernagel,Nottingham Forest,Denmark,attacker,87.0,71.0,76.0,71.0,42.0,68.0
+J. Clarke-Harris,Peterborough United,England,attacker,77.0,72.0,65.0,54.0,27.0,78.0
+Pedro Pereira,AC Monza,Portugal,midfielder,72.0,39.0,71.0,66.0,69.0,61.0
+M. Taylor,Oxford United,England,attacker,74.0,66.0,67.0,58.0,26.0,64.0
+H. Fertoli,Club Atlético Talleres,Argentina,midfielder,86.0,63.0,72.0,62.0,41.0,62.0
+Jon Bautista,CD Leganés,Spain,attacker,70.0,75.0,69.0,58.0,26.0,61.0
+M. Urruti,Houston Dynamo,Argentina,attacker,73.0,68.0,72.0,64.0,54.0,68.0
+J. Lindstrøm,Eintracht Frankfurt,Denmark,midfielder,81.0,65.0,73.0,66.0,46.0,59.0
+K. Smith,Swansea City,England,midfielder,66.0,55.0,70.0,67.0,68.0,73.0
+Clemente,Real Zaragoza,Spain,defender,70.0,31.0,52.0,54.0,67.0,67.0
+B. Lennon,Atlanta United,United States,defender,72.0,61.0,65.0,69.0,64.0,71.0
+Djaniny,Trabzonspor,Cape Verde Islands,attacker,80.0,71.0,76.0,67.0,35.0,76.0
+S. López,Barcelona Sporting Club,Argentina,midfielder,67.0,61.0,68.0,67.0,50.0,60.0
+M. Caqueret,Olympique Lyonnais,France,midfielder,73.0,58.0,81.0,72.0,72.0,69.0
+Guitián,Club Bolívar,Spain,defender,66.0,41.0,62.0,58.0,70.0,76.0
+M. Browne,Middlesbrough,England,midfielder,84.0,60.0,69.0,61.0,27.0,66.0
+D. Kuzyaev,,Russia,midfielder,80.0,68.0,76.0,73.0,72.0,66.0
+A. Sissoko,AS Saint-Étienne,France,defender,75.0,33.0,59.0,56.0,64.0,63.0
+V. Dragsnes,Lillestrøm SK,Norway,defender,75.0,50.0,57.0,58.0,59.0,69.0
+L. Jara,Vélez Sarsfield,Argentina,defender,70.0,51.0,69.0,65.0,68.0,74.0
+B. Dočkal,AC Sparta Praha,Czech Republic,midfielder,61.0,73.0,75.0,80.0,53.0,58.0
+M. Ritchie,Newcastle United,Scotland,defender,65.0,73.0,76.0,75.0,65.0,69.0
+K. Stewart,Blackpool,England,midfielder,65.0,53.0,66.0,60.0,66.0,69.0
+İ. Parlak,Yukatel Kayserispor,Turkey,attacker,62.0,70.0,65.0,65.0,27.0,66.0
+R. Lauritsen,Dinamo Zagreb,Denmark,defender,61.0,41.0,54.0,58.0,74.0,76.0
+P. De Blasis,FC Cartagena,Argentina,midfielder,72.0,71.0,76.0,68.0,63.0,50.0
+S. Camara,Demir Grup Sivasspor,France,defender,63.0,39.0,52.0,51.0,65.0,78.0
+R. Carrera,Atlético Tucumán,Argentina,midfielder,80.0,64.0,69.0,66.0,42.0,68.0
+J. Błaszczykowski,Wisła Kraków,Poland,midfielder,68.0,70.0,72.0,73.0,58.0,42.0
+F. Pardo,Deportivo Toluca,Colombia,midfielder,77.0,73.0,73.0,69.0,38.0,79.0
+H. Maguire,Manchester United,England,defender,50.0,55.0,70.0,69.0,85.0,87.0
+A. Djiku,RC Strasbourg Alsace,Ghana,defender,71.0,42.0,69.0,66.0,75.0,81.0
+R. Wintle,Blackpool,England,midfielder,70.0,55.0,65.0,62.0,62.0,70.0
+F. Escobar,AD Alcorcón,Panama,defender,77.0,41.0,46.0,40.0,64.0,79.0
+Loren,RCD Espanyol de Barcelona,Spain,attacker,71.0,78.0,74.0,60.0,32.0,74.0
+Jaílson,Dalian Professional Football Club,Brazil,defender,70.0,54.0,64.0,60.0,69.0,76.0
+Mauro Cildinho,Atlético Clube Goianiense,Brazil,defender,74.0,46.0,74.0,68.0,69.0,58.0
+K. Naismith,Luton Town,Scotland,defender,68.0,65.0,66.0,65.0,67.0,74.0
+J. Ryerson,1. FC Union Berlin,Norway,defender,66.0,57.0,66.0,61.0,65.0,74.0
+Rober Ibáñez,CA Osasuna,Spain,midfielder,75.0,67.0,73.0,70.0,48.0,53.0
+J. Marquis,Portsmouth,England,attacker,64.0,66.0,60.0,52.0,39.0,83.0
+L. Villafañez,Panathinaikos FC,Argentina,midfielder,76.0,67.0,74.0,71.0,34.0,50.0
+M. Duelund,N.E.C. Nijmegen,Denmark,midfielder,73.0,66.0,72.0,68.0,42.0,67.0
+D. Arismendi,Montevideo City Torque,Uruguay,midfielder,55.0,50.0,65.0,64.0,71.0,83.0
+D. Arslanagic,Göztepe SK,Belgium,defender,50.0,32.0,56.0,55.0,71.0,74.0
+Isco,Real Madrid CF,Spain,midfielder,66.0,75.0,88.0,80.0,59.0,59.0
+N. Helenius,Silkeborg IF,Denmark,attacker,58.0,67.0,62.0,54.0,32.0,69.0
+J. Tanaka,Vissel Kobe,Japan,attacker,64.0,66.0,66.0,66.0,33.0,64.0
+Bigas,Elche CF,Spain,defender,66.0,52.0,61.0,59.0,72.0,73.0
+Samu,FC Vizela,Portugal,midfielder,77.0,58.0,77.0,64.0,44.0,56.0
+Marcos Paneira,Bahia,Brazil,midfielder,54.0,57.0,68.0,67.0,75.0,68.0
+R. Lewandowski,FC Bayern München,Poland,attacker,78.0,92.0,86.0,79.0,44.0,82.0
+Joaquín,SD Huesca,Spain,midfielder,81.0,61.0,71.0,58.0,24.0,54.0
+Dani Romera,SD Ponferradina,Spain,attacker,85.0,68.0,69.0,55.0,29.0,61.0
+A. Cubas,Nîmes Olympique,Paraguay,midfielder,69.0,52.0,73.0,68.0,74.0,59.0
+K. Rekik,Sevilla FC,Netherlands,defender,67.0,39.0,62.0,58.0,73.0,76.0
+Y. Nader,Al Ain FC,United Arab Emirates,midfielder,60.0,50.0,59.0,56.0,66.0,77.0
+C. Bryson,St. Johnstone FC,Scotland,midfielder,45.0,63.0,67.0,64.0,61.0,55.0
+J. Pendant,New York Red Bulls,France,defender,75.0,32.0,60.0,56.0,63.0,69.0
+T. Rogne,Lech Poznań,Norway,defender,48.0,27.0,48.0,51.0,67.0,70.0
+C. Ansaldi,Torino F.C.,Argentina,defender,77.0,64.0,77.0,76.0,72.0,70.0
+X. Mercier,Oud-Heverlee Leuven,France,midfielder,68.0,71.0,73.0,79.0,52.0,64.0
+X. Kouassi,Pau FC,Côte d'Ivoire,midfielder,70.0,51.0,67.0,61.0,64.0,74.0
+A. Callens,New York City FC,Peru,defender,41.0,33.0,52.0,49.0,70.0,78.0
+Sandro,Getafe CF,Spain,attacker,64.0,75.0,76.0,65.0,30.0,62.0
+Ramon Lopes,Al Fayha,Brazil,attacker,55.0,66.0,68.0,62.0,34.0,71.0
+I. Sosa,Pachuca,Argentina,midfielder,77.0,70.0,73.0,69.0,46.0,70.0
+J. Angulo,Club Deportivo Guadalajara,Mexico,midfielder,78.0,64.0,71.0,69.0,46.0,62.0
+D. Erdmann,1. FC Saarbrücken,Germany,defender,53.0,40.0,50.0,49.0,61.0,86.0
+Hong Chul,Ulsan Hyundai FC,Korea Republic,defender,87.0,49.0,70.0,67.0,64.0,74.0
+P. Dummett,Newcastle United,Wales,defender,64.0,40.0,67.0,63.0,76.0,70.0
+G. Dewaele,KV Kortrijk,Belgium,defender,71.0,61.0,57.0,60.0,65.0,70.0
+S. Bahoken,Angers SCO,Cameroon,attacker,77.0,74.0,73.0,57.0,24.0,73.0
+M. Ndayishimiye,KRC Genk,Belgium,midfielder,81.0,63.0,76.0,70.0,29.0,51.0
+Y. Ben Balla,FC Ingolstadt 04,France,midfielder,67.0,51.0,60.0,53.0,67.0,69.0
+V. Castellón,Club Atlético Palmaflor,Bolivia,midfielder,73.0,66.0,64.0,61.0,34.0,56.0
+Everticinho,RB Bragantino,Brazil,defender,78.0,71.0,76.0,71.0,74.0,74.0
+Barbero,CA Osasuna,Spain,attacker,71.0,67.0,64.0,48.0,21.0,65.0
+A. Pelmard,FC Basel 1893,France,defender,77.0,35.0,68.0,61.0,69.0,70.0
+M. Leckie,Melbourne City FC,Australia,attacker,81.0,65.0,73.0,64.0,51.0,70.0
+E. Ávila,CA Osasuna,Argentina,attacker,81.0,81.0,78.0,65.0,44.0,83.0
+K. Noborizato,Kawasaki Frontale,Japan,defender,90.0,57.0,72.0,64.0,61.0,69.0
+A. Mendy,Stade Malherbe Caen,Guinea Bissau,attacker,70.0,68.0,63.0,50.0,24.0,78.0
+G. Defrel,U.S. Sassuolo Calcio,France,midfielder,82.0,77.0,81.0,68.0,36.0,51.0
+S. Appelkamp,Fortuna Düsseldorf,Japan,midfielder,73.0,55.0,73.0,68.0,37.0,46.0
+M. Tirpan,Fortuna Sittard,Belgium,defender,72.0,54.0,65.0,65.0,71.0,67.0
+L. Henderson,Empoli,Scotland,midfielder,62.0,60.0,70.0,67.0,53.0,74.0
+Manu García,Deportivo Alavés,Spain,midfielder,78.0,69.0,75.0,72.0,40.0,56.0
+S. Boey,Galatasaray SK,France,defender,86.0,43.0,68.0,60.0,63.0,67.0
+A. Bernabei,Club Atlético Lanús,Argentina,defender,88.0,61.0,74.0,67.0,58.0,69.0
+D. James,Leeds United,Wales,midfielder,95.0,72.0,76.0,70.0,46.0,63.0
+M. Diemers,Feyenoord,Netherlands,midfielder,70.0,69.0,75.0,76.0,61.0,66.0
+C. Warner,Colorado Rapids,United States,midfielder,58.0,61.0,65.0,61.0,61.0,71.0
+J. Méndez,Club Atlético Talleres,Argentina,midfielder,70.0,62.0,71.0,67.0,67.0,70.0
+Á. Brun,Montevideo City Torque,Uruguay,midfielder,59.0,58.0,64.0,61.0,61.0,65.0
+Fabrício Baiano,Çaykur Rizespor,Brazil,midfielder,87.0,55.0,68.0,58.0,68.0,85.0
+N. Theuerkauf,1. FC Heidenheim 1846,Germany,defender,60.0,56.0,63.0,64.0,73.0,76.0
+B. Petković,Dinamo Zagreb,Croatia,attacker,75.0,72.0,80.0,75.0,39.0,77.0
+F. Mancinelli,Club Atlético Sarmiento,Argentina,defender,36.0,43.0,60.0,51.0,70.0,73.0
+T. Huk,Piast Gliwice,Slovakia,defender,63.0,29.0,44.0,47.0,66.0,67.0
+E. Insúa,Club Atlético Aldosivi,Argentina,defender,61.0,60.0,69.0,65.0,67.0,74.0
+Í. Ávila,Club Sporting Cristal,Peru,attacker,66.0,68.0,69.0,47.0,33.0,57.0
+C. Almeida,Club Nacional de Football,Uruguay,defender,56.0,38.0,60.0,58.0,69.0,58.0
+E. Piovi,LDU Quito,Argentina,midfielder,73.0,60.0,69.0,69.0,70.0,70.0
+B. Kapacak,Fenerbahçe SK,Turkey,midfielder,81.0,59.0,69.0,62.0,54.0,64.0
+D. Ball,Wellington Phoenix,England,attacker,73.0,66.0,68.0,62.0,49.0,76.0
+Cleiton Silva,Bengaluru FC,Brazil,attacker,76.0,67.0,67.0,61.0,22.0,65.0
+O. Diakhité,SV Sandhausen,Senegal,defender,71.0,40.0,50.0,46.0,68.0,77.0
+M. Gabbia,AC Milan,Italy,defender,52.0,33.0,52.0,42.0,72.0,71.0
+Lincoln,Santa Clara,Brazil,midfielder,79.0,67.0,77.0,69.0,31.0,63.0
+David García,CA Osasuna,Spain,defender,53.0,37.0,64.0,64.0,78.0,75.0
+R. Otero,Cruz Azul,Venezuela,midfielder,84.0,75.0,79.0,73.0,45.0,55.0
+F. Bonazzoli,US Salernitana 1919,Italy,attacker,70.0,68.0,68.0,53.0,28.0,59.0
+K. Chodyna,Zagłębie Lubin,Poland,defender,79.0,47.0,61.0,55.0,59.0,64.0
+Patrick William,Estoril Praia,Brazil,defender,57.0,64.0,56.0,63.0,68.0,75.0
+M. Comba,Newell's Old Boys,Argentina,midfielder,71.0,68.0,68.0,65.0,33.0,55.0
+A. Čermák,FC Viktoria Plzeň,Czech Republic,midfielder,69.0,68.0,74.0,74.0,43.0,63.0
+Capa,Athletic Club de Bilbao,Spain,defender,82.0,64.0,77.0,76.0,74.0,88.0
+S. Mamba,F.C. Hansa Rostock,Germany,attacker,92.0,65.0,66.0,45.0,26.0,66.0
+Cristiano,Kashiwa Reysol,Brazil,midfielder,77.0,71.0,69.0,69.0,51.0,80.0
+B. Nowak,Górnik Zabrze,Poland,midfielder,62.0,67.0,67.0,66.0,42.0,69.0
+D. Cools,FC Midtjylland,Belgium,defender,75.0,57.0,67.0,65.0,64.0,76.0
+S. Verdi,Torino F.C.,Italy,attacker,80.0,73.0,80.0,75.0,44.0,50.0
+L. Pellegrini,Juventus,Italy,defender,83.0,54.0,72.0,64.0,69.0,61.0
+V. Le Goff,FC Lorient,France,defender,71.0,61.0,71.0,66.0,68.0,69.0
+Á. Mena,Club León,Ecuador,midfielder,81.0,74.0,82.0,72.0,45.0,49.0
+P. Kun,Raków Częstochowa,Poland,midfielder,87.0,48.0,68.0,63.0,58.0,59.0
+J. Brekalo,Torino F.C.,Croatia,midfielder,76.0,73.0,82.0,71.0,35.0,52.0
+N. Tenaglia,Club Atlético Talleres,Argentina,defender,72.0,43.0,72.0,63.0,71.0,76.0
+J. Niezgoda,Portland Timbers,Poland,attacker,79.0,70.0,68.0,51.0,34.0,64.0
+M. Elneny,Arsenal,Egypt,midfielder,56.0,64.0,70.0,73.0,73.0,74.0
+D. Eckert Ayensa,FC Ingolstadt 04,Germany,attacker,79.0,67.0,70.0,47.0,27.0,63.0
+Manu Trigueros,Villarreal CF,Spain,midfielder,56.0,71.0,78.0,78.0,70.0,67.0
+G. Docherty,Hull City,Scotland,midfielder,68.0,62.0,69.0,65.0,65.0,76.0
+E. Wekesser,SSV Jahn Regensburg,Germany,defender,74.0,63.0,66.0,61.0,61.0,77.0
+R. Gravenberch,Ajax,Netherlands,midfielder,77.0,74.0,82.0,77.0,68.0,71.0
+E. Farías,Club de Deportes Cobresal,Chile,midfielder,51.0,42.0,58.0,57.0,69.0,71.0
+K. Edwards,Ipswich Town,England,midfielder,80.0,55.0,72.0,63.0,37.0,56.0
+A. Guðmundsson,AZ Alkmaar,Iceland,midfielder,79.0,66.0,77.0,67.0,34.0,68.0
+U. Hünemeier,SC Paderborn 07,Germany,defender,36.0,47.0,55.0,60.0,72.0,64.0
+Paulolettinho,Fortaleza,Brazil,midfielder,79.0,59.0,72.0,70.0,32.0,63.0
+D. Worrall,Port Vale,England,defender,78.0,60.0,66.0,62.0,54.0,70.0
+F. Herbers,Chicago Fire Football Club,Germany,midfielder,66.0,64.0,66.0,65.0,49.0,68.0
+H. Traorè,U.S. Sassuolo Calcio,Côte d'Ivoire,midfielder,70.0,66.0,75.0,69.0,56.0,59.0
+K. Bonifazi,Bologna,Italy,defender,52.0,35.0,56.0,51.0,75.0,64.0
+M. Thorsby,U.C. Sampdoria,Norway,midfielder,68.0,62.0,71.0,68.0,73.0,80.0
+Kaio Aldair,Fortaleza,Brazil,defender,78.0,56.0,66.0,62.0,63.0,52.0
+G. Corral,Puebla FC,Mexico,defender,65.0,55.0,63.0,62.0,64.0,64.0
+B. Goller,SV Darmstadt 98,Germany,attacker,81.0,65.0,72.0,59.0,52.0,52.0
+J. Akpa Akpro,Lazio,Côte d'Ivoire,midfielder,80.0,67.0,78.0,72.0,74.0,77.0
+I. Chatzitheodoridis,Panathinaikos FC,Greece,defender,78.0,54.0,63.0,60.0,61.0,63.0
+J. Martin,Stade Rennais FC,France,midfielder,56.0,67.0,71.0,73.0,66.0,67.0
+A. Rebić,AC Milan,Croatia,midfielder,86.0,83.0,81.0,75.0,48.0,80.0
+M. Boxall,Minnesota United FC,New Zealand,defender,56.0,42.0,57.0,58.0,67.0,80.0
+R. Jansson,Orlando City Soccer Club,Sweden,defender,47.0,28.0,59.0,53.0,70.0,74.0
+J. Lopez,Paris FC,Algeria,attacker,82.0,61.0,72.0,64.0,40.0,56.0
+I. Sissoko,RC Strasbourg Alsace,France,midfielder,50.0,55.0,66.0,65.0,71.0,84.0
+Gérson Damesio,Flamengo,Brazil,defender,51.0,42.0,57.0,49.0,76.0,76.0
+T. De Smet,K Beerschot VA,Belgium,defender,70.0,47.0,60.0,60.0,66.0,70.0
+F. Guerra,LDU Quito,Ecuador,defender,59.0,43.0,60.0,53.0,70.0,72.0
+P. Chavarría,Málaga CF,Argentina,attacker,67.0,72.0,73.0,68.0,36.0,76.0
+F. Platte,SC Paderborn 07,Germany,attacker,72.0,65.0,62.0,50.0,25.0,74.0
+D. da Costa,Eintracht Frankfurt,Germany,defender,73.0,56.0,70.0,66.0,75.0,82.0
+M. Arnautović,Bologna,Austria,attacker,79.0,81.0,78.0,79.0,44.0,82.0
+U. Cardona,Mazatlán Futbol Club,Mexico,midfielder,76.0,61.0,68.0,63.0,54.0,51.0
+Y. Sarı,Trabzonspor,Turkey,attacker,79.0,65.0,75.0,64.0,32.0,39.0
+D. Barbona,Club Tijuana,Argentina,midfielder,80.0,65.0,72.0,72.0,38.0,67.0
+Carlos Ruiz,CD Tenerife,Spain,defender,64.0,53.0,57.0,57.0,66.0,80.0
+C. Tolisso,FC Bayern München,France,midfielder,66.0,77.0,78.0,77.0,76.0,78.0
+B. Milovanov,Real Sporting de Gijón,Ukraine,defender,73.0,37.0,62.0,51.0,66.0,71.0
+C. Traoré,FC Nantes,Mali,defender,70.0,33.0,64.0,54.0,69.0,77.0
+J. Jones,Wigan Athletic,Northern Ireland,midfielder,91.0,59.0,69.0,63.0,40.0,46.0
+D. Sow,Eintracht Frankfurt,Switzerland,midfielder,79.0,64.0,76.0,77.0,75.0,79.0
+C. Antwi-Adjei,VfL Bochum 1848,Ghana,midfielder,90.0,56.0,75.0,61.0,26.0,53.0
+R. Smallwood,Hull City,England,midfielder,50.0,55.0,57.0,61.0,64.0,72.0
+J. Corona,Houston Dynamo,United States,midfielder,68.0,59.0,69.0,65.0,68.0,70.0
+I. Hayden,Newcastle United,England,midfielder,58.0,60.0,70.0,63.0,75.0,78.0
+J. Spearing,Tranmere Rovers,England,midfielder,54.0,52.0,65.0,63.0,63.0,67.0
+Jair Amador,Real Zaragoza,Portugal,defender,64.0,29.0,47.0,48.0,70.0,81.0
+Paulinho,Hammarby IF,Brazil,attacker,67.0,69.0,68.0,61.0,24.0,70.0
+F. Kaša,FC Viktoria Plzeň,Czech Republic,defender,73.0,35.0,66.0,56.0,71.0,66.0
+A. Ienaga,Kawasaki Frontale,Japan,attacker,75.0,70.0,72.0,73.0,39.0,66.0
+H. Mitsumaru,Kashiwa Reysol,Japan,defender,79.0,29.0,56.0,57.0,61.0,64.0
+P. Wiesinger,LASK Linz,Austria,defender,71.0,54.0,61.0,58.0,73.0,72.0
+Clinton Mata,Club Brugge KV,Angola,defender,82.0,61.0,75.0,68.0,76.0,80.0
+M. Bani,Genoa,Italy,defender,56.0,18.0,53.0,42.0,73.0,70.0
+Ronaldo Cabrais,Grêmio,Brazil,midfielder,88.0,77.0,84.0,83.0,35.0,72.0
+Kim Young Gwon,Gamba Osaka,Korea Republic,defender,69.0,45.0,58.0,62.0,71.0,78.0
+J. Mojica,Elche CF,Colombia,defender,91.0,65.0,71.0,70.0,68.0,72.0
+K. Boateng,Santa Clara,Ghana,defender,68.0,41.0,46.0,41.0,65.0,75.0
+W. Araujo,Club River Plate Asunción,Paraguay,midfielder,70.0,67.0,69.0,64.0,26.0,56.0
+Prazeracinho,Flamengo,Brazil,attacker,78.0,69.0,79.0,77.0,45.0,54.0
+Kang Sang Woo,Pohang Steelers,Korea Republic,defender,82.0,64.0,68.0,70.0,65.0,62.0
+Arsénio,FC Arouca,Portugal,midfielder,74.0,66.0,74.0,68.0,40.0,63.0
+S. Ramírez,Unión La Calera,Chile,defender,71.0,46.0,62.0,60.0,62.0,65.0
+M. Wdowiak,Raków Częstochowa,Poland,midfielder,88.0,57.0,66.0,60.0,41.0,63.0
+Arthur Silbeira,Santos,Brazil,attacker,64.0,73.0,68.0,59.0,29.0,58.0
+D. Aimar,Barcelona Sporting Club,Ecuador,defender,64.0,29.0,51.0,47.0,71.0,72.0
+J. Fontaine,Le Havre AC,France,midfielder,62.0,65.0,66.0,69.0,60.0,69.0
+R. James,Blackpool,England,defender,76.0,51.0,67.0,58.0,63.0,59.0
+Y. Koizumi,Urawa Red Diamonds,Japan,midfielder,75.0,62.0,70.0,65.0,55.0,53.0
+Jesús Navas,Sevilla FC,Spain,defender,87.0,69.0,83.0,81.0,79.0,58.0
+L. Grabban,Nottingham Forest,England,attacker,61.0,71.0,68.0,59.0,31.0,67.0
+B. Rivero,Defensa y Justicia,Argentina,midfielder,63.0,43.0,66.0,62.0,63.0,69.0
+K. Pallesen,Aalborg BK,Denmark,defender,73.0,37.0,65.0,58.0,59.0,71.0
+J. Carroll,Motherwell,Republic of Ireland,defender,72.0,39.0,59.0,62.0,59.0,64.0
+E. Aguirre,Santos Laguna,Mexico,attacker,82.0,68.0,71.0,58.0,31.0,66.0
+Arthur,Juventus,Brazil,midfielder,69.0,67.0,88.0,83.0,72.0,70.0
+A. Hegazi,Al Ittihad,Egypt,defender,48.0,20.0,55.0,50.0,76.0,82.0
+M. Caicedo,Guayaquil City FC,Ecuador,midfielder,77.0,59.0,63.0,61.0,35.0,56.0
+B. Koita,Trabzonspor,Guinea,attacker,79.0,69.0,70.0,60.0,23.0,68.0
+Z. Yavru,GZT Giresunspor,Turkey,defender,66.0,53.0,65.0,58.0,64.0,69.0
+V. Supriaha,Dynamo Kyiv,Ukraine,attacker,87.0,70.0,71.0,50.0,19.0,51.0
+G. Bayrakdar,Antalyaspor,Turkey,midfielder,73.0,66.0,69.0,62.0,37.0,58.0
+Negredo,Cádiz CF,Spain,attacker,59.0,81.0,72.0,64.0,36.0,77.0
+Jairo,Hajduk Split,Brazil,attacker,83.0,69.0,69.0,62.0,39.0,64.0
+R. Vanegas,Deportivo Pasto,Colombia,midfielder,84.0,64.0,69.0,55.0,31.0,69.0
+M. Sansores,Club Tijuana,Mexico,attacker,65.0,66.0,63.0,53.0,35.0,60.0
+J. Vagnoman,Hamburger SV,Germany,defender,87.0,44.0,67.0,60.0,66.0,79.0
+Ferran Torres,Manchester City,Spain,attacker,82.0,79.0,82.0,78.0,35.0,66.0
+Romarinho,Al Ittihad,Brazil,midfielder,86.0,75.0,80.0,71.0,30.0,64.0
+A. Diamanti,Western United FC,Italy,midfielder,58.0,72.0,79.0,78.0,33.0,64.0
+F. Krovinović,Hajduk Split,Croatia,midfielder,67.0,67.0,74.0,72.0,59.0,62.0
+P. González,Deportivo Toluca,Mexico,midfielder,52.0,66.0,68.0,71.0,64.0,71.0
+Ismael,Al Faisaly,Brazil,midfielder,69.0,58.0,77.0,72.0,55.0,68.0
+Bruno Wilson,FC Vizela,Portugal,defender,51.0,30.0,49.0,45.0,70.0,75.0
+Kim Jong Woo,GwangJu FC,Korea Republic,midfielder,72.0,62.0,67.0,67.0,58.0,54.0
+H. Wingo,Ferencvárosi TC,United States,defender,81.0,54.0,65.0,58.0,61.0,70.0
+Marco Soares,FC Arouca,Cape Verde Islands,midfielder,66.0,56.0,63.0,60.0,61.0,73.0
+R. Edwards,Dundee United,England,defender,51.0,34.0,44.0,45.0,66.0,78.0
+A. Ruiz,Arsenal de Sarandí,Argentina,midfielder,54.0,72.0,75.0,74.0,34.0,68.0
+S. Al Najai,Al Nassr,Saudi Arabia,midfielder,77.0,64.0,70.0,64.0,57.0,64.0
+J. Windass,Sheffield Wednesday,England,attacker,86.0,67.0,70.0,64.0,35.0,65.0
+Joaquín,Real Valladolid CF,Spain,defender,65.0,48.0,59.0,61.0,75.0,78.0
+B. Franjic,Dinamo Zagreb,Croatia,midfielder,76.0,50.0,63.0,62.0,68.0,75.0
+A. Cordea,FCSB (Steaua),Romania,attacker,84.0,64.0,70.0,66.0,40.0,66.0
+Mossa,Real Oviedo,Spain,defender,60.0,54.0,63.0,64.0,63.0,60.0
+Narcisso Mau,Associação Chapecoense de Futebol,Brazil,defender,64.0,55.0,57.0,61.0,63.0,67.0
+Diego González,Elche CF,Spain,defender,68.0,32.0,60.0,59.0,71.0,74.0
+J. Campbell,CF Monterrey,Costa Rica,attacker,81.0,75.0,77.0,73.0,41.0,75.0
+R. Hendriks,Feyenoord,Netherlands,defender,70.0,33.0,57.0,54.0,66.0,66.0
+T. Sparv,HJK Helsinki,Finland,midfielder,31.0,55.0,57.0,61.0,66.0,68.0
+T. Guidara,Vélez Sarsfield,Argentina,defender,81.0,41.0,67.0,62.0,67.0,77.0
+Elady,CD Tenerife,Spain,attacker,74.0,69.0,66.0,65.0,39.0,67.0
+Abdu Conté,Moreirense FC,Portugal,defender,76.0,46.0,65.0,52.0,65.0,76.0
+Y. Toyokawa,Cerezo Osaka,Japan,attacker,81.0,66.0,68.0,56.0,21.0,60.0
+Catena,Rayo Vallecano,Spain,defender,68.0,39.0,50.0,54.0,74.0,78.0
+D. Buonanotte,Universidad Católica,Argentina,midfielder,83.0,67.0,79.0,76.0,30.0,37.0
+M. van Ginkel,PSV,Netherlands,midfielder,60.0,76.0,74.0,76.0,70.0,74.0
+K. Coman,FC Bayern München,France,midfielder,93.0,76.0,88.0,79.0,30.0,60.0
+A. Andersson,Rosenborg BK,Sweden,defender,76.0,45.0,65.0,59.0,62.0,66.0
+J. Pigott,Ipswich Town,England,attacker,67.0,67.0,66.0,54.0,31.0,74.0
+O. Reabciuk,Olympiacos CFP,Moldova,defender,81.0,35.0,66.0,57.0,64.0,63.0
+Bolaño,Real Oviedo,Spain,defender,61.0,56.0,58.0,61.0,66.0,74.0
+Ž. Gavrić,Ferencvárosi TC,Serbia,midfielder,76.0,65.0,66.0,67.0,52.0,60.0
+Marteli,Club The Strongest,Bolivia,defender,58.0,26.0,49.0,40.0,66.0,73.0
+R. Aguilar,AS Monaco,France,defender,79.0,53.0,76.0,72.0,74.0,77.0
+V. Darida,Hertha BSC,Czech Republic,midfielder,66.0,70.0,78.0,74.0,70.0,63.0
+Antonaldo Laforte,Fluminense,Brazil,midfielder,63.0,65.0,61.0,68.0,26.0,72.0
+J. Andersson,FC Midtjylland,Sweden,defender,82.0,47.0,69.0,64.0,63.0,70.0
+D. Kinsombi,Hamburger SV,Germany,midfielder,70.0,62.0,72.0,62.0,66.0,74.0
+Zapater,Real Zaragoza,Spain,midfielder,48.0,64.0,61.0,69.0,66.0,70.0
+A. Rodales,Club Atlético Rentistas,Uruguay,defender,64.0,48.0,59.0,58.0,66.0,68.0
+D. Gissi,Unión de Santa Fe,Switzerland,defender,37.0,46.0,55.0,58.0,64.0,78.0
+H. ter Avest,FC Utrecht,Netherlands,defender,72.0,53.0,71.0,67.0,68.0,72.0
+A. Semenyo,Bristol City,England,midfielder,84.0,62.0,69.0,56.0,21.0,73.0
+R. Nteka,Rayo Vallecano,France,attacker,75.0,72.0,73.0,65.0,58.0,82.0
+Mário Fernandes,PFC CSKA Moscow,Russia,defender,82.0,61.0,78.0,74.0,79.0,79.0
+D. Drinkwater,Reading,England,midfielder,53.0,66.0,72.0,73.0,70.0,63.0
+G. Kerk,FC Lokomotiv Moscow,Netherlands,attacker,93.0,70.0,75.0,65.0,34.0,74.0
+B. Boulenger,Seraing,France,defender,62.0,32.0,60.0,59.0,63.0,73.0
+L. Craig,St. Johnstone FC,Scotland,midfielder,43.0,66.0,66.0,68.0,61.0,72.0
+M. Zullo,Sydney FC,Australia,defender,68.0,51.0,68.0,62.0,62.0,71.0
+A. Gomes,LOSC Lille,England,midfielder,75.0,70.0,74.0,69.0,40.0,58.0
+G. Shinnie,Derby County,Scotland,midfielder,68.0,45.0,66.0,67.0,69.0,74.0
+Ander Herrera,Paris Saint-Germain,Spain,midfielder,65.0,70.0,79.0,77.0,78.0,75.0
+Aridane,CA Osasuna,Spain,defender,56.0,36.0,55.0,54.0,76.0,84.0
+A. Ömür,Trabzonspor,Turkey,attacker,83.0,66.0,81.0,70.0,39.0,56.0
+A. Kampetsis,Willem II,Greece,attacker,76.0,65.0,69.0,60.0,28.0,66.0
+E. Janža,Górnik Zabrze,Slovenia,defender,69.0,47.0,62.0,63.0,62.0,67.0
+K. Behrens,1. FC Union Berlin,Germany,attacker,69.0,71.0,65.0,50.0,28.0,80.0
+Y. Gómez Andrade,Seattle Sounders FC,Colombia,defender,60.0,33.0,58.0,47.0,75.0,86.0
+J. Cristaldo,Newell's Old Boys,Argentina,attacker,74.0,70.0,74.0,64.0,29.0,70.0
+A. Bodzek,Fortuna Düsseldorf,Poland,midfielder,53.0,54.0,57.0,61.0,71.0,72.0
+J. Amavi,Olympique de Marseille,France,defender,76.0,65.0,74.0,70.0,75.0,76.0
+J. Collins,SC Paderborn 07,Nigeria,defender,77.0,36.0,73.0,58.0,68.0,67.0
+P. Mullin,Wrexham AFC,England,attacker,75.0,67.0,66.0,55.0,38.0,72.0
+S. Diomande,Olympique Lyonnais,Côte d'Ivoire,defender,63.0,46.0,60.0,60.0,71.0,74.0
+F. Vázquez,Parma,Argentina,midfielder,49.0,78.0,76.0,77.0,58.0,71.0
+W. Saliba,Olympique de Marseille,France,defender,70.0,33.0,66.0,62.0,76.0,77.0
+Pedrinho,Shakhtar Donetsk,Brazil,midfielder,82.0,68.0,80.0,71.0,34.0,55.0
+K. Bellarabi,Bayer 04 Leverkusen,Germany,attacker,85.0,76.0,81.0,71.0,34.0,72.0
+R. Kolo Muani,FC Nantes,France,attacker,82.0,69.0,77.0,60.0,31.0,61.0
